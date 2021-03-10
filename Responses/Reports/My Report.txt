@@ -1,0 +1,51 @@
+Kanban image name: Kanban-10-joutput
+# of Sections: 5
+# of Cards: 16
+Kanban Content:
+Section name: Estórias de Usuário 
+# of Cards in: 2
+Cards:
+Id: 1
+Como diretor financeiro eu gostaria de ver as tendências mensais de vendas 
+Id: 12
+Este é um exemplo. 
+Section name: Em andamento 
+# of Cards in: 3
+Cards:
+Id: 4
+Alterar Interface de usuário. 
+Id: 7
+Este é um exemplo. 
+Id: 13
+Este é um exemplo. 
+Section name: A fazer 
+# of Cards in: 6
+Cards:
+Id: 2
+Desenvolver relatório com 4 colunas e um gráfico pizza. 
+Id: 5
+Atualizar documentação de usuário. 
+Id: 9
+Este é um exemplo. 
+Id: 10
+Este é um exemplo. 
+Id: 14
+Este é um exemplo. 
+Id: 15
+Este é um exemplo. 
+Section name: Pronto! 
+# of Cards in: 2
+Cards:
+Id: 6
+Dashboard de vendas - gráfico de linhas. 
+Id: 11
+Este é um exemplo. 
+Section name: Em testes 
+# of Cards in: 3
+Cards:
+Id: 3
+Query de extração de dados. 
+Id: 8
+Este é um exemplo. 
+Id: 16
+Este é um exemplo. 
