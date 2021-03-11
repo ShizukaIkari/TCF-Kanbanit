@@ -25,12 +25,11 @@ def build_myjson(g_document):
                         BreakType = symbol.property.detected_break.type_
                         # Even though there's types of breaks, I decided that simply adding a space will do
                         if BreakType in [BreakType.SPACE, BreakType.SURE_SPACE, BreakType.EOL_SURE_SPACE, BreakType.HYPHEN, BreakType.LINE_BREAK]:
-                            # Using str.format() instead of str() to prevent enconding issues
-                            w_content += '{} '.format(symbol.text)
+                            w_content += (symbol.text).encode('cp1252', 'ignore').decode('UTF-8') + ' '
                         else:
-                            w_content += '{}'.format(symbol.text)
-                    p_contents += w_content #+ ' '
-            block_dic = {'bounding_box': get_bounding_box(block.bounding_box), 'text': p_contents}
+                            w_content += (symbol.text).encode('cp1252', 'ignore').decode('UTF-8')
+                    p_contents += w_content
+            block_dic = {'bounding_box': get_bounding_box(block.bounding_box), 'text': p_contents.strip()}
             kanban_cards['cards'].append(block_dic)
         if len(g_document.pages) > 1:
             print(g_document.pages)
