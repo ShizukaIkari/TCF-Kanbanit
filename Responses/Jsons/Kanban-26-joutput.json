@@ -1,0 +1,361 @@
+{
+    "cards": [
+        {
+            "bounding_box": [
+                [
+                    151,
+                    87
+                ],
+                [
+                    296,
+                    87
+                ],
+                [
+                    296,
+                    117
+                ],
+                [
+                    151,
+                    117
+                ]
+            ],
+            "text": "Certezas"
+        },
+        {
+            "bounding_box": [
+                [
+                    574,
+                    84
+                ],
+                [
+                    763,
+                    84
+                ],
+                [
+                    763,
+                    125
+                ],
+                [
+                    574,
+                    125
+                ]
+            ],
+            "text": "Suposies"
+        },
+        {
+            "bounding_box": [
+                [
+                    1017,
+                    84
+                ],
+                [
+                    1150,
+                    84
+                ],
+                [
+                    1150,
+                    117
+                ],
+                [
+                    1017,
+                    117
+                ]
+            ],
+            "text": "Dvidas"
+        },
+        {
+            "bounding_box": [
+                [
+                    75,
+                    189
+                ],
+                [
+                    180,
+                    189
+                ],
+                [
+                    180,
+                    299
+                ],
+                [
+                    75,
+                    299
+                ]
+            ],
+            "text": "A netflix abriu o mercado de streaming e hoje possui grandes concorrentes de mercado"
+        },
+        {
+            "bounding_box": [
+                [
+                    289,
+                    193
+                ],
+                [
+                    400,
+                    192
+                ],
+                [
+                    401,
+                    297
+                ],
+                [
+                    290,
+                    298
+                ]
+            ],
+            "text": "Produes prprias so grandes sucessos"
+        },
+        {
+            "bounding_box": [
+                [
+                    525,
+                    188
+                ],
+                [
+                    627,
+                    188
+                ],
+                [
+                    627,
+                    298
+                ],
+                [
+                    525,
+                    298
+                ]
+            ],
+            "text": "As sugestes de filmes e sries no satisfazem os usurios"
+        },
+        {
+            "bounding_box": [
+                [
+                    730,
+                    198
+                ],
+                [
+                    835,
+                    197
+                ],
+                [
+                    836,
+                    290
+                ],
+                [
+                    731,
+                    291
+                ]
+            ],
+            "text": "As categorias poderiam ter um submenu com a origem de cada srie ou filme"
+        },
+        {
+            "bounding_box": [
+                [
+                    945,
+                    184
+                ],
+                [
+                    1055,
+                    183
+                ],
+                [
+                    1056,
+                    267
+                ],
+                [
+                    946,
+                    268
+                ]
+            ],
+            "text": "Os usurios gostariam de perfis independentes?"
+        },
+        {
+            "bounding_box": [
+                [
+                    1135,
+                    178
+                ],
+                [
+                    1242,
+                    178
+                ],
+                [
+                    1242,
+                    268
+                ],
+                [
+                    1135,
+                    268
+                ]
+            ],
+            "text": "A falta de contedo infantil faz os usurios procurarem os concorrentes?"
+        },
+        {
+            "bounding_box": [
+                [
+                    71,
+                    373
+                ],
+                [
+                    183,
+                    373
+                ],
+                [
+                    183,
+                    483
+                ],
+                [
+                    71,
+                    483
+                ]
+            ],
+            "text": "Netflix est preocupada com o lanamento da Disney+"
+        },
+        {
+            "bounding_box": [
+                [
+                    300,
+                    386
+                ],
+                [
+                    401,
+                    386
+                ],
+                [
+                    401,
+                    470
+                ],
+                [
+                    300,
+                    470
+                ]
+            ],
+            "text": "Uma das plataformas de stream nais utilizadas"
+        },
+        {
+            "bounding_box": [
+                [
+                    519,
+                    383
+                ],
+                [
+                    631,
+                    384
+                ],
+                [
+                    630,
+                    487
+                ],
+                [
+                    518,
+                    486
+                ]
+            ],
+            "text": "Os usurios gostariam de saber quais filmes cada ator ou atriz fizeram"
+        },
+        {
+            "bounding_box": [
+                [
+                    726,
+                    381
+                ],
+                [
+                    839,
+                    381
+                ],
+                [
+                    839,
+                    487
+                ],
+                [
+                    726,
+                    487
+                ]
+            ],
+            "text": "Diminuio de clientes devido a outras plataformas de stream"
+        },
+        {
+            "bounding_box": [
+                [
+                    946,
+                    373
+                ],
+                [
+                    1054,
+                    373
+                ],
+                [
+                    1054,
+                    459
+                ],
+                [
+                    946,
+                    459
+                ]
+            ],
+            "text": "A experincia de uso afasta OS concorrentes?"
+        },
+        {
+            "bounding_box": [
+                [
+                    1131,
+                    372
+                ],
+                [
+                    1244,
+                    370
+                ],
+                [
+                    1245,
+                    461
+                ],
+                [
+                    1132,
+                    463
+                ]
+            ],
+            "text": "Usurios tem problemas em acompanhar cada srie que esto assistindo?"
+        },
+        {
+            "bounding_box": [
+                [
+                    614,
+                    550
+                ],
+                [
+                    724,
+                    549
+                ],
+                [
+                    726,
+                    664
+                ],
+                [
+                    616,
+                    665
+                ]
+            ],
+            "text": "Os usurios gostariam de poder ouvir as trilhas sonoras dos filmes/sries diretamente da Netflix"
+        },
+        {
+            "bounding_box": [
+                [
+                    1244,
+                    711
+                ],
+                [
+                    1285,
+                    711
+                ],
+                [
+                    1285,
+                    727
+                ],
+                [
+                    1244,
+                    727
+                ]
+            ],
+            "text": "miro"
+        }
+    ]
+}

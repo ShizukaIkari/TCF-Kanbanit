@@ -1,0 +1,277 @@
+{
+    "cards": [
+        {
+            "bounding_box": [
+                [
+                    100,
+                    36
+                ],
+                [
+                    185,
+                    37
+                ],
+                [
+                    185,
+                    64
+                ],
+                [
+                    100,
+                    63
+                ]
+            ],
+            "text": "To Do"
+        },
+        {
+            "bounding_box": [
+                [
+                    364,
+                    31
+                ],
+                [
+                    519,
+                    32
+                ],
+                [
+                    519,
+                    64
+                ],
+                [
+                    364,
+                    63
+                ]
+            ],
+            "text": "This Week"
+        },
+        {
+            "bounding_box": [
+                [
+                    698,
+                    34
+                ],
+                [
+                    789,
+                    34
+                ],
+                [
+                    789,
+                    69
+                ],
+                [
+                    698,
+                    69
+                ]
+            ],
+            "text": "Today"
+        },
+        {
+            "bounding_box": [
+                [
+                    1009,
+                    34
+                ],
+                [
+                    1086,
+                    35
+                ],
+                [
+                    1086,
+                    64
+                ],
+                [
+                    1009,
+                    63
+                ]
+            ],
+            "text": "Done"
+        },
+        {
+            "bounding_box": [
+                [
+                    78,
+                    161
+                ],
+                [
+                    199,
+                    159
+                ],
+                [
+                    200,
+                    246
+                ],
+                [
+                    79,
+                    248
+                ]
+            ],
+            "text": "Review request for proposal"
+        },
+        {
+            "bounding_box": [
+                [
+                    387,
+                    134
+                ],
+                [
+                    489,
+                    134
+                ],
+                [
+                    489,
+                    272
+                ],
+                [
+                    387,
+                    272
+                ]
+            ],
+            "text": "Prepare for client meeting with Addisons"
+        },
+        {
+            "bounding_box": [
+                [
+                    682,
+                    137
+                ],
+                [
+                    800,
+                    137
+                ],
+                [
+                    800,
+                    271
+                ],
+                [
+                    682,
+                    271
+                ]
+            ],
+            "text": "Draw site plan sketches for renovation"
+        },
+        {
+            "bounding_box": [
+                [
+                    985,
+                    139
+                ],
+                [
+                    1105,
+                    138
+                ],
+                [
+                    1106,
+                    269
+                ],
+                [
+                    986,
+                    270
+                ]
+            ],
+            "text": "Write meeting minutes from client meeting"
+        },
+        {
+            "bounding_box": [
+                [
+                    81,
+                    303
+                ],
+                [
+                    197,
+                    303
+                ],
+                [
+                    197,
+                    436
+                ],
+                [
+                    81,
+                    436
+                ]
+            ],
+            "text": "Develop BIM model of wind shear impact"
+        },
+        {
+            "bounding_box": [
+                [
+                    385,
+                    300
+                ],
+                [
+                    491,
+                    300
+                ],
+                [
+                    492,
+                    435
+                ],
+                [
+                    386,
+                    435
+                ]
+            ],
+            "text": "Addison client meeting Thursday 11 a.m."
+        },
+        {
+            "bounding_box": [
+                [
+                    689,
+                    314
+                ],
+                [
+                    792,
+                    313
+                ],
+                [
+                    793,
+                    424
+                ],
+                [
+                    690,
+                    425
+                ]
+            ],
+            "text": "Meet with local board 3p.m."
+        },
+        {
+            "bounding_box": [
+                [
+                    383,
+                    481
+                ],
+                [
+                    494,
+                    482
+                ],
+                [
+                    493,
+                    590
+                ],
+                [
+                    382,
+                    589
+                ]
+            ],
+            "text": "Write speech on housing trends"
+        },
+        {
+            "bounding_box": [
+                [
+                    378,
+                    647
+                ],
+                [
+                    502,
+                    648
+                ],
+                [
+                    501,
+                    758
+                ],
+                [
+                    377,
+                    757
+                ]
+            ],
+            "text": "Speak to realtors dinner Wed 7 p.m."
+        }
+    ]
+}

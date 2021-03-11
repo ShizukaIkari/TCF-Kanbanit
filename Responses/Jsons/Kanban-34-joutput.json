@@ -1,0 +1,193 @@
+{
+    "cards": [
+        {
+            "bounding_box": [
+                [
+                    48,
+                    29
+                ],
+                [
+                    119,
+                    30
+                ],
+                [
+                    119,
+                    45
+                ],
+                [
+                    48,
+                    44
+                ]
+            ],
+            "text": "Para fazer"
+        },
+        {
+            "bounding_box": [
+                [
+                    192,
+                    26
+                ],
+                [
+                    299,
+                    27
+                ],
+                [
+                    299,
+                    45
+                ],
+                [
+                    192,
+                    44
+                ]
+            ],
+            "text": "Em andamento"
+        },
+        {
+            "bounding_box": [
+                [
+                    379,
+                    27
+                ],
+                [
+                    458,
+                    27
+                ],
+                [
+                    458,
+                    45
+                ],
+                [
+                    379,
+                    45
+                ]
+            ],
+            "text": "Em reviso"
+        },
+        {
+            "bounding_box": [
+                [
+                    570,
+                    28
+                ],
+                [
+                    604,
+                    29
+                ],
+                [
+                    604,
+                    45
+                ],
+                [
+                    570,
+                    44
+                ]
+            ],
+            "text": "Feito"
+        },
+        {
+            "bounding_box": [
+                [
+                    34,
+                    110
+                ],
+                [
+                    134,
+                    110
+                ],
+                [
+                    134,
+                    175
+                ],
+                [
+                    34,
+                    175
+                ]
+            ],
+            "text": "Criar contedo rico de como colocar o kanban em prtica"
+        },
+        {
+            "bounding_box": [
+                [
+                    203,
+                    118
+                ],
+                [
+                    300,
+                    118
+                ],
+                [
+                    300,
+                    184
+                ],
+                [
+                    203,
+                    184
+                ]
+            ],
+            "text": "Produzir post de como utilizar kanban em times de TI"
+        },
+        {
+            "bounding_box": [
+                [
+                    377,
+                    111
+                ],
+                [
+                    464,
+                    111
+                ],
+                [
+                    464,
+                    175
+                ],
+                [
+                    377,
+                    175
+                ]
+            ],
+            "text": "Fazer video de como utilizar kanban em times de TI"
+        },
+        {
+            "bounding_box": [
+                [
+                    557,
+                    110
+                ],
+                [
+                    619,
+                    110
+                ],
+                [
+                    619,
+                    160
+                ],
+                [
+                    557,
+                    160
+                ]
+            ],
+            "text": "Fazer post sobre Kanban"
+        },
+        {
+            "bounding_box": [
+                [
+                    37,
+                    236
+                ],
+                [
+                    129,
+                    236
+                ],
+                [
+                    129,
+                    298
+                ],
+                [
+                    37,
+                    298
+                ]
+            ],
+            "text": "Fazer video de como utilizar scrum em times de marketing"
+        }
+    ]
+}

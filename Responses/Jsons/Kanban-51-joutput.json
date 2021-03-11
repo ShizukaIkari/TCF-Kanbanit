@@ -1,0 +1,340 @@
+{
+    "cards": [
+        {
+            "bounding_box": [
+                [
+                    -2,
+                    2
+                ],
+                [
+                    80,
+                    1
+                ],
+                [
+                    80,
+                    21
+                ],
+                [
+                    -2,
+                    22
+                ]
+            ],
+            "text": "things to do"
+        },
+        {
+            "bounding_box": [
+                [
+                    139,
+                    2
+                ],
+                [
+                    171,
+                    3
+                ],
+                [
+                    170,
+                    21
+                ],
+                [
+                    138,
+                    20
+                ]
+            ],
+            "text": "next"
+        },
+        {
+            "bounding_box": [
+                [
+                    240,
+                    2
+                ],
+                [
+                    275,
+                    2
+                ],
+                [
+                    275,
+                    22
+                ],
+                [
+                    240,
+                    22
+                ]
+            ],
+            "text": "doing"
+        },
+        {
+            "bounding_box": [
+                [
+                    362,
+                    2
+                ],
+                [
+                    397,
+                    2
+                ],
+                [
+                    397,
+                    20
+                ],
+                [
+                    362,
+                    20
+                ]
+            ],
+            "text": "done"
+        },
+        {
+            "bounding_box": [
+                [
+                    153,
+                    46
+                ],
+                [
+                    211,
+                    46
+                ],
+                [
+                    211,
+                    63
+                ],
+                [
+                    153,
+                    63
+                ]
+            ],
+            "text": "Put the next..."
+        },
+        {
+            "bounding_box": [
+                [
+                    6,
+                    26
+                ],
+                [
+                    120,
+                    18
+                ],
+                [
+                    129,
+                    140
+                ],
+                [
+                    15,
+                    149
+                ]
+            ],
+            "text": "This is where you list your tasks or things to do. Use different... ...coloured sticky notes for different types of tasks"
+        },
+        {
+            "bounding_box": [
+                [
+                    263,
+                    42
+                ],
+                [
+                    325,
+                    42
+                ],
+                [
+                    325,
+                    88
+                ],
+                [
+                    263,
+                    88
+                ]
+            ],
+            "text": "This is the one you're working on now."
+        },
+        {
+            "bounding_box": [
+                [
+                    406,
+                    58
+                ],
+                [
+                    435,
+                    58
+                ],
+                [
+                    435,
+                    74
+                ],
+                [
+                    406,
+                    74
+                ]
+            ],
+            "text": "Oh Yes."
+        },
+        {
+            "bounding_box": [
+                [
+                    157,
+                    111
+                ],
+                [
+                    209,
+                    110
+                ],
+                [
+                    210,
+                    143
+                ],
+                [
+                    158,
+                    144
+                ]
+            ],
+            "text": "... most important..."
+        },
+        {
+            "bounding_box": [
+                [
+                    386,
+                    133
+                ],
+                [
+                    455,
+                    133
+                ],
+                [
+                    455,
+                    150
+                ],
+                [
+                    386,
+                    150
+                ]
+            ],
+            "text": "These ones are..."
+        },
+        {
+            "bounding_box": [
+                [
+                    21,
+                    136
+                ],
+                [
+                    81,
+                    140
+                ],
+                [
+                    76,
+                    204
+                ],
+                [
+                    17,
+                    200
+                ]
+            ],
+            "text": "Use one sticky note for each task or thing you do"
+        },
+        {
+            "bounding_box": [
+                [
+                    281,
+                    151
+                ],
+                [
+                    339,
+                    155
+                ],
+                [
+                    336,
+                    203
+                ],
+                [
+                    278,
+                    200
+                ]
+            ],
+            "text": "These ones can't be done right away or"
+        },
+        {
+            "bounding_box": [
+                [
+                    155,
+                    190
+                ],
+                [
+                    209,
+                    189
+                ],
+                [
+                    209,
+                    208
+                ],
+                [
+                    155,
+                    209
+                ]
+            ],
+            "text": "..tasks here."
+        },
+        {
+            "bounding_box": [
+                [
+                    400,
+                    210
+                ],
+                [
+                    435,
+                    210
+                ],
+                [
+                    435,
+                    225
+                ],
+                [
+                    400,
+                    225
+                ]
+            ],
+            "text": "...DONE."
+        },
+        {
+            "bounding_box": [
+                [
+                    47,
+                    202
+                ],
+                [
+                    115,
+                    201
+                ],
+                [
+                    116,
+                    259
+                ],
+                [
+                    48,
+                    260
+                ]
+            ],
+            "text": "Stand the board on your desk or stick it on the wall."
+        },
+        {
+            "bounding_box": [
+                [
+                    252,
+                    206
+                ],
+                [
+                    300,
+                    204
+                ],
+                [
+                    302,
+                    262
+                ],
+                [
+                    254,
+                    264
+                ]
+            ],
+            "text": "they need Input from somewhere else."
+        }
+    ]
+}
