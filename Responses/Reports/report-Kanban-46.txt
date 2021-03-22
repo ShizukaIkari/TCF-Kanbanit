@@ -1,0 +1,35 @@
+Kanban image name: Kanban-46-joutput
+# of Sections: 3
+# of Cards: 11
+Kanban Content:
+Section name: Done
+# of Cards in: 4
+Cards:
+Id: 1
+DB
+Id: 4
+Schema
+Id: 7
+Login
+Id: 10
+Create Order
+Section name: To Do
+# of Cards in: 4
+Cards:
+Id: 2
+Stock Search
+Id: 6
+Item Details
+Id: 8
+Archive Order
+Id: 11
+Order Refund
+Section name: In progress
+# of Cards in: 3
+Cards:
+Id: 3
+Stock Update
+Id: 5
+Amend Order
+Id: 9
+Process Order

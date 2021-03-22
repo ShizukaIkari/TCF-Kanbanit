@@ -1,0 +1,40 @@
+Kanban image name: Kanban-51-joutput
+# of Sections: 4
+# of Cards: 12
+Kanban Content:
+Section name: things to do
+# of Cards in: 3
+Cards:
+Id: 1
+This is where you list your tasks or things to do. Use different... ...coloured sticky notes for different types of tasks
+Id: 7
+Use one sticky note for each task or thing you do
+Id: 10
+Stand the board on your desk or stick it on the wall.
+Section name: next
+# of Cards in: 3
+Cards:
+Id: 3
+Put the next...
+Id: 5
+... most important...
+Id: 9
+..tasks here.
+Section name: doing
+# of Cards in: 3
+Cards:
+Id: 2
+This is the one you're working on now.
+Id: 8
+These ones can't be done right away or
+Id: 11
+they need Input from somewhere else.
+Section name: done
+# of Cards in: 3
+Cards:
+Id: 4
+Oh Yes.
+Id: 6
+These ones are...
+Id: 12
+...DONE.

@@ -1,0 +1,41 @@
+Kanban image name: Kanban-12-joutput
+# of Sections: 3
+# of Cards: 14
+Kanban Content:
+Section name: De
+# of Cards in: 4
+Cards:
+Id: 1
+Respond to email
+Id: 7
+Write a
+Id: 9
+blog
+Id: 11
+Research new software
+Section name: Doing
+# of Cards in: 4
+Cards:
+Id: 2
+Complete
+Id: 3
+Financial
+Id: 5
+coding course
+Id: 6
+projections
+Section name: Done
+# of Cards in: 6
+Cards:
+Id: 4
+Project wrap-up meeting
+Id: 8
+Turn in
+Id: 10
+billable hours
+Id: 12
+New client proposal
+Id: 13
+Setup Twitter
+Id: 14
+account

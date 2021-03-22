@@ -1,0 +1,39 @@
+Kanban image name: Kanban-66-joutput
+# of Sections: 3
+# of Cards: 13
+Kanban Content:
+Section name: To Do List
+# of Cards in: 6
+Cards:
+Id: 4
+Lorem ISUD
+Id: 6
+LOTETT
+Id: 9
+Lorem Ipsum
+Id: 11
+Lorem Ipsum
+Id: 12
+Lorem Ipsum
+Id: 13
+SUD
+Section name: Doing
+# of Cards in: 5
+Cards:
+Id: 1
+Lorem Ipsum
+Id: 5
+Lorem Ipsum
+Id: 7
+Lorem Ipsum
+Id: 8
+Lorem Ipsum
+Id: 10
+Lorem Ipsum
+Section name: Done
+# of Cards in: 2
+Cards:
+Id: 2
+Lorem Ipsum
+Id: 3
+Lorem ipsum

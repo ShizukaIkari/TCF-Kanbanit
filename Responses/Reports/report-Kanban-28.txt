@@ -1,0 +1,37 @@
+Kanban image name: Kanban-28-joutput
+# of Sections: 3
+# of Cards: 12
+Kanban Content:
+Section name: In Progress
+# of Cards in: 4
+Cards:
+Id: 1
+Website User Story 1
+Id: 3
+Interface User Story 1
+Id: 8
+Interface User Story 2
+Id: 11
+Report User Story 3
+Section name: Completed
+# of Cards in: 4
+Cards:
+Id: 5
+Report User Story 1
+Id: 6
+Report User Story 2
+Id: 9
+Mobile App User Story 1
+Id: 12
+Mobile App User Story 2
+Section name: Waiting
+# of Cards in: 4
+Cards:
+Id: 2
+Website User Story 2
+Id: 4
+Interface User Story 3
+Id: 7
+Website User Story 3
+Id: 10
+Mobile App User Story 3

@@ -1,0 +1,34 @@
+Kanban image name: Kanban-23-joutput
+# of Sections: 5
+# of Cards: 8
+Kanban Content:
+Section name: (
+# of Cards in: 2
+Cards:
+Id: 2
+Feature 4
+Id: 5
+Feature 5
+Section name: Testing
+# of Cards in: 2
+Cards:
+Id: 3
+Feature 2
+Id: 6
+Feature 3
+Section name: Complete
+# of Cards in: 1
+Cards:
+Id: 1
+Feature 1
+Section name: TO DO
+# of Cards in: 3
+Cards:
+Id: 4
+Feature 6
+Id: 7
+Feature 7
+Id: 8
+Feature 8
+Section name: Progress
+# of Cards in: 0

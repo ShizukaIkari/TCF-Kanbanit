@@ -1,0 +1,29 @@
+Kanban image name: Kanban-58-joutput
+# of Sections: 3
+# of Cards: 8
+Kanban Content:
+Section name: Done
+# of Cards in: 2
+Cards:
+Id: 1
+Study for physics exam
+Id: 4
+Send get-well card to Dad
+Section name: To do
+# of Cards in: 2
+Cards:
+Id: 2
+Write history paper
+Id: 6
+Set up meeting with counselor
+Section name: Doing
+# of Cards in: 4
+Cards:
+Id: 3
+Sign up for track tryouts
+Id: 5
+Form study
+Id: 7
+group for
+Id: 8
+economics midterm

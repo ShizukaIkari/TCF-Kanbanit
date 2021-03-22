@@ -1,0 +1,61 @@
+Kanban image name: Kanban-2-joutput
+# of Sections: 3
+# of Cards: 24
+Kanban Content:
+Section name: SUPOSIÇÕES
+# of Cards in: 9
+Cards:
+Id: 3
+As pessoas querem avaliar o filme depois de assistido, para alimentar as próximas sugestões
+Id: 5
+Marcar como assistido ou último episódio
+Id: 10
+Notificações de aviso para voltar a série.
+Id: 11
+Há necessidade de se conectar com os amigos do facebook
+Id: 13
+As pessoas querem receber notificações de novas sugestões
+Id: 18
+As pessoas querem criar um perfil pessoal onde possam seguir/serem seguidos por amigos
+Id: 21
+As pessoas querem criar/seguir playlists
+Id: 22
+As pessoas querem ver quais séries foram as mais assistidas na semana pelo publico geral
+Id: 23
+Cria uma explicação personalizada
+Section name: DÚVIDAS
+# of Cards in: 7
+Cards:
+Id: 1
+Quais os melhores formatos de ordenamento de séries?
+Id: 4
+Como dar conta de diferentes públicos com diferentes comportamentos a partir de uma única solução?
+Id: 14
+Quais os melhores formatos para notificações? pushs ou organização automática do app/sinalização dentro do app?
+Id: 16
+Pensando num MVP quais as informações mais relevantes que devem ser exibidas sobre cada série?
+Id: 19
+Gamefic ação/ba dges
+Id: 20
+Questionário Para aprimorar o sistema.
+Id: 24
+miro
+Section name: CERTEZAS
+# of Cards in: 8
+Cards:
+Id: 2
+Se localiza por data e hora, da série.
+Id: 6
+Sugestão
+Id: 7
+Sugestão por filme
+Id: 8
+por ator
+Id: 9
+Sugestão
+Id: 12
+Entrar com Gmail, e Facebook
+Id: 15
+por
+Id: 17
+gênero.

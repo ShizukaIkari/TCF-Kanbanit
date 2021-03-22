@@ -1,0 +1,29 @@
+Kanban image name: Kanban-32-joutput
+# of Sections: 3
+# of Cards: 8
+Kanban Content:
+Section name: Doing
+# of Cards in: 2
+Cards:
+Id: 1
+Empty dish washer
+Id: 5
+Fold laundry
+Section name: Done
+# of Cards in: 3
+Cards:
+Id: 2
+Complete English essay
+Id: 4
+Study for spelling test
+Id: 8
+Change light bulbs
+Section name: To Do
+# of Cards in: 3
+Cards:
+Id: 3
+Study for math test
+Id: 6
+Rake leaves
+Id: 7
+Create map for geography

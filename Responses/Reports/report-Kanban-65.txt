@@ -1,0 +1,27 @@
+Kanban image name: Kanban-65-joutput
+# of Sections: 3
+# of Cards: 7
+Kanban Content:
+Section name: DOING
+# of Cards in: 2
+Cards:
+Id: 1
+HUDSON PITCH (PROJECT ACORN)
+Id: 6
+PETER'S EVALUATION
+Section name: ( TODO
+# of Cards in: 3
+Cards:
+Id: 2
+CLOSE Juno FILE
+Id: 4
+NEW BROCHURE
+Id: 7
+FRIPP License AGRIT
+Section name: DONE
+# of Cards in: 2
+Cards:
+Id: 3
+WEEKLY EXPENSE REPORT
+Id: 5
+SOLARIS: TERM SHEET

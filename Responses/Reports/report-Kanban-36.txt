@@ -1,0 +1,34 @@
+Kanban image name: Kanban-36-joutput
+# of Sections: 4
+# of Cards: 9
+Kanban Content:
+Section name: This Week
+# of Cards in: 4
+Cards:
+Id: 1
+Prepare for client meeting with Addisons
+Id: 5
+Addison client meeting Thursday 11 a.m.
+Id: 8
+Write speech on housing trends
+Id: 9
+Speak to realtors dinner Wed 7 p.m.
+Section name: Today
+# of Cards in: 2
+Cards:
+Id: 2
+Draw site plan sketches for renovation
+Id: 7
+Meet with local board 3p.m.
+Section name: Done
+# of Cards in: 1
+Cards:
+Id: 3
+Write meeting minutes from client meeting
+Section name: To Do
+# of Cards in: 2
+Cards:
+Id: 4
+Review request for proposal
+Id: 6
+Develop BIM model of wind shear impact

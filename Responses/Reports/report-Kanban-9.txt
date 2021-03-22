@@ -1,0 +1,37 @@
+Kanban image name: Kanban-9-joutput
+# of Sections: 7
+# of Cards: 7
+Kanban Content:
+Section name: Validation (via BI) (10)
+# of Cards in: 1
+Cards:
+Id: 3
+Adama
+Section name: Code Review
+# of Cards in: 0
+Section name: Test
+# of Cards in: 2
+Cards:
+Id: 1
+Baltar
+Id: 5
+Starbuck
+Section name: Analysis (3)
+# of Cards in: 2
+Cards:
+Id: 2
+Battlestar
+Id: 6
+Galactica
+Section name: Development (5)
+# of Cards in: 1
+Cards:
+Id: 7
+Boomer
+Section name: (4)
+# of Cards in: 0
+Section name: (2)
+# of Cards in: 1
+Cards:
+Id: 4
+Number Six

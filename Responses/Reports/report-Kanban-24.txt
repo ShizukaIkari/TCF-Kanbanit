@@ -1,0 +1,41 @@
+Kanban image name: Kanban-24-joutput
+# of Sections: 3
+# of Cards: 14
+Kanban Content:
+Section name: To do
+# of Cards in: 4
+Cards:
+Id: 4
+Have a holiday
+Id: 8
+Construct a
+Id: 10
+better bicycle
+Id: 14
+Iron the doilies
+Section name: Doing
+# of Cards in: 7
+Cards:
+Id: 1
+Write an article FOR Omni Group
+Id: 2
+Determine the
+Id: 5
+best earl grey
+Id: 7
+Work out what
+Id: 11
+to do with
+Id: 12
+life
+Id: 13
+my
+Section name: Done
+# of Cards in: 3
+Cards:
+Id: 3
+Re-grease the
+Id: 6
+door hinges
+Id: 9
+Think up some witty projects

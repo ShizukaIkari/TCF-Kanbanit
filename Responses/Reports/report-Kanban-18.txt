@@ -1,0 +1,26 @@
+Kanban image name: Kanban-18-joutput
+# of Sections: 4
+# of Cards: 5
+Kanban Content:
+Section name: Aprovação
+# of Cards in: 2
+Cards:
+Id: 1
+Escolher as estampas das cortinas
+Id: 5
+Escolher as estampas dos papéis de parede
+Section name: Feito
+# of Cards in: 1
+Cards:
+Id: 2
+Trocar os tapetes
+Section name: Fazendo
+# of Cards in: 1
+Cards:
+Id: 4
+Comprar móveis
+Section name: Fazer
+# of Cards in: 1
+Cards:
+Id: 3
+Instalar lustres

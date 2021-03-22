@@ -1,0 +1,44 @@
+Kanban image name: Kanban-57-joutput
+# of Sections: 4
+# of Cards: 14
+Kanban Content:
+Section name: Backlog
+# of Cards in: 4
+Cards:
+Id: 4
+Feature
+Id: 6
+Feature
+Id: 9
+Feature
+Id: 12
+Feature
+Section name: Working
+# of Cards in: 2
+Cards:
+Id: 2
+Bug
+Id: 7
+Feature
+Section name: Done
+# of Cards in: 4
+Cards:
+Id: 3
+Feature
+Id: 5
+Bug
+Id: 10
+Feature
+Id: 14
+Feature
+Section name: Waiting (Buffer)
+# of Cards in: 4
+Cards:
+Id: 1
+Bug
+Id: 8
+Bug
+Id: 11
+Feature
+Id: 13
+Bug

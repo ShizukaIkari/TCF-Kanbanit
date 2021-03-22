@@ -1,0 +1,34 @@
+Kanban image name: Kanban-48-joutput
+# of Sections: 4
+# of Cards: 9
+Kanban Content:
+Section name: In Progress
+# of Cards in: 2
+Cards:
+Id: 2
+Build
+Id: 5
+Frame
+Section name: Backlog
+# of Cards in: 4
+Cards:
+Id: 3
+Put Brakes on Frame
+Id: 6
+Put Tires
+Id: 8
+on Bike
+Id: 9
+Ship Bike
+Section name: Priority
+# of Cards in: 2
+Cards:
+Id: 4
+Build Seat
+Id: 7
+Build Brakes
+Section name: Done
+# of Cards in: 1
+Cards:
+Id: 1
+Finalize Bike Design

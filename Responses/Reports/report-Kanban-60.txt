@@ -1,0 +1,80 @@
+Kanban image name: Kanban-60-joutput
+# of Sections: 4
+# of Cards: 32
+Kanban Content:
+Section name: Pending
+# of Cards in: 4
+Cards:
+Id: 2
+WSP Audit Response
+Id: 10
+EFT Transfer *
+Id: 13
+VM
+Id: 20
+Matrix
+Section name: Work in Progress
+# of Cards in: 6
+Cards:
+Id: 3
+EFT stats
+Id: 7
+ACO Tine
+Id: 9
+for FTE Prop
+Id: 12
+MEEP List
+Id: 23
+Online
+Id: 24
+Training
+Section name: Doner
+# of Cards in: 6
+Cards:
+Id: 5
+Review DCS Online updates
+Id: 6
+LT/
+Id: 8
+Art Recap
+Id: 15
+Daily
+Id: 17
+RP Stats
+Id: 25
+Research REA
+Section name: To Do
+# of Cards in: 16
+Cards:
+Id: 1
+Schedule DOL/WSP 30/60/90 Transfer POCA
+Id: 4
+Desk File Clean-up
+Id: 11
+MH
+Id: 14
+Exit POP
+Id: 16
+Production Sheet
+Id: 18
+LM
+Id: 19
+Learn
+Id: 21
+EFT Room Homepage
+Id: 22
+OCS &00 process & Manual
+Id: 26
+Process &
+Id: 27
+reminder
+Id: 28
+CDCS Card
+Id: 29
+re
+Id: 30
+EFT Phones Manual
+Id: 31
+Prep for
+Id: 32
+CS 'All staff Recognition Due 3/14

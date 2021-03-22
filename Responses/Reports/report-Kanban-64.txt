@@ -1,0 +1,22 @@
+Kanban image name: Kanban-64-joutput
+# of Sections: 2
+# of Cards: 6
+Kanban Content:
+Section name: DOING DONE
+# of Cards in: 4
+Cards:
+Id: 1
+LEARN ABOT KANBAN
+Id: 2
+GET SOME STICKY NOTES
+Id: 4
+LEARN ABOUT SCRUM
+Id: 5
+GET A WHITE BOARD
+Section name: TO DO
+# of Cards in: 2
+Cards:
+Id: 3
+USE KANBAN
+Id: 6
+USE SCRUM

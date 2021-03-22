@@ -1,0 +1,53 @@
+Kanban image name: Kanban-3-joutput
+# of Sections: 5
+# of Cards: 17
+Kanban Content:
+Section name: User Story
+# of Cards in: 3
+Cards:
+Id: 4
+Story #1
+Id: 10
+Story#2
+Id: 16
+Story #3
+Section name: Blocked
+# of Cards in: 1
+Cards:
+Id: 9
+Task 3
+Section name: To Do
+# of Cards in: 9
+Cards:
+Id: 2
+Task 2 Task 5
+Id: 5
+Task
+Id: 6
+Task 6
+Id: 11
+Task 4
+Id: 12
+Task 5
+Id: 13
+Task 2 Task
+Id: 14
+Task 1
+Id: 15
+Task 3
+Id: 17
+Task 4
+Section name: In Progress
+# of Cards in: 3
+Cards:
+Id: 1
+Task 1
+Id: 3
+Task 3
+Id: 8
+Task 2
+Section name: Done
+# of Cards in: 1
+Cards:
+Id: 7
+Task 1

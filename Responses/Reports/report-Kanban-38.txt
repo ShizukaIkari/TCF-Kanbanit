@@ -1,0 +1,23 @@
+Kanban image name: Kanban-38-joutput
+# of Sections: 1
+# of Cards: 8
+Kanban Content:
+Section name: Teste
+# of Cards in: 8
+Cards:
+Id: 1
+A FAZER
+Id: 2
+FEITO
+Id: 3
+FAZENDO
+Id: 4
+MOLHAR PLAUTAS
+Id: 5
+PROTOTIPO
+Id: 6
+LAVAR
+Id: 7
+LOUÇA
+Id: 8
+REFERENCIAL TEORICO

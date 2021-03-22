@@ -1,0 +1,34 @@
+Kanban image name: Kanban-1-joutput
+# of Sections: 4
+# of Cards: 9
+Kanban Content:
+Section name: ON-GOING < WIP = 3>
+# of Cards in: 3
+Cards:
+Id: 2
+Task D
+Id: 6
+Task F
+Id: 9
+Task E
+Section name: Waiting on Customer < WIP = 5 >
+# of Cards in: 2
+Cards:
+Id: 3
+Task C
+Id: 7
+Task B
+Section name: TO DO
+# of Cards in: 3
+Cards:
+Id: 1
+Task G
+Id: 5
+Task K
+Id: 8
+Task |
+Section name: DONE
+# of Cards in: 1
+Cards:
+Id: 4
+Task A

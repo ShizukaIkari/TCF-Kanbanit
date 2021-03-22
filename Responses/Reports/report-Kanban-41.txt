@@ -1,0 +1,103 @@
+Kanban image name: Kanban-41-joutput
+# of Sections: 3
+# of Cards: 45
+Kanban Content:
+Section name: DOING
+# of Cards in: 15
+Cards:
+Id: 1
+Enter ksmaeli text into the Intro
+Id: 7
+Google doc,
+Id: 9
+Redising
+Id: 12
+Buy tox
+Id: 13
+AAA panel?
+Id: 16
+for May
+Id: 23
+Set up
+Id: 25
+Roundtables as workshops on AAA she + let folks know
+Id: 30
+Fill out TE forms + Submit
+Id: 32
+Payinês
+Id: 40
+party
+Id: 41
+CLEAR
+Id: 43
+DEAL FINISH w/ PRIND UNPACRIN
+Id: 44
+DESK IN DowNSTAIRS OFFICE
+Id: 45
+KITCHEN
+Section name: DONE
+# of Cards in: 1
+Cards:
+Id: 28
+APPLY FOR IT #
+Section name: BACK LOG
+# of Cards in: 29
+Cards:
+Id: 2
+Contact other pot paveliste
+Id: 3
+Skype
+Id: 4
+POST.
+Id: 5
+Write INDUSTRIAL My ANA abstract
+Id: 6
+Ismelt Seth 4/9
+Id: 8
+PROJECT
+Id: 10
+Annual for NSE Read Dana's check up on honorarium
+Id: 11
+Respond to
+Id: 14
+Post next
+Id: 15
+NSF CHESS
+Id: 17
+Report for
+Id: 18
+Blog posts
+Id: 19
+Blog topic
+Id: 20
+UB peers
+Id: 21
+file
+Id: 22
+Delegate Next tasks To Dana
+Id: 24
+SAE Review PROGRAM panel paper CHAIR Submissions Elect
+Id: 26
+FUTURE TALK SCAPES WITH LEE Class & project
+Id: 27
+DRAFT Allend SYLLABUS CSL Fellow 8. SHARE meetings W/6RERHEN Revise Revise food & Methods Culture Syllabus Set dates
+Id: 29
+COURSE Consult REGULAR- Betsyt IZATION web about TE courses
+Id: 31
+syllabus
+Id: 33
+Buy tix
+Id: 34
+AVAAL
+Id: 35
+PROJECT for Juna for workshops + exhib.
+Id: 36
+Revise Discuss CPPA NR draft plan follow- Book & share with Aline launch w/ collabs
+Id: 37
+OTHER Letter for Allend SERVICE Trevon by Food & ADVISING paniel & PROJECTS HOME PUT CLEAN & PERSONAL AWAY UPSTAIRS COLD OFPCE WemmieR FLOOR GUAR
+Id: 38
+4/15
+Id: 39
+4/8
+Id: 42
+DEAL W/ UPSTAIRS OFFICE BOXES

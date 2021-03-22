@@ -1,0 +1,43 @@
+Kanban image name: Kanban-63-joutput
+# of Sections: 6
+# of Cards: 11
+Kanban Content:
+Section name: AVALIAÇÃO
+# of Cards in: 2
+Cards:
+Id: 2
+CERSEI LANNISTER CASTERLY ROCK $ 28.000,00
+Id: 9
+JAIME LANNISTER CASTERLY ROCK $ 20.000,00
+Section name: ANÁLISE DE CURRÍCULO
+# of Cards in: 2
+Cards:
+Id: 4
+HODOR WINTERFELL $ 18.000,00
+Id: 7
+TYWIN LANNISTER CASTERLY ROCK $ 25.000,00
+Section name: ABERTO
+# of Cards in: 3
+Cards:
+Id: 1
+SANSA STARK WINTERFELL . $ 26.000,00
+Id: 6
+JON SNOW NIGHT WATCH $ 30.000,00
+Id: 10
+HODOR WINTERFELL $ 18.000,00
+Section name: ENTREVISTA
+# of Cards in: 1
+Cards:
+Id: 5
+DAENERYS TARGARYEN $ 35.000,00
+Section name: REPROVADO
+# of Cards in: 3
+Cards:
+Id: 3
+ROBB STARK WINTERFELL $ 25.000,00
+Id: 8
+JOFREY BARATHEON $ 20.000,00
+Id: 11
+NED STARK WINTERFELL $ 40.000,00
+Section name: APROVADO
+# of Cards in: 0

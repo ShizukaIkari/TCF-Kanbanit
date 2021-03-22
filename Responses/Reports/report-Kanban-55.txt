@@ -1,0 +1,48 @@
+Kanban image name: Kanban-55-joutput
+# of Sections: 4
+# of Cards: 16
+Kanban Content:
+Section name: IN PROCESS
+# of Cards in: 4
+Cards:
+Id: 1
+GET PC BOARD
+Id: 7
+MOTORS
+Id: 11
+LEVERS
+Id: 15
+SOURCE MATERIALS
+Section name: DONE
+# of Cards in: 4
+Cards:
+Id: 4
+SKETCH DIAGRAM
+Id: 8
+BATTERY
+Id: 12
+PROGRAM
+Id: 14
+DOWNLOAD SOURCE CODE
+Section name: TO DO
+# of Cards in: 4
+Cards:
+Id: 2
+TEST ROBOT
+Id: 5
+ATTACH WHEELS TO SERVO
+Id: 10
+END EFTECTOR
+Id: 16
+ASEMBLE
+Section name: TASKS
+# of Cards in: 4
+Cards:
+Id: 3
+WRITE PAPER
+Id: 6
+PROJECT BOARD
+Id: 9
+MAKE WHEELS
+Id: 13
+REMOTE CONTROL

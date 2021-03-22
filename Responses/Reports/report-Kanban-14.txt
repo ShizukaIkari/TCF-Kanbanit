@@ -1,0 +1,34 @@
+Kanban image name: Kanban-14-joutput
+# of Sections: 5
+# of Cards: 8
+Kanban Content:
+Section name: Aprovação
+# of Cards in: 1
+Cards:
+Id: 3
+Definir orçamento
+Section name: Fazer
+# of Cards in: 3
+Cards:
+Id: 1
+Mensurar resultados
+Id: 5
+Configurar a campanha no canal
+Id: 7
+Fazer briefing das artes
+Section name: Fazendo
+# of Cards in: 1
+Cards:
+Id: 4
+Definir período
+Section name: Feito
+# of Cards in: 3
+Cards:
+Id: 2
+Definir objetivo
+Id: 6
+Escolher canais
+Id: 8
+Definir público-alvo
+Section name: 3
+# of Cards in: 0

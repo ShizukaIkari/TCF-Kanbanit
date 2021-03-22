@@ -1,0 +1,25 @@
+Kanban image name: Kanban-20-joutput
+# of Sections: 3
+# of Cards: 6
+Kanban Content:
+Section name: TO DO
+# of Cards in: 3
+Cards:
+Id: 3
+USE KANBAN
+Id: 5
+TRY
+Id: 6
+KANBAN TOOL
+Section name: DONE
+# of Cards in: 2
+Cards:
+Id: 2
+GET SOME STICKY NOTES
+Id: 4
+GET A WHITE BOARD!
+Section name: DOING
+# of Cards in: 1
+Cards:
+Id: 1
+LEARN ABOUT KANBAN

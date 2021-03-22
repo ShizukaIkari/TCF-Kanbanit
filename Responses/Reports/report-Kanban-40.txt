@@ -1,0 +1,20 @@
+Kanban image name: Kanban-40-joutput
+# of Sections: 2
+# of Cards: 5
+Kanban Content:
+Section name: In Progress Done
+# of Cards in: 3
+Cards:
+Id: 1
+LEARN ABOUT KANBAN
+Id: 2
+GET SOME STICKY
+Id: 4
+NOTES
+Section name: To Do
+# of Cards in: 2
+Cards:
+Id: 3
+USE KANBAN
+Id: 5
+SUBSCRIBE TO Karbas Toal

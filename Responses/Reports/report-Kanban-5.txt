@@ -1,0 +1,37 @@
+Kanban image name: Kanban-5-joutput
+# of Sections: 5
+# of Cards: 9
+Kanban Content:
+Section name: A FAZER
+# of Cards in: 3
+Cards:
+Id: 1
+Tarefa 7
+Id: 6
+Tarefa 8
+Id: 9
+Tarefa 9
+Section name: ENVIADO
+# of Cards in: 1
+Cards:
+Id: 4
+Tarefa 2
+Section name: DESENVOLVIMENTO
+# of Cards in: 2
+Cards:
+Id: 2
+Tarefa 5
+Id: 7
+Tarefa 6
+Section name: EXECUTADO
+# of Cards in: 1
+Cards:
+Id: 5
+Tarefa 1
+Section name: TESTE
+# of Cards in: 2
+Cards:
+Id: 3
+Tarefa 3
+Id: 8
+Tarefa 4

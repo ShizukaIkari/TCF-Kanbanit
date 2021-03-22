@@ -1,0 +1,21 @@
+Kanban image name: Kanban-29-joutput
+# of Sections: 4
+# of Cards: 4
+Kanban Content:
+Section name: todo
+# of Cards in: 4
+Cards:
+Id: 1
+Throw out TRASH
+Id: 2
+Go to
+Id: 3
+Publix
+Id: 4
+vac $ Steam FLOORS
+Section name: Progress
+# of Cards in: 0
+Section name: In
+# of Cards in: 0
+Section name: Done!
+# of Cards in: 0

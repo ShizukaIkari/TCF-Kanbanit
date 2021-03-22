@@ -1,0 +1,73 @@
+Kanban image name: Kanban-27-joutput
+# of Sections: 5
+# of Cards: 27
+Kanban Content:
+Section name: Storyboarding & filming
+# of Cards in: 5
+Cards:
+Id: 4
+How to
+Id: 8
+think like a startup
+Id: 12
+Automated Vehicles
+Id: 19
+Troud
+Id: 22
+Trends
+Section name: Post-production
+# of Cards in: 4
+Cards:
+Id: 2
+Proton vs
+Id: 7
+Neutron
+Id: 11
+Deforestation
+Id: 14
+in Argentna
+Section name: Done
+# of Cards in: 4
+Cards:
+Id: 3
+Shorter ER queues
+Id: 15
+Luminary
+Id: 17
+Times
+Id: 21
+Martin Luther King
+Section name: Ready
+# of Cards in: 10
+Cards:
+Id: 1
+fuel saving
+Id: 6
+in China
+Id: 10
+How to form
+Id: 16
+a new habit
+Id: 18
+20 Awesome facts
+Id: 23
+User-centred
+Id: 24
+design
+Id: 25
+The future
+Id: 26
+of garden
+Id: 27
+gromes
+Section name: Backlog
+# of Cards in: 4
+Cards:
+Id: 5
+East Coast
+Id: 9
+national parks
+Id: 13
+Asia's A
+Id: 20
+Cheap shoes

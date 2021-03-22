@@ -1,0 +1,82 @@
+Kanban image name: Kanban-17-joutput
+# of Sections: 6
+# of Cards: 30
+Kanban Content:
+Section name: Caleb
+# of Cards in: 7
+Cards:
+Id: 2
+Laundry
+Id: 7
+hang load
+Id: 9
+to dry, fold
+Id: 12
+Laundry
+Id: 17
+-hang load
+Id: 20
+fold
+Id: 23
+Laundry -hang load to dog, fold
+Section name: Zoe
+# of Cards in: 2
+Cards:
+Id: 1
+Clean Zeke's Bathroom
+Id: 11
+Replenish towels, washcloths bathrooms
+Section name: Julien
+# of Cards in: 9
+Cards:
+Id: 5
+weep mop kitchen
+Id: 8
++
+Id: 13
+Sweep
+Id: 16
++
+Id: 18
+mop
+Id: 19
+living room
+Id: 22
+weep mop
+Id: 24
+dining area Sweep +
+Id: 27
+mop stairs & hallway
+Section name: Ilana
+# of Cards in: 3
+Cards:
+Id: 4
+Clean Kid's Bathroom
+Id: 14
+put Groceries Away
+Id: 30
+I put food
+Section name: Sadie
+# of Cards in: 6
+Cards:
+Id: 6
+Dust coffee table
+Id: 15
+Dust piano, Computer + desk
+Id: 25
+Take Out Trash
+Id: 26
+After Dinner cleanup
+Id: 28
+wipe table,
+Id: 29
+. away
+Section name: mom
+# of Cards in: 3
+Cards:
+Id: 3
+Kitchen Duty
+Id: 10
+Kitchen duty
+Id: 21
+kitchen duty

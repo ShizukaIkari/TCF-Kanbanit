@@ -1,0 +1,26 @@
+Kanban image name: Kanban-34-joutput
+# of Sections: 4
+# of Cards: 5
+Kanban Content:
+Section name: Em andamento
+# of Cards in: 1
+Cards:
+Id: 4
+Produzir post de como utilizar kanban em times de TI
+Section name: Em revisão
+# of Cards in: 1
+Cards:
+Id: 3
+Fazer video de como utilizar kanban em times de TI
+Section name: Feito
+# of Cards in: 1
+Cards:
+Id: 2
+Fazer post sobre Kanban
+Section name: Para fazer
+# of Cards in: 2
+Cards:
+Id: 1
+Criar conteúdo rico de como colocar o kanban em prática
+Id: 5
+Fazer video de como utilizar scrum em times de marketing

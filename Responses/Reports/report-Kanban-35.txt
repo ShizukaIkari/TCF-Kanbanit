@@ -1,0 +1,69 @@
+Kanban image name: Kanban-35-joutput
+# of Sections: 5
+# of Cards: 25
+Kanban Content:
+Section name: Hired
+# of Cards in: 4
+Cards:
+Id: 3
+Anh Phang
+Id: 8
+Kimberly Smith
+Id: 16
+James Dalgleish
+Id: 22
+Dipankar Banerjee
+Section name: Rejected
+# of Cards in: 4
+Cards:
+Id: 4
+Dominique LeFranc
+Id: 13
+Andrea Ellison
+Id: 19
+Nour Aziz
+Id: 21
+Landry Manuel
+Section name: Unscreened Screened
+# of Cards in: 8
+Cards:
+Id: 1
+Bryana Dussen
+Id: 5
+Klaus Stewart
+Id: 9
+Hinata Ito
+Id: 11
+Alex Bitterman
+Id: 14
+Philip Sum
+Id: 17
+Chetana Acharya
+Id: 20
+Philip Sum
+Id: 24
+Peter Nowak
+Section name: Interview
+# of Cards in: 5
+Cards:
+Id: 2
+Huang
+Id: 7
+Wang Wei
+Id: 10
+Maria Espinosa
+Id: 18
+Jaya Ocampo
+Id: 23
+Fred Silverstein
+Section name: Offer
+# of Cards in: 4
+Cards:
+Id: 6
+Phoebe Davila
+Id: 12
+Saul Feldkauer
+Id: 15
+Arjen ten Loos
+Id: 25
+Alexei Popov

@@ -1,0 +1,45 @@
+Kanban image name: Kanban-44-joutput
+# of Sections: 3
+# of Cards: 16
+Kanban Content:
+Section name: 3 Done
+# of Cards in: 6
+Cards:
+Id: 1
+Help request #43
+Id: 4
+Security review
+Id: 6
+Social media accounts set up
+Id: 10
+Press release for new features
+Id: 11
+Update calendar
+Id: 13
+API Improvements
+Section name: 2 In Progress
+# of Cards in: 5
+Cards:
+Id: 2
+Deploy New Feature Updtes
+Id: 7
+App integrations
+Id: 9
+Social media strategy
+Id: 14
+Help request #334
+Id: 16
+Help request #456
+Section name: To Do
+# of Cards in: 5
+Cards:
+Id: 3
+Create new interface
+Id: 5
+Build new server
+Id: 8
+User access filters
+Id: 12
+Edit content for app store
+Id: 15
+Email updates

@@ -1,0 +1,29 @@
+Kanban image name: Kanban-33-joutput
+# of Sections: 1
+# of Cards: 11
+Kanban Content:
+Section name: 5
+# of Cards in: 11
+Cards:
+Id: 1
+Backlog
+Id: 2
+Ongoing 3
+Id: 3
+To Do
+Id: 4
+Done
+Id: 5
+2
+Id: 6
+E
+Id: 7
+B
+Id: 8
+A
+Id: 9
+D
+Id: 10
+
+Id: 11
+F

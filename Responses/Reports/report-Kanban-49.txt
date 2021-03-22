@@ -1,0 +1,39 @@
+Kanban image name: Kanban-49-joutput
+# of Sections: 3
+# of Cards: 13
+Kanban Content:
+Section name: DOING
+# of Cards in: 3
+Cards:
+Id: 2
+call TC
+Id: 5
+valuations
+Id: 8
+Finish report
+Section name: DONE
+# of Cards in: 4
+Cards:
+Id: 1
+Meet with Tony
+Id: 4
+Get repair quotes
+Id: 7
+Set up new bia account
+Id: 11
+Book dentist appt
+Section name: TO DO
+# of Cards in: 6
+Cards:
+Id: 3
+write proposal
+Id: 6
+contact Mr. w
+Id: 9
+Return keys to
+Id: 10
+Bob
+Id: 12
+Arvange meeting with
+Id: 13
+Sally

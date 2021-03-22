@@ -1,0 +1,30 @@
+Kanban image name: Kanban-22-joutput
+# of Sections: 5
+# of Cards: 6
+Kanban Content:
+Section name: TO DO
+# of Cards in: 1
+Cards:
+Id: 3
+Fazer desenho para projeto W
+Section name: REVIEW
+# of Cards in: 1
+Cards:
+Id: 1
+Revisar especificação do desenho U
+Section name: DONE
+# of Cards in: 0
+Section name: BACKLOG
+# of Cards in: 2
+Cards:
+Id: 2
+Fazer blueprint da área X
+Id: 5
+Colocar o desenho da área Y em CAD
+Section name: IN PROGRESS
+# of Cards in: 2
+Cards:
+Id: 4
+Fazer desenho para projeto W
+Id: 6
+Ajustar blueprint do projeto Z

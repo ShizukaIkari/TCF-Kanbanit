@@ -1,0 +1,57 @@
+Kanban image name: Kanban-53-joutput
+# of Sections: 3
+# of Cards: 22
+Kanban Content:
+Section name: This Week (25/25)
+# of Cards in: 7
+Cards:
+Id: 3
+ME: Go for...
+Id: 7
+SE: Buy a ne..
+Id: 10
+SE: Pay for r...
+Id: 13
+SE: Test a n.
+Id: 16
+ME: Choose... Go to gym in...
+Id: 19
+Test a new...
+Id: 22
+ME: Learn n...
+Section name: Backlog (76)
+# of Cards in: 6
+Cards:
+Id: 1
+Pay for rent
+Id: 6
+Test a new...
+Id: 9
+ME: Fix lighti...
+Id: 11
+Move far away
+Id: 18
+SE: Buy fres...
+Id: 21
+ME: Get rea...
+Section name: Today (4/5) Doing (3/3) Done (50)
+# of Cards in: 9
+Cards:
+Id: 2
+SE: Buy a ne... ME: Sell out... Save the wo...
+Id: 4
+SE: Buy new... ME: Upgrade...
+Id: 5
+Buy new tools
+Id: 8
+Go to gym in... Go to gym in... Write a lette...
+Id: 12
+SE: Fix lighti...
+Id: 14
+SE: Move far...
+Id: 15
+ME: Buy new...
+Id: 17
+ME: Call Mar...
+Id: 20
+Sell out stuff

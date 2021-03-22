@@ -1,0 +1,25 @@
+Kanban image name: Kanban-50-joutput
+# of Sections: 3
+# of Cards: 6
+Kanban Content:
+Section name: A À FAZER
+# of Cards in: 3
+Cards:
+Id: 1
+MOLHAR
+Id: 4
+PLAUTAS
+Id: 6
+REFERENCIAL TEORICO
+Section name: FAZENDO
+# of Cards in: 1
+Cards:
+Id: 2
+PROTOTI PO
+Section name: FEITO
+# of Cards in: 2
+Cards:
+Id: 3
+LAVAR
+Id: 5
+LOUÇA

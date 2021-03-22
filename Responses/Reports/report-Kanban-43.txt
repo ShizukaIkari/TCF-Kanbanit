@@ -1,0 +1,72 @@
+Kanban image name: Kanban-43-joutput
+# of Sections: 5
+# of Cards: 27
+Kanban Content:
+Section name: Shu
+# of Cards in: 10
+Cards:
+Id: 2
+FLOPE
+Id: 4
+ADD MONTHLY CIPITATION PHYMENTS
+Id: 6
+Deut TESTING 08
+Id: 9
+UPDATE TO USE
+Id: 11
+DATA SERVICE
+Id: 14
+EAF
+Id: 16
+EAF EAE EAT 2.5 EAS LAG
+Id: 20
+EAE ET
+Id: 22
+EAF EAF EAF ADS Tas To DETAILS T VISW/PRINT STANS (F1/A) DAS
+Id: 23
+SERVICE DESK REPART/ Rurals SEARAH PAGES
+Section name: DOING (4)
+# of Cards in: 5
+Cards:
+Id: 1
+store
+Id: 7
+Elmon exiler
+Id: 10
+CREMTS MAUAGamT PAGE FOR CONTENT
+Id: 15
+WEBMASTER
+Id: 18
+DU Jour
+Section name: PENDING DONE
+# of Cards in: 4
+Cards:
+Id: 3
+
+Id: 5
+-Brown
+Id: 12
+LTC Reports
+Id: 13
+UPDATE Menar UTILIZATION 14 TOS UC Jean's 242.168
+Section name: BACKLOG
+# of Cards in: 8
+Cards:
+Id: 8
+PLOPE BACK FILL MISSING TRANSACTIO
+Id: 17
+SWAT MUUT Last TO Saporan
+Id: 19
+FILL AOS Cleans
+Id: 21
+UNUI Soma CHANDER
+Id: 24
+CAS
+Id: 25
+CaCAT SE
+Id: 26
+e derr/
+Id: 27
+ASCOS
+Section name: DONE
+# of Cards in: 0

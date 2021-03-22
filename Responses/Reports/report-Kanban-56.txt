@@ -1,0 +1,59 @@
+Kanban image name: Kanban-56-joutput
+# of Sections: 3
+# of Cards: 23
+Kanban Content:
+Section name: DONE
+# of Cards in: 5
+Cards:
+Id: 4
+GET MATEUS FOR PRES
+Id: 5
+PUBLISH CHART 7 
+Id: 8
+GET Epis From
+Id: 9
+Purusty
+Id: 14
+Co cran POST
+Section name: BackLOG
+# of Cards in: 9
+Cards:
+Id: 2
+Fix TONI EMAIL
+Id: 3
+[REATE WEB SMES Fon Books
+Id: 12
+RE-SECURE
+Id: 13
+MAIL INVOICE)
+Id: 16
+WIFI
+Id: 19
+CALL
+Id: 21
+RESCHEDULE Noncy
+Id: 22
+JERRY
+Id: 23
+CHECK ON ST
+Section name: DOING (3)
+# of Cards in: 9
+Cards:
+Id: 1
+CHOTE 8 E0175
+Id: 6
+FINISH
+Id: 7
+CHAPTER 70
+Id: 10
+CALL
+Id: 11
+TAKE WIB. PHOTOS
+Id: 15
+NGEL
+Id: 17
+FOR BLOG
+Id: 18
+Post
+Id: 20
+WILITE VEL Lisbon RPT.

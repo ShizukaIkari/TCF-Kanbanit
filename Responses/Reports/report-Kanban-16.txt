@@ -1,0 +1,40 @@
+Kanban image name: Kanban-16-joutput
+# of Sections: 4
+# of Cards: 12
+Kanban Content:
+Section name: THE PEN
+# of Cards in: 1
+Cards:
+Id: 2
+SCHEDULE PAINTERS LeRTVm June 16 CALL BACK!  Juan 12
+Section name: DONE
+# of Cards in: 3
+Cards:
+Id: 1
+DROP Coses IN ZAVEA
+Id: 5
+EURO PLUG FOR Loproe
+Id: 9
+CONDACI MICHAEL FORZ 2 hanteloord
+Section name: READY
+# of Cards in: 4
+Cards:
+Id: 3
+CREATE Loyours FOR PRESENTATION
+Id: 6
+PRINT TRAVEL
+Id: 8
+DIRECTIONS DOCS
+Id: 10
+Vivian's ADAPTOR KIT ?
+Section name: DOING
+# of Cards in: 4
+Cards:
+Id: 4
+MAKE CLOCK SLIDE For BOTH
+Id: 7
+STUDY w714 DEBBIE
+Id: 11
+SELECT Clothes
+Id: 12
+SWEDTERS!

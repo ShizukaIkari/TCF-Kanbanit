@@ -1,0 +1,41 @@
+Kanban image name: Kanban-26-joutput
+# of Sections: 3
+# of Cards: 14
+Kanban Content:
+Section name: Suposições
+# of Cards in: 5
+Cards:
+Id: 3
+As sugestões de filmes e séries não satisfazem os usuários
+Id: 6
+As categorias poderiam ter um submenu com a origem de cada série ou filme
+Id: 10
+Diminuição de clientes devido a outras plataformas de stream
+Id: 11
+Os usuários gostariam de saber quais filmes cada ator ou atriz fizeram
+Id: 13
+Os usuários gostariam de poder ouvir as trilhas sonoras dos filmes/séries diretamente da Netflix
+Section name: Dúvidas
+# of Cards in: 5
+Cards:
+Id: 1
+A falta de conteúdo infantil faz os usuários procurarem os concorrentes?
+Id: 2
+Os usuários gostariam de perfis independentes?
+Id: 7
+Usuários tem problemas em acompanhar cada série que estão assistindo?
+Id: 9
+A experiência de uso afasta OS concorrentes?
+Id: 14
+miro
+Section name: Certezas
+# of Cards in: 4
+Cards:
+Id: 4
+A netflix abriu o mercado de streaming e hoje possui grandes concorrentes de mercado
+Id: 5
+Produções próprias são grandes sucessos
+Id: 8
+Netflix está preocupada com o lançamento da Disney+
+Id: 12
+Uma das plataformas de stream nais utilizadas

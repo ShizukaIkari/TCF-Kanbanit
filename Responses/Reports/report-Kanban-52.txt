@@ -1,0 +1,23 @@
+Kanban image name: Kanban-52-joutput
+# of Sections: 1
+# of Cards: 8
+Kanban Content:
+Section name: To Do Work in Progress Work in Propess Done
+# of Cards in: 8
+Cards:
+Id: 1
+get a White Board
+Id: 2
+Creak Personal Kanban Board
+Id: 3
+write down all tasks
+Id: 4
+get some sticky
+Id: 5
+processes
+Id: 6
+notes
+Id: 7
+Split Board into
+Id: 8
+3 columns

@@ -1,0 +1,32 @@
+Kanban image name: Kanban-15-joutput
+# of Sections: 4
+# of Cards: 8
+Kanban Content:
+Section name: Waiting
+# of Cards in: 2
+Cards:
+Id: 1
+| Tash C c
+Id: 7
+Tash D
+Section name: Bachlog
+# of Cards in: 3
+Cards:
+Id: 4
+Tash
+Id: 6
+Tash G
+Id: 8
+Tash H
+Section name: In Progress
+# of Cards in: 1
+Cards:
+Id: 3
+Tash E
+Section name: Done
+# of Cards in: 2
+Cards:
+Id: 2
+Tash A
+Id: 5
+Tash B 3

@@ -1,0 +1,52 @@
+Kanban image name: Kanban-39-joutput
+# of Sections: 4
+# of Cards: 18
+Kanban Content:
+Section name: Wall of Done
+# of Cards in: 4
+Cards:
+Id: 2
+Sample text goes
+Id: 8
+here
+Id: 10
+Sample text goes here
+Id: 14
+Sample text goes here
+Section name: Stage
+# of Cards in: 5
+Cards:
+Id: 1
+Sample text goes here
+Id: 7
+Sample text goes here
+Id: 13
+Sample text goes
+Id: 15
+here
+Id: 17
+Sample text goes here
+Section name: In Process
+# of Cards in: 5
+Cards:
+Id: 3
+Sample text goes
+Id: 9
+here
+Id: 11
+Sample text goes here
+Id: 16
+Sample
+Id: 18
+text goes here
+Section name: Don
+# of Cards in: 4
+Cards:
+Id: 4
+Sample
+Id: 5
+Sample text goes here
+Id: 6
+text goes here
+Id: 12
+Sample text goes here

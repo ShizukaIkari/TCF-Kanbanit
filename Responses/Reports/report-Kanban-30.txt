@@ -1,0 +1,174 @@
+Kanban image name: Kanban-30-joutput
+# of Sections: 4
+# of Cards: 79
+Kanban Content:
+Section name: NEW
+# of Cards in: 21
+Cards:
+Id: 1
+
+Id: 3
+8.
+Id: 5
+HP LAPTOP FOR Tom Geoloc
+Id: 7
+DEL XPS FOR IRAN
+Id: 17
+BRONK NET
+Id: 19
+SURFACE LAPTOP FOR KATH
+Id: 21
+HP LAPTOP
+Id: 23
+TEIL ON ALL BALAYS Ostes
+Id: 25
+FOR Vicky Griffiths
+Id: 30
+Tiket: 2571
+Id: 31
+Williams
+Id: 36
+Mobile Phones
+Id: 37
+NIN
+Id: 38
+NIA
+Id: 45
+iPhone
+Id: 46
+ADOBE
+Id: 47
+ANNA CANS ACTATE Janet MAIL
+Id: 55
+LICENCE
+Id: 56
+Ticker: 2572
+Id: 61
+Bono ameDoc
+Id: 74
+>
+Section name: I To Do
+# of Cards in: 4
+Cards:
+Id: 2
+INTERVIEW Room 2 WORKING PHONG & PC
+Id: 33
+2
+Id: 39
+HP LAPTOP
+Id: 48
+FOR ZOE
+Section name: DOING
+# of Cards in: 25
+Cards:
+Id: 4
+Sekuice CHARGE
+Id: 6
+SERVICE CHARGES
+Id: 11
+Modify Proof of RENT FORM FOR NEW CHARGE CODE
+Id: 12
+Cluitw REPORT FOR TOTAL CARE 11
+Id: 15
+To Reconcile olak
+Id: 16
+INTCONOW Room ! WORKING Phone +PL.
+Id: 18
+PANCONNECT KATIE Pics NOT AUTOFILING FOR BLOCK
+Id: 27
+MO
+Id: 29
+ADE
+Id: 32
+5
+Id: 34
+3 HP LAPTOP Fox NICOLA TONGE
+Id: 35
+HP LAPTOP
+Id: 41
+HP LAPTOP
+Id: 44
+FOR STACEY
+Id: 50
+For KERRY
+Id: 52
+A3
+Id: 54
+NT)
+Id: 59
+7
+Id: 60
+P2P PRO SET
+Id: 62
+HP LAPTOP FOR SALY
+Id: 63
+wy
+Id: 64
+RE-Book TESTING DAYS WITH Se key STAFF
+Id: 69
+BULLOCK
+Id: 72
+253
+Id: 79
+0069999
+Section name: Done
+# of Cards in: 29
+Cards:
+Id: 8
+EQUIPMENT
+Id: 9
+EQUIANET IMPOLT AUTO INUO TOLY INTO Ebu. Pre SALAT
+Id: 10
+Four WALLS
+Id: 13
+Gened Email Reuses DNS ERROR
+Id: 14
+OFDOL 4X Phone Cases 3
+Id: 20
+Bones Yeu Deu
+Id: 22
+ONE SERVE TASUT TRISH STGAON DAVIES UPSIDE Down FOR DATA TABLrt
+Id: 24
+Nicar Ema
+Id: 26
+USB STICK
+Id: 28
+Mon - 4.30
+Id: 40
+Susu Dan Pen ReQT
+Id: 42
+ONERNE > COC
+Id: 43
+.
+Id: 49
+HP LAPTOP FOR BEN REYNOLDS
+Id: 51
+DATALUT NOT WORKING ? ?
+Id: 53
+CHECK ECKIGA
+Id: 57
+ADE
+Id: 58
+NT
+Id: 65
+P2P PROJECT
+Id: 66
+Fauen
+Id: 67
+Eavit
+Id: 68
+PR Recco For Suiores EXCHANGE IP focus.co.uk (Reutes L)
+Id: 70
+UPDATE Abe SAN ON PUSEST
+Id: 71
+TE Prow.com SECADONEST
+Id: 73
+HP LAPTOP FOR REBECCA AT
+Id: 75
+ -
+Id: 76
+WSTAL NEW CLIO ON Enna's Pc
+Id: 77
+JAMES
+Id: 78
+Ticket: 2573

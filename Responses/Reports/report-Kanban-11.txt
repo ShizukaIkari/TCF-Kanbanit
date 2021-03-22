@@ -1,0 +1,23 @@
+Kanban image name: Kanban-11-joutput
+# of Sections: 3
+# of Cards: 5
+Kanban Content:
+Section name: Doing
+# of Cards in: 1
+Cards:
+Id: 1
+Appointment with doctor
+Section name: To Do
+# of Cards in: 2
+Cards:
+Id: 2
+Insurance renewal
+Id: 5
+Pay phone bill
+Section name: Done
+# of Cards in: 2
+Cards:
+Id: 3
+Plan for party
+Id: 4
+Send marriage invite

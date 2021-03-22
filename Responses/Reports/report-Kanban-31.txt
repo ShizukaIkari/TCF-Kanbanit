@@ -1,0 +1,34 @@
+Kanban image name: Kanban-31-joutput
+# of Sections: 4
+# of Cards: 9
+Kanban Content:
+Section name: Ideas
+# of Cards in: 2
+Cards:
+Id: 4
+Manage Profile
+Id: 5
+User Permissions
+Section name: Dev
+# of Cards in: 2
+Cards:
+Id: 3
+Start Discussion
+Id: 6
+Upload Image
+Section name: Release
+# of Cards in: 3
+Cards:
+Id: 2
+Edit Plain Page Text
+Id: 7
+Edit Page
+Id: 9
+Headlines
+Section name: Acceptance Test
+# of Cards in: 2
+Cards:
+Id: 1
+Post Chat Message
+Id: 8
+Edit Formatted Page Text

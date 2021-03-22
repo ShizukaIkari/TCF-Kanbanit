@@ -1,0 +1,27 @@
+Kanban image name: Kanban-45-joutput
+# of Sections: 3
+# of Cards: 7
+Kanban Content:
+Section name: TO DO DOING
+# of Cards in: 3
+Cards:
+Id: 1
+PROCESS FOR CUENT REQUEST
+Id: 6
+RUNNING A RANNIE GAME
+Id: 7
+EXT CRITERIA
+Section name: DONE
+# of Cards in: 3
+Cards:
+Id: 3
+Failere Common complaints.
+Id: 4
+Derland_list.
+Id: 5
+Analys,
+Section name: WIP:1
+# of Cards in: 1
+Cards:
+Id: 2
+VISUAUSE CURRENT WORK 30 min

@@ -1,0 +1,40 @@
+Kanban image name: Kanban-4-joutput
+# of Sections: 4
+# of Cards: 12
+Kanban Content:
+Section name: Started
+# of Cards in: 6
+Cards:
+Id: 2
+Do
+Id: 5
+math problems
+Id: 6
+Read chapter
+Id: 9
+for History
+Id: 10
+Make oday plans with
+Id: 12
+Molly
+Section name: Ongoing
+# of Cards in: 1
+Cards:
+Id: 3
+Look into joining photography club
+Section name: Done
+# of Cards in: 3
+Cards:
+Id: 1
+Jog for 20 mins
+Id: 8
+Study 5o SAT® Vocab words
+Id: 11
+Practice Spanish
+Section name: To do
+# of Cards in: 2
+Cards:
+Id: 4
+Practice guitar •for 30 mins
+Id: 7
+Do SAT practice test

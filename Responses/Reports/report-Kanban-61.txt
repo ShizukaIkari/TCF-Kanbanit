@@ -1,0 +1,67 @@
+Kanban image name: Kanban-61-joutput
+# of Sections: 9
+# of Cards: 20
+Kanban Content:
+Section name: DOWN (3)
+# of Cards in: 4
+Cards:
+Id: 9
+Vio
+Id: 11
+GEILO DISEGN
+Id: 14
+Bunter
+Id: 15
+az
+Section name: Renou AUG
+# of Cards in: 10
+Cards:
+Id: 1
+Preston an
+Id: 2
+Barco
+Id: 3
+Ecco Avoi
+Id: 4
+OHar
+Id: 7
+ 
+Id: 12
+July
+Id: 17
+JUNE
+Id: 18
+AVEVO
+Id: 19
+LO
+Id: 20
+Leo
+Section name: Done
+# of Cards in: 0
+Section name: PEN
+# of Cards in: 0
+Section name: Don Sconto
+# of Cards in: 1
+Cards:
+Id: 8
+A
+Section name: TONI FATE
+# of Cards in: 3
+Cards:
+Id: 6
+Stue
+Id: 10
+DELLE
+Id: 13
+Song
+Section name: ES OP
+# of Cards in: 2
+Cards:
+Id: 5
+Disanamed
+Id: 16
+RENT
+Section name:  
+# of Cards in: 0
+Section name: Tec
+# of Cards in: 0

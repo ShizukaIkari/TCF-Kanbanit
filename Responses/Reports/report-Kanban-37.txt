@@ -1,0 +1,37 @@
+Kanban image name: Kanban-37-joutput
+# of Sections: 6
+# of Cards: 8
+Kanban Content:
+Section name: Root Cause Analysis
+# of Cards in: 0
+Section name: In Queue
+# of Cards in: 2
+Cards:
+Id: 3
+Ticket 2
+Id: 6
+Ticket 3
+Section name: Opened Tickets
+# of Cards in: 1
+Cards:
+Id: 5
+Ticket 1
+Section name: Test
+# of Cards in: 1
+Cards:
+Id: 1
+Ticket 6
+Section name: Development
+# of Cards in: 2
+Cards:
+Id: 4
+Ticket 4
+Id: 7
+Ticket 5
+Section name: Deploy
+# of Cards in: 2
+Cards:
+Id: 2
+Ticket 7
+Id: 8
+Ticket 8

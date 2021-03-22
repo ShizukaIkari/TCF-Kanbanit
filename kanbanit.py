@@ -56,14 +56,13 @@ def build_reports_batch():
         report_name = kanban.get_title().split('-joutput')[0]
         # Creates report file
         Functions.kanban_report(kanban, 'report-{}'.format(report_name))
-        report_cont += 1
 
 # "Batch call" to the images and files in the project
 if __name__ == '__main__':
     # batch_call_api()
-    # build_reports_batch()
-    jsons_dir = os.path.abspath('Responses/Jsons/')
-    
-    kanban = Functions.read_jkanban(jsons_dir + '/' + 'Kanban-20-joutput.json')
-    # Creates report file
-    Functions.kanban_report(kanban, 'report-{}'.format('test'))
+    build_reports_batch()
+
+    # For individual testing
+    # jsons_dir = os.path.abspath('Responses/Jsons/')
+    # kanban = Functions.read_jkanban(jsons_dir + '/' + 'Kanban-20-joutput.json')
+    # Functions.kanban_report(kanban, 'report-{}'.format('test'))

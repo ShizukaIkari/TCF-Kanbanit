@@ -1,0 +1,27 @@
+Kanban image name: Kanban-62-joutput
+# of Sections: 1
+# of Cards: 10
+Kanban Content:
+Section name: Stories To Do In progress Testing Done
+# of Cards in: 10
+Cards:
+Id: 1
+Task 2
+Id: 2
+Task 9
+Id: 3
+Task 1
+Id: 4
+Task I
+Id: 5
+Task 4
+Id: 6
+Task 5
+Id: 7
+Task 3
+Id: 8
+Task 10 Task 8
+Id: 9
+Task 6
+Id: 10
+Task II

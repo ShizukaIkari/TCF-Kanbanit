@@ -1,0 +1,67 @@
+Kanban image name: Kanban-8-joutput
+# of Sections: 5
+# of Cards: 24
+Kanban Content:
+Section name: In Progress
+# of Cards in: 7
+Cards:
+Id: 4
+This is a sample text
+Id: 8
+This is a sample text.
+Id: 11
+This is a
+Id: 13
+Sample text.
+Id: 16
+This is a
+Id: 19
+sample text
+Id: 20
+This is a sample text. Replace it with your own
+Section name: Stories
+# of Cards in: 3
+Cards:
+Id: 2
+This is a sample text. Replace it with your own
+Id: 6
+text.
+Id: 18
+This is a sample text. Replace it with your own text.
+Section name: Testing
+# of Cards in: 5
+Cards:
+Id: 1
+This is a sample text.
+Id: 7
+This is a sample text.
+Id: 12
+This is a sample text.
+Id: 14
+This is a sample text
+Id: 22
+This is a sample text.
+Section name: To Do
+# of Cards in: 6
+Cards:
+Id: 3
+This is a sample This is a sample text. Replace it text. Replace it with your own with your own text. text.
+Id: 9
+This is a sample This is a sample text. Replace it text. Replace it with your own with your own text. text.
+Id: 17
+This is a This is a sample text. sample text.
+Id: 21
+This is a sample text.
+Id: 23
+This is a
+Id: 24
+sample text.
+Section name: Done
+# of Cards in: 3
+Cards:
+Id: 5
+This is a sample text. Replace it with your own text.
+Id: 10
+This is a sample text. Replace it with your own text.
+Id: 15
+This is a sample text. Replace it with your own text.

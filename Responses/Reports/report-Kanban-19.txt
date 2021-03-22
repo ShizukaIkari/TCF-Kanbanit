@@ -1,0 +1,25 @@
+Kanban image name: Kanban-19-joutput
+# of Sections: 3
+# of Cards: 6
+Kanban Content:
+Section name: WORK IN PROGRESS
+# of Cards in: 2
+Cards:
+Id: 2
+Move projects you've started here.
+Id: 5
+Almost done!
+Section name: TO DO
+# of Cards in: 3
+Cards:
+Id: 1
+Create your own Kan Ban!
+Id: 4
+Use sticky notes.
+Id: 6
+Move stickies as you work.
+Section name: DONE
+# of Cards in: 1
+Cards:
+Id: 3
+Finished? Move the sticky here!

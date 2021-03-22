@@ -1,0 +1,45 @@
+Kanban image name: Kanban-25-joutput
+# of Sections: 5
+# of Cards: 13
+Kanban Content:
+Section name: test
+# of Cards in: 2
+Cards:
+Id: 3
+4
+Id: 9
+xwing oil change
+Section name: deploy
+# of Cards in: 2
+Cards:
+Id: 4
+new saber crystal
+Id: 10
+recruit jedis
+Section name: to-do
+# of Cards in: 4
+Cards:
+Id: 1
+expedite
+Id: 5
+escape Hoth
+Id: 7
+normal
+Id: 11
+find Han
+Section name: analysis
+# of Cards in: 2
+Cards:
+Id: 8
+train jedis
+Id: 13
+find droids
+Section name: development
+# of Cards in: 3
+Cards:
+Id: 2
+shave wookie
+Id: 6
+tease Vader
+Id: 12
+death star v3

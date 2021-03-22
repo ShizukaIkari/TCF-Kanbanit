@@ -1,0 +1,36 @@
+Kanban image name: Kanban-47-joutput
+# of Sections: 4
+# of Cards: 10
+Kanban Content:
+Section name: COULD DO
+# of Cards in: 3
+Cards:
+Id: 3
+10 TOPICS
+Id: 4
+for MANAGEX Focused BLOG)
+Id: 8
+REVIEW SITE ANALYTICS
+Section name: DOING
+# of Cards in: 2
+Cards:
+Id: 2
+WRITE KANBAN POST
+Id: 6
+SCHEDULE TWEED FOR WIC B NOV
+Section name: DONE
+# of Cards in: 4
+Cards:
+Id: 1
+REGISTER WEB DOMAIN
+Id: 7
+SET UP web site
+Id: 9
+PPORT Accoss CINKED IN BLOGS
+Id: 10
+SET UP DIFFERENTLYarees TWITTEL Accore
+Section name: TO-DO
+# of Cards in: 1
+Cards:
+Id: 5
+GET SITE LOGO DESIGNED

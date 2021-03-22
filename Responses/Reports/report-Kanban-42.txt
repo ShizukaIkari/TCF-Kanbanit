@@ -1,0 +1,18 @@
+Kanban image name: Kanban-42-joutput
+# of Sections: 2
+# of Cards: 4
+Kanban Content:
+Section name: In Progress Done
+# of Cards in: 3
+Cards:
+Id: 1
+LEARN ABOUT KANBAN
+Id: 2
+GET SOME STICKY
+Id: 4
+NOTES
+Section name: To Do
+# of Cards in: 1
+Cards:
+Id: 3
+USE KANBAN

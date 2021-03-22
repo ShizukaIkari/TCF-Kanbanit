@@ -1,0 +1,21 @@
+Kanban image name: Kanban-21-joutput
+# of Sections: 3
+# of Cards: 5
+Kanban Content:
+Section name: A FAZER
+# of Cards in: 5
+Cards:
+Id: 1
+FAXINA
+Id: 2
+PAGAR CONDOMÍNIO
+Id: 3
+COMPRAR:
+Id: 4
+LEITE - ovos - MANTEIGA
+Id: 5
+TROCAL INTERNET /TV
+Section name: FAZENDO
+# of Cards in: 0
+Section name: FEITO I
+# of Cards in: 0

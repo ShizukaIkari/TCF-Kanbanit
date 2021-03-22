@@ -104,7 +104,7 @@ def set_cards_to_kanban(knbn_dic, lst_dic_sections, knbn_board):
 
         # Iterates to find the minimum distance, min_sec receives the object that has the absolute minumum distance
         # Pythonic way to find the minimum distance and return the correspondent section, works in some jsons
-        # and fails for "no reason" in others
+        # and fails for unknown reason in others
         # min_sec = min((abs(x_card - sec_tuple[1]), sec_tuple[0]) for sec_tuple in sections_x_means)[1]
         
         # The distance between the first section and the card

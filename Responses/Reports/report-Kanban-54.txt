@@ -1,0 +1,39 @@
+Kanban image name: Kanban-54-joutput
+# of Sections: 4
+# of Cards: 12
+Kanban Content:
+Section name: In Progress
+# of Cards in: 3
+Cards:
+Id: 2
+Task
+Id: 4
+Task
+Id: 9
+Task
+Section name: To Do
+# of Cards in: 5
+Cards:
+Id: 3
+Task
+Id: 6
+Task
+Id: 7
+Task
+Id: 10
+Task
+Id: 12
+Task
+Section name: Done
+# of Cards in: 4
+Cards:
+Id: 1
+Task
+Id: 5
+Task
+Id: 8
+Task
+Id: 11
+Task
+Section name: I
+# of Cards in: 0
