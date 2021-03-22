@@ -1,0 +1,571 @@
+{
+    "cards": [
+        {
+            "bounding_box": [
+                [
+                    99,
+                    23
+                ],
+                [
+                    208,
+                    22
+                ],
+                [
+                    208,
+                    41
+                ],
+                [
+                    99,
+                    42
+                ]
+            ],
+            "text": "CERTEZAS"
+        },
+        {
+            "bounding_box": [
+                [
+                    500,
+                    15
+                ],
+                [
+                    638,
+                    16
+                ],
+                [
+                    638,
+                    47
+                ],
+                [
+                    500,
+                    46
+                ]
+            ],
+            "text": "SUPOSIÇÕES"
+        },
+        {
+            "bounding_box": [
+                [
+                    938,
+                    20
+                ],
+                [
+                    1030,
+                    20
+                ],
+                [
+                    1030,
+                    44
+                ],
+                [
+                    938,
+                    44
+                ]
+            ],
+            "text": "DÚVIDAS"
+        },
+        {
+            "bounding_box": [
+                [
+                    136,
+                    138
+                ],
+                [
+                    198,
+                    139
+                ],
+                [
+                    198,
+                    157
+                ],
+                [
+                    136,
+                    156
+                ]
+            ],
+            "text": "Sugestão"
+        },
+        {
+            "bounding_box": [
+                [
+                    24,
+                    139
+                ],
+                [
+                    87,
+                    137
+                ],
+                [
+                    88,
+                    176
+                ],
+                [
+                    25,
+                    178
+                ]
+            ],
+            "text": "Sugestão por filme"
+        },
+        {
+            "bounding_box": [
+                [
+                    252,
+                    121
+                ],
+                [
+                    316,
+                    121
+                ],
+                [
+                    316,
+                    191
+                ],
+                [
+                    252,
+                    191
+                ]
+            ],
+            "text": "Se localiza por data e hora, da série."
+        },
+        {
+            "bounding_box": [
+                [
+                    422,
+                    134
+                ],
+                [
+                    494,
+                    135
+                ],
+                [
+                    493,
+                    201
+                ],
+                [
+                    421,
+                    200
+                ]
+            ],
+            "text": "Marcar como assistido ou último episódio"
+        },
+        {
+            "bounding_box": [
+                [
+                    138,
+                    163
+                ],
+                [
+                    194,
+                    161
+                ],
+                [
+                    195,
+                    175
+                ],
+                [
+                    139,
+                    177
+                ]
+            ],
+            "text": "por ator"
+        },
+        {
+            "bounding_box": [
+                [
+                    539,
+                    128
+                ],
+                [
+                    697,
+                    128
+                ],
+                [
+                    697,
+                    201
+                ],
+                [
+                    539,
+                    201
+                ]
+            ],
+            "text": "As pessoas querem avaliar o filme depois de assistido, para alimentar as próximas sugestões"
+        },
+        {
+            "bounding_box": [
+                [
+                    1003,
+                    119
+                ],
+                [
+                    1078,
+                    119
+                ],
+                [
+                    1078,
+                    198
+                ],
+                [
+                    1003,
+                    198
+                ]
+            ],
+            "text": "Quais os melhores formatos de ordenamento de séries?"
+        },
+        {
+            "bounding_box": [
+                [
+                    856,
+                    130
+                ],
+                [
+                    936,
+                    130
+                ],
+                [
+                    936,
+                    203
+                ],
+                [
+                    856,
+                    203
+                ]
+            ],
+            "text": "Como dar conta de diferentes públicos com diferentes comportamentos a partir de uma única solução?"
+        },
+        {
+            "bounding_box": [
+                [
+                    21,
+                    244
+                ],
+                [
+                    93,
+                    244
+                ],
+                [
+                    93,
+                    266
+                ],
+                [
+                    21,
+                    266
+                ]
+            ],
+            "text": "Sugestão"
+        },
+        {
+            "bounding_box": [
+                [
+                    45,
+                    269
+                ],
+                [
+                    70,
+                    272
+                ],
+                [
+                    67,
+                    289
+                ],
+                [
+                    43,
+                    286
+                ]
+            ],
+            "text": "por"
+        },
+        {
+            "bounding_box": [
+                [
+                    136,
+                    258
+                ],
+                [
+                    202,
+                    259
+                ],
+                [
+                    201,
+                    308
+                ],
+                [
+                    135,
+                    307
+                ]
+            ],
+            "text": "Entrar com Gmail, e Facebook"
+        },
+        {
+            "bounding_box": [
+                [
+                    427,
+                    259
+                ],
+                [
+                    510,
+                    259
+                ],
+                [
+                    510,
+                    321
+                ],
+                [
+                    427,
+                    321
+                ]
+            ],
+            "text": "As pessoas querem receber notificações de novas sugestões"
+        },
+        {
+            "bounding_box": [
+                [
+                    549,
+                    250
+                ],
+                [
+                    627,
+                    249
+                ],
+                [
+                    628,
+                    322
+                ],
+                [
+                    550,
+                    323
+                ]
+            ],
+            "text": "Notificações de aviso para voltar a série."
+        },
+        {
+            "bounding_box": [
+                [
+                    670,
+                    251
+                ],
+                [
+                    754,
+                    251
+                ],
+                [
+                    754,
+                    331
+                ],
+                [
+                    670,
+                    331
+                ]
+            ],
+            "text": "Há necessidade de se conectar com os amigos do facebook"
+        },
+        {
+            "bounding_box": [
+                [
+                    25,
+                    293
+                ],
+                [
+                    85,
+                    292
+                ],
+                [
+                    85,
+                    314
+                ],
+                [
+                    25,
+                    315
+                ]
+            ],
+            "text": "gênero."
+        },
+        {
+            "bounding_box": [
+                [
+                    882,
+                    259
+                ],
+                [
+                    961,
+                    259
+                ],
+                [
+                    961,
+                    345
+                ],
+                [
+                    882,
+                    345
+                ]
+            ],
+            "text": "Quais os melhores formatos para notificações? pushs ou organização automática do app/sinalização dentro do app?"
+        },
+        {
+            "bounding_box": [
+                [
+                    1012,
+                    271
+                ],
+                [
+                    1095,
+                    270
+                ],
+                [
+                    1096,
+                    342
+                ],
+                [
+                    1013,
+                    343
+                ]
+            ],
+            "text": "Pensando num MVP quais as informações mais relevantes que devem ser exibidas sobre cada série?"
+        },
+        {
+            "bounding_box": [
+                [
+                    621,
+                    377
+                ],
+                [
+                    745,
+                    376
+                ],
+                [
+                    745,
+                    436
+                ],
+                [
+                    621,
+                    437
+                ]
+            ],
+            "text": "As pessoas querem criar um perfil pessoal onde possam seguir/serem seguidos por amigos"
+        },
+        {
+            "bounding_box": [
+                [
+                    804,
+                    429
+                ],
+                [
+                    939,
+                    429
+                ],
+                [
+                    939,
+                    497
+                ],
+                [
+                    804,
+                    497
+                ]
+            ],
+            "text": "Questionário Para aprimorar o sistema."
+        },
+        {
+            "bounding_box": [
+                [
+                    1001,
+                    391
+                ],
+                [
+                    1071,
+                    391
+                ],
+                [
+                    1071,
+                    468
+                ],
+                [
+                    1001,
+                    468
+                ]
+            ],
+            "text": "Gamefic ação/ba dges"
+        },
+        {
+            "bounding_box": [
+                [
+                    458,
+                    477
+                ],
+                [
+                    525,
+                    477
+                ],
+                [
+                    525,
+                    545
+                ],
+                [
+                    458,
+                    545
+                ]
+            ],
+            "text": "As pessoas querem criar/seguir playlists"
+        },
+        {
+            "bounding_box": [
+                [
+                    608,
+                    485
+                ],
+                [
+                    745,
+                    485
+                ],
+                [
+                    745,
+                    544
+                ],
+                [
+                    608,
+                    544
+                ]
+            ],
+            "text": "As pessoas querem ver quais séries foram as mais assistidas na semana pelo publico geral"
+        },
+        {
+            "bounding_box": [
+                [
+                    669,
+                    597
+                ],
+                [
+                    735,
+                    599
+                ],
+                [
+                    734,
+                    638
+                ],
+                [
+                    668,
+                    636
+                ]
+            ],
+            "text": "Cria uma explicação personalizada"
+        },
+        {
+            "bounding_box": [
+                [
+                    1078,
+                    676
+                ],
+                [
+                    1112,
+                    676
+                ],
+                [
+                    1112,
+                    692
+                ],
+                [
+                    1078,
+                    692
+                ]
+            ],
+            "text": "miro"
+        }
+    ]
+}

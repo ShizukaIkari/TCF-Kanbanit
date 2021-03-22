@@ -61,7 +61,7 @@
                     89
                 ]
             ],
-            "text": "Aprovao"
+            "text": "Aprovação"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     254
                 ]
             ],
-            "text": "Comprar mveis"
+            "text": "Comprar móveis"
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     348
                 ]
             ],
-            "text": "Escolher as estampas dos papis de parede"
+            "text": "Escolher as estampas dos papéis de parede"
         }
     ]
 }

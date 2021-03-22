@@ -19,7 +19,7 @@
                     46
                 ]
             ],
-            "text": "Stories "
+            "text": "Stories"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     45
                 ]
             ],
-            "text": "To Do "
+            "text": "To Do"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     46
                 ]
             ],
-            "text": "In Progress "
+            "text": "In Progress"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     45
                 ]
             ],
-            "text": "Testing "
+            "text": "Testing"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     44
                 ]
             ],
-            "text": "Done "
+            "text": "Done"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     116
                 ]
             ],
-            "text": "Task #1 "
+            "text": "Task #1"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     113
                 ]
             ],
-            "text": "Task #2 "
+            "text": "Task #2"
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     109
                 ]
             ],
-            "text": "Task #7 "
+            "text": "Task #7"
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     119
                 ]
             ],
-            "text": "Task #3 "
+            "text": "Task #3"
         },
         {
             "bounding_box": [
@@ -208,7 +208,7 @@
                     117
                 ]
             ],
-            "text": "Task #8 "
+            "text": "Task #8"
         },
         {
             "bounding_box": [
@@ -229,7 +229,7 @@
                     113
                 ]
             ],
-            "text": "Task 216 "
+            "text": "Task 216"
         },
         {
             "bounding_box": [
@@ -250,7 +250,7 @@
                     176
                 ]
             ],
-            "text": "Task #6 "
+            "text": "Task #6"
         },
         {
             "bounding_box": [
@@ -271,7 +271,7 @@
                     177
                 ]
             ],
-            "text": "Task #9 "
+            "text": "Task #9"
         },
         {
             "bounding_box": [
@@ -292,7 +292,7 @@
                     176
                 ]
             ],
-            "text": "Task 17 "
+            "text": "Task 17"
         },
         {
             "bounding_box": [
@@ -313,7 +313,7 @@
                     259
                 ]
             ],
-            "text": "Task #10 "
+            "text": "Task #10"
         },
         {
             "bounding_box": [
@@ -334,7 +334,7 @@
                     255
                 ]
             ],
-            "text": "Task 31 "
+            "text": "Task 31"
         },
         {
             "bounding_box": [
@@ -355,7 +355,7 @@
                     270
                 ]
             ],
-            "text": "New task "
+            "text": "New task"
         },
         {
             "bounding_box": [
@@ -376,7 +376,7 @@
                     258
                 ]
             ],
-            "text": "Task +12 "
+            "text": "Task +12"
         },
         {
             "bounding_box": [
@@ -397,7 +397,7 @@
                     252
                 ]
             ],
-            "text": "Task #13 "
+            "text": "Task #13"
         },
         {
             "bounding_box": [
@@ -418,7 +418,7 @@
                     268
                 ]
             ],
-            "text": "Task 15 "
+            "text": "Task 15"
         },
         {
             "bounding_box": [
@@ -439,7 +439,7 @@
                     315
                 ]
             ],
-            "text": "Task #34 "
+            "text": "Task #34"
         }
     ]
 }

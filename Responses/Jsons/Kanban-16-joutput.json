@@ -19,7 +19,7 @@
                     62
                 ]
             ],
-            "text": "DONE "
+            "text": "DONE"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     100
                 ]
             ],
-            "text": "READY "
+            "text": "READY"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     81
                 ]
             ],
-            "text": "THE PEN "
+            "text": "THE PEN"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     105
                 ]
             ],
-            "text": "DOING "
+            "text": "DOING"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     249
                 ]
             ],
-            "text": "CREATE Loyours FOR PRESENTATION "
+            "text": "CREATE Loyours FOR PRESENTATION"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     262
                 ]
             ],
-            "text": "MAKE CLOCK SLIDE For BOTH "
+            "text": "MAKE CLOCK SLIDE For BOTH"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     241
                 ]
             ],
-            "text": "SCHEDULE PAINTERS LeRTVm June 16 CALL BACK!  Juan 12 "
+            "text": "SCHEDULE PAINTERS LeRTVm June 16 CALL BACK!  Juan 12"
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     207
                 ]
             ],
-            "text": "DROP Coses IN ZAVEA "
+            "text": "DROP Coses IN ZAVEA"
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     317
                 ]
             ],
-            "text": "PRINT TRAVEL "
+            "text": "PRINT TRAVEL"
         },
         {
             "bounding_box": [
@@ -208,7 +208,7 @@
                     360
                 ]
             ],
-            "text": "EURO PLUG FOR Loproe "
+            "text": "EURO PLUG FOR Loproe"
         },
         {
             "bounding_box": [
@@ -229,7 +229,7 @@
                     386
                 ]
             ],
-            "text": "DIRECTIONS DOCS "
+            "text": "DIRECTIONS DOCS"
         },
         {
             "bounding_box": [
@@ -250,7 +250,7 @@
                     415
                 ]
             ],
-            "text": "STUDY w714 DEBBIE "
+            "text": "STUDY w714 DEBBIE"
         },
         {
             "bounding_box": [
@@ -271,7 +271,7 @@
                     534
                 ]
             ],
-            "text": "Vivian's ADAPTOR KIT ? "
+            "text": "Vivian's ADAPTOR KIT ?"
         },
         {
             "bounding_box": [
@@ -292,7 +292,7 @@
                     529
                 ]
             ],
-            "text": "SELECT Clothes "
+            "text": "SELECT Clothes"
         },
         {
             "bounding_box": [
@@ -313,7 +313,7 @@
                     547
                 ]
             ],
-            "text": "CONDACI MICHAEL FORZ 2 hanteloord "
+            "text": "CONDACI MICHAEL FORZ 2 hanteloord"
         },
         {
             "bounding_box": [
@@ -334,7 +334,7 @@
                     589
                 ]
             ],
-            "text": "SWEDTERS! "
+            "text": "SWEDTERS!"
         }
     ]
 }

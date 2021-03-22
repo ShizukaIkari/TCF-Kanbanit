@@ -19,7 +19,7 @@
                     54
                 ]
             ],
-            "text": "To Do "
+            "text": "To Do"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     58
                 ]
             ],
-            "text": "Doing "
+            "text": "Doing"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     54
                 ]
             ],
-            "text": "Done "
+            "text": "Done"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     181
                 ]
             ],
-            "text": "Insurance renewal "
+            "text": "Insurance renewal"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     180
                 ]
             ],
-            "text": "Appointment with doctor "
+            "text": "Appointment with doctor"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     167
                 ]
             ],
-            "text": "Plan for party "
+            "text": "Plan for party"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     264
                 ]
             ],
-            "text": "Pay phone bill "
+            "text": "Pay phone bill"
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     278
                 ]
             ],
-            "text": "Send marriage invite "
+            "text": "Send marriage invite"
         }
     ]
 }

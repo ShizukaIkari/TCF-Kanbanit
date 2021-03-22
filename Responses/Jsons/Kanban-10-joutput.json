@@ -19,7 +19,7 @@
                     127
                 ]
             ],
-            "text": "Estórias de Usuário "
+            "text": "Estórias de Usuário"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     103
                 ]
             ],
-            "text": "A fazer "
+            "text": "A fazer"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     129
                 ]
             ],
-            "text": "Em andamento "
+            "text": "Em andamento"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     103
                 ]
             ],
-            "text": "Em testes "
+            "text": "Em testes"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     104
                 ]
             ],
-            "text": "Pronto! "
+            "text": "Pronto!"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     347
                 ]
             ],
-            "text": "Como diretor financeiro eu gostaria de ver as tendências mensais de vendas "
+            "text": "Como diretor financeiro eu gostaria de ver as tendências mensais de vendas"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     260
                 ]
             ],
-            "text": "Alterar Interface de usuário. "
+            "text": "Alterar Interface de usuário."
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     323
                 ]
             ],
-            "text": "Desenvolver relatório com 4 colunas e um gráfico pizza. "
+            "text": "Desenvolver relatório com 4 colunas e um gráfico pizza."
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     294
                 ]
             ],
-            "text": "Atualizar documentação de usuário. "
+            "text": "Atualizar documentação de usuário."
         },
         {
             "bounding_box": [
@@ -208,7 +208,7 @@
                     289
                 ]
             ],
-            "text": "Query de extração de dados. "
+            "text": "Query de extração de dados."
         },
         {
             "bounding_box": [
@@ -229,7 +229,7 @@
                     296
                 ]
             ],
-            "text": "Dashboard de vendas - gráfico de linhas. "
+            "text": "Dashboard de vendas - gráfico de linhas."
         },
         {
             "bounding_box": [
@@ -250,7 +250,7 @@
                     709
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -271,7 +271,7 @@
                     703
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -292,7 +292,7 @@
                     703
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -313,7 +313,7 @@
                     697
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -334,7 +334,7 @@
                     698
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -355,7 +355,7 @@
                     702
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -376,7 +376,7 @@
                     843
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -397,7 +397,7 @@
                     842
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -418,7 +418,7 @@
                     836
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         },
         {
             "bounding_box": [
@@ -439,7 +439,7 @@
                     845
                 ]
             ],
-            "text": "Este é um exemplo. "
+            "text": "Este é um exemplo."
         }
     ]
 }

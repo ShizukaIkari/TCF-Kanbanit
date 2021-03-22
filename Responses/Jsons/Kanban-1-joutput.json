@@ -19,7 +19,7 @@
                     55
                 ]
             ],
-            "text": "TO DO "
+            "text": "TO DO"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     54
                 ]
             ],
-            "text": "DONE "
+            "text": "DONE"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     90
                 ]
             ],
-            "text": "ON-GOING < WIP = 3> "
+            "text": "ON-GOING < WIP = 3>"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     126
                 ]
             ],
-            "text": "Waiting on Customer < WIP = 5 > "
+            "text": "Waiting on Customer < WIP = 5 >"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     230
                 ]
             ],
-            "text": "Task G "
+            "text": "Task G"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     230
                 ]
             ],
-            "text": "Task D "
+            "text": "Task D"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     231
                 ]
             ],
-            "text": "Task C "
+            "text": "Task C"
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     231
                 ]
             ],
-            "text": "Task A "
+            "text": "Task A"
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     325
                 ]
             ],
-            "text": "Task K "
+            "text": "Task K"
         },
         {
             "bounding_box": [
@@ -208,7 +208,7 @@
                     326
                 ]
             ],
-            "text": "Task F "
+            "text": "Task F"
         },
         {
             "bounding_box": [
@@ -229,7 +229,7 @@
                     325
                 ]
             ],
-            "text": "Task B "
+            "text": "Task B"
         },
         {
             "bounding_box": [
@@ -250,7 +250,7 @@
                     420
                 ]
             ],
-            "text": "Task | "
+            "text": "Task |"
         },
         {
             "bounding_box": [
@@ -271,7 +271,7 @@
                     420
                 ]
             ],
-            "text": "Task E "
+            "text": "Task E"
         }
     ]
 }

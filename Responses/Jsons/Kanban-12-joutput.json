@@ -19,7 +19,7 @@
                     197
                 ]
             ],
-            "text": "De "
+            "text": "De"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     225
                 ]
             ],
-            "text": "Doing "
+            "text": "Doing"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     252
                 ]
             ],
-            "text": "Done "
+            "text": "Done"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     551
                 ]
             ],
-            "text": "Respond to email "
+            "text": "Respond to email"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     527
                 ]
             ],
-            "text": "Financial "
+            "text": "Financial"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     524
                 ]
             ],
-            "text": "Complete "
+            "text": "Complete"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     629
                 ]
             ],
-            "text": "projections "
+            "text": "projections"
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     615
                 ]
             ],
-            "text": "coding course "
+            "text": "coding course"
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     680
                 ]
             ],
-            "text": "Project wrap-up meeting "
+            "text": "Project wrap-up meeting"
         },
         {
             "bounding_box": [
@@ -208,7 +208,7 @@
                     778
                 ]
             ],
-            "text": "Write a "
+            "text": "Write a"
         },
         {
             "bounding_box": [
@@ -229,7 +229,7 @@
                     842
                 ]
             ],
-            "text": "Turn in "
+            "text": "Turn in"
         },
         {
             "bounding_box": [
@@ -250,7 +250,7 @@
                     898
                 ]
             ],
-            "text": "blog "
+            "text": "blog"
         },
         {
             "bounding_box": [
@@ -271,7 +271,7 @@
                     935
                 ]
             ],
-            "text": "billable hours "
+            "text": "billable hours"
         },
         {
             "bounding_box": [
@@ -292,7 +292,7 @@
                     1247
                 ]
             ],
-            "text": "Research new software "
+            "text": "Research new software"
         },
         {
             "bounding_box": [
@@ -313,7 +313,7 @@
                     1287
                 ]
             ],
-            "text": "New client proposal "
+            "text": "New client proposal"
         },
         {
             "bounding_box": [
@@ -334,7 +334,7 @@
                     1509
                 ]
             ],
-            "text": "Setup Twitter "
+            "text": "Setup Twitter"
         },
         {
             "bounding_box": [
@@ -355,7 +355,7 @@
                     1581
                 ]
             ],
-            "text": "account "
+            "text": "account"
         }
     ]
 }

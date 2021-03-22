@@ -19,7 +19,7 @@
                     82
                 ]
             ],
-            "text": "Fazer "
+            "text": "Fazer"
         },
         {
             "bounding_box": [
@@ -40,7 +40,7 @@
                     83
                 ]
             ],
-            "text": "Fazendo "
+            "text": "Fazendo"
         },
         {
             "bounding_box": [
@@ -61,7 +61,7 @@
                     87
                 ]
             ],
-            "text": "Aprovação "
+            "text": "Aprovação"
         },
         {
             "bounding_box": [
@@ -82,7 +82,7 @@
                     82
                 ]
             ],
-            "text": "Feito "
+            "text": "Feito"
         },
         {
             "bounding_box": [
@@ -103,7 +103,7 @@
                     91
                 ]
             ],
-            "text": "3 "
+            "text": "3"
         },
         {
             "bounding_box": [
@@ -124,7 +124,7 @@
                     194
                 ]
             ],
-            "text": "Mensurar resultados "
+            "text": "Mensurar resultados"
         },
         {
             "bounding_box": [
@@ -145,7 +145,7 @@
                     203
                 ]
             ],
-            "text": "Definir objetivo "
+            "text": "Definir objetivo"
         },
         {
             "bounding_box": [
@@ -166,7 +166,7 @@
                     225
                 ]
             ],
-            "text": "Definir período "
+            "text": "Definir período"
         },
         {
             "bounding_box": [
@@ -187,7 +187,7 @@
                     218
                 ]
             ],
-            "text": "Definir orçamento "
+            "text": "Definir orçamento"
         },
         {
             "bounding_box": [
@@ -208,7 +208,7 @@
                     345
                 ]
             ],
-            "text": "Configurar a campanha no canal "
+            "text": "Configurar a campanha no canal"
         },
         {
             "bounding_box": [
@@ -229,7 +229,7 @@
                     337
                 ]
             ],
-            "text": "Escolher canais "
+            "text": "Escolher canais"
         },
         {
             "bounding_box": [
@@ -250,7 +250,7 @@
                     473
                 ]
             ],
-            "text": "Fazer briefing das artes "
+            "text": "Fazer briefing das artes"
         },
         {
             "bounding_box": [
@@ -271,7 +271,7 @@
                     469
                 ]
             ],
-            "text": "Definir público-alvo "
+            "text": "Definir público-alvo"
         }
     ]
 }
