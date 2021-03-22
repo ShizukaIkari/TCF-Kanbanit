@@ -3,7 +3,8 @@ import os
 # Imports the Google Cloud client library
 from google.cloud import vision
 import Functions
-# Objeto de resposta do google não é serializável. Converter para string perde os acentos
+# Objeto de resposta do google não é serializável. 
+# Converter para string perde os acentos
 import json
 import asyncio
 # Dando esse erro: RepeatedComposite has no attribute DESCRIPTOR
@@ -27,12 +28,12 @@ def call_api(filepath, filename):
     document = response.full_text_annotation
 
     # Saving the original response
-    with open('Responses/Original/{}-soutput.txt'.format(name_only), 'w+', encoding='latin1') as sOtp_file:
+    with open('Responses/Original/{}-soutput.txt'.format(name_only), 'w+', encoding='cp1252') as sOtp_file:
         sOtp_file.writelines(str(document))
 
     kanban_output = Functions.build_myjson(document)
 
-    with open('Responses/Jsons/{}-joutput.json'.format(name_only), 'w+') as jOtp_file:
+    with open('Responses/Jsons/{}-joutput.json'.format(name_only), 'w+', encoding='cp1252', errors='ignore') as jOtp_file:
         json.dump(kanban_output, jOtp_file, ensure_ascii=False, indent=4)
     
     if response.error.message:
@@ -47,15 +48,22 @@ def batch_call_api():
 
 def build_reports_batch():
     jsons_dir = os.path.abspath('Responses/Jsons/')
-    # To name the report, no creativity to name it
-    report_cont = 1
-    for json_file in os.listdir(jsons_dir):
+    
+    for i_json_file in range(0, len(os.listdir(jsons_dir))):
+        json_file = os.listdir(jsons_dir)[i_json_file]
         kanban = Functions.read_jkanban(jsons_dir + '/' + json_file)
+        # Get kanban title without the joutput
+        report_name = kanban.get_title().split('-joutput')[0]
         # Creates report file
-        Functions.kanban_report(kanban, 'report-{}'.format(report_cont))
+        Functions.kanban_report(kanban, 'report-{}'.format(report_name))
         report_cont += 1
 
 # "Batch call" to the images and files in the project
 if __name__ == '__main__':
-    batch_call_api()
+    # batch_call_api()
     # build_reports_batch()
+    jsons_dir = os.path.abspath('Responses/Jsons/')
+    
+    kanban = Functions.read_jkanban(jsons_dir + '/' + 'Kanban-20-joutput.json')
+    # Creates report file
+    Functions.kanban_report(kanban, 'report-{}'.format('test'))
