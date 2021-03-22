@@ -2,11 +2,11 @@
 class Board:
    
     def __init__(self):
-        # Title of the kanban board
-        self.__sections = []
-        # Number of cards inside of the board
-        self.__title = ''
         # List of Section objects
+        self.__sections = []
+        # Title of the kanban board
+        self.__title = ''
+        # Number of cards inside of the board
         self.__card_count = 0
     
     # Returns the list of Section's objects from Board object 
