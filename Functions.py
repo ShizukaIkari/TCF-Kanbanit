@@ -25,9 +25,9 @@ def build_myjson(g_document):
                         BreakType = symbol.property.detected_break.type_
                         # Even though there's types of breaks, I decided that simply adding a space will do
                         if BreakType in [BreakType.SPACE, BreakType.SURE_SPACE, BreakType.EOL_SURE_SPACE, BreakType.HYPHEN, BreakType.LINE_BREAK]:
-                            w_content += (symbol.text).encode('cp1252', 'ignore').decode('UTF-8', 'ignore') + ' '
+                            w_content += (symbol.text) + ' '
                         else:
-                            w_content += (symbol.text).encode('cp1252', 'ignore').decode('UTF-8', 'ignore')
+                            w_content += (symbol.text)
                     p_contents += w_content
             block_dic = {'bounding_box': get_bounding_box(block.bounding_box), 'text': p_contents.strip()}
             kanban_cards['cards'].append(block_dic)
@@ -89,7 +89,7 @@ def set_cards_to_kanban(knbn_dic, lst_dic_sections, knbn_board):
         sec_mean = (sec['bounding_box'][0][0] + sec['bounding_box'][1][0])/2
         obj_section = Section.Section(sec['text'], knbn_board)
         sections_x_means.append((obj_section, sec_mean))
-
+   
     # Calculates the x means of cards that aren't sections
     cards_x_means = []
     for card in knbn_dic['cards']:
@@ -103,9 +103,18 @@ def set_cards_to_kanban(knbn_dic, lst_dic_sections, knbn_board):
         x_card = card_tuple[1]
 
         # Iterates to find the minimum distance, min_sec receives the object that has the absolute minumum distance
-        # Pythonic way to find the minimum distance and return the correspondent section
-        min_sec = min((abs(x_card - sec_tuple[1]), sec_tuple[0]) for sec_tuple in sections_x_means)[1]
-
+        # Pythonic way to find the minimum distance and return the correspondent section, works in some jsons
+        # and fails for "no reason" in others
+        # min_sec = min((abs(x_card - sec_tuple[1]), sec_tuple[0]) for sec_tuple in sections_x_means)[1]
+        
+        # The distance between the first section and the card
+        min_dist = abs(x_card - sections_x_means[0][1])
+        min_sec = sections_x_means[0][0]
+        for sec_tuple in sections_x_means:
+            if (abs(x_card - sec_tuple[1]) < min_dist):
+                min_dist = abs(x_card - sec_tuple[1])
+                min_sec = sec_tuple[0]
+                
         # Now that we know that this section is the closest to the card, we add it to the section.
         min_sec.add_card(card_tuple[0]['text'])
 
@@ -113,7 +122,7 @@ def set_cards_to_kanban(knbn_dic, lst_dic_sections, knbn_board):
 
 # Outputs a file with info about the Kanban Board 
 def kanban_report(knbn_board, report_name):
-    with open('Responses/Reports/{}.txt'.format(report_name), 'w') as report_file:
+    with open('Responses/Reports/{}.txt'.format(report_name), 'w', encoding='cp1252', errors='ignore') as report_file:
         # str(kanban) handles the formatting of the report 
         report_file.writelines(str(knbn_board))
     print('Ok')
@@ -142,7 +151,7 @@ def read_jkanban(file_name):
     json_name = file_name.split('/')[-1]
     my_kanban.set_title(json_name.split('.')[0])
 
-    with open(file_name) as jkanban:
+    with open(file_name, encoding='cp1252', errors='ignore') as jkanban:
         my_jkanban = json.load(jkanban)
         # Retrieves sections from json dict
         sections = find_sections(my_jkanban)
