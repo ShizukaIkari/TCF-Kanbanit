@@ -1,67 +1,39 @@
-Kanban image name: Kanban-61-joutput
-# of Sections: 9
-# of Cards: 20
+Kanban image name: Kanban-66-joutput
+# of Sections: 3
+# of Cards: 13
 Kanban Content:
-Section name: DOWN (3)
-# of Cards in: 4
+Section name: To Do List
+# of Cards in: 6
 Cards:
+Id: 4
+Lorem ISUD
+Id: 6
+LOTETT
 Id: 9
-Vio
+Lorem Ipsum
 Id: 11
-GEILO DISEGN
-Id: 14
-Bunter
-Id: 15
-az
-Section name: Renou AUG
-# of Cards in: 10
+Lorem Ipsum
+Id: 12
+Lorem Ipsum
+Id: 13
+SUD
+Section name: Doing
+# of Cards in: 5
 Cards:
 Id: 1
-Preston an
-Id: 2
-Barco
-Id: 3
-Ecco Avoi
-Id: 4
-OHar
+Lorem Ipsum
+Id: 5
+Lorem Ipsum
 Id: 7
- 
-Id: 12
-July
-Id: 17
-JUNE
-Id: 18
-AVEVO
-Id: 19
-LO
-Id: 20
-Leo
-Section name: Done
-# of Cards in: 0
-Section name: PEN
-# of Cards in: 0
-Section name: Don Sconto
-# of Cards in: 1
-Cards:
+Lorem Ipsum
 Id: 8
-A
-Section name: TONI FATE
-# of Cards in: 3
-Cards:
-Id: 6
-Stue
+Lorem Ipsum
 Id: 10
-DELLE
-Id: 13
-Song
-Section name: ES OP
+Lorem Ipsum
+Section name: Done
 # of Cards in: 2
 Cards:
-Id: 5
-Disanamed
-Id: 16
-RENT
-Section name:  
-# of Cards in: 0
-Section name: Tec
-# of Cards in: 0
+Id: 2
+Lorem Ipsum
+Id: 3
+Lorem ipsum

@@ -1,7 +1,6 @@
 pages {
   property {
     detected_languages {
-      language_code: "en"
       confidence: 0.800000011920929
     }
     detected_languages {
@@ -12,8 +11,6 @@ pages {
   width: 1178
   height: 584
   blocks {
-    property {
-      detected_languages {
         language_code: "en"
         confidence: 1.0
       }

@@ -21,8 +21,8 @@ pages {
       confidence: 0.019999999552965164
     }
   }
-  width: 1317
-  height: 758
+  width: 1316
+  height: 704
   blocks {
     property {
       detected_languages {
@@ -33,7 +33,7 @@ pages {
     bounding_box {
       vertices {
         x: 151
-        y: 87
+        y: 86
       }
       vertices {
         x: 296
@@ -45,7 +45,7 @@ pages {
       }
       vertices {
         x: 151
-        y: 117
+        y: 116
       }
     }
     paragraphs {
@@ -58,7 +58,7 @@ pages {
       bounding_box {
         vertices {
           x: 151
-          y: 87
+          y: 86
         }
         vertices {
           x: 296
@@ -70,7 +70,7 @@ pages {
         }
         vertices {
           x: 151
-          y: 117
+          y: 116
         }
       }
       words {
@@ -82,7 +82,7 @@ pages {
         bounding_box {
           vertices {
             x: 151
-            y: 87
+            y: 86
           }
           vertices {
             x: 296
@@ -94,7 +94,7 @@ pages {
           }
           vertices {
             x: 151
-            y: 117
+            y: 116
           }
         }
         symbols {
@@ -114,11 +114,11 @@ pages {
             }
             vertices {
               x: 170
-              y: 117
+              y: 116
             }
             vertices {
               x: 151
-              y: 117
+              y: 116
             }
           }
           text: "C"
@@ -141,11 +141,11 @@ pages {
             }
             vertices {
               x: 190
-              y: 117
+              y: 116
             }
             vertices {
               x: 175
-              y: 117
+              y: 116
             }
           }
           text: "e"
@@ -168,11 +168,11 @@ pages {
             }
             vertices {
               x: 207
-              y: 117
+              y: 116
             }
             vertices {
               x: 197
-              y: 117
+              y: 116
             }
           }
           text: "r"
@@ -195,11 +195,11 @@ pages {
             }
             vertices {
               x: 220
-              y: 117
+              y: 116
             }
             vertices {
               x: 209
-              y: 117
+              y: 116
             }
           }
           text: "t"
@@ -222,11 +222,11 @@ pages {
             }
             vertices {
               x: 240
-              y: 117
+              y: 116
             }
             vertices {
               x: 224
-              y: 117
+              y: 116
             }
           }
           text: "e"
@@ -249,11 +249,11 @@ pages {
             }
             vertices {
               x: 258
-              y: 117
+              y: 116
             }
             vertices {
               x: 245
-              y: 117
+              y: 116
             }
           }
           text: "z"
@@ -276,11 +276,11 @@ pages {
             }
             vertices {
               x: 277
-              y: 117
+              y: 116
             }
             vertices {
               x: 262
-              y: 117
+              y: 116
             }
           }
           text: "a"
@@ -306,11 +306,11 @@ pages {
             }
             vertices {
               x: 296
-              y: 117
+              y: 116
             }
             vertices {
               x: 283
-              y: 117
+              y: 116
             }
           }
           text: "s"
@@ -336,11 +336,11 @@ pages {
         y: 84
       }
       vertices {
-        x: 763
+        x: 765
         y: 84
       }
       vertices {
-        x: 763
+        x: 765
         y: 125
       }
       vertices {
@@ -361,11 +361,11 @@ pages {
           y: 84
         }
         vertices {
-          x: 763
+          x: 765
           y: 84
         }
         vertices {
-          x: 763
+          x: 765
           y: 125
         }
         vertices {
@@ -385,11 +385,11 @@ pages {
             y: 84
           }
           vertices {
-            x: 763
+            x: 765
             y: 84
           }
           vertices {
-            x: 763
+            x: 765
             y: 125
           }
           vertices {
@@ -476,7 +476,7 @@ pages {
             }
           }
           text: "p"
-          confidence: 0.9800000190734863
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -530,7 +530,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 0.9300000071525574
+          confidence: 0.9700000286102295
         }
         symbols {
           property {
@@ -544,11 +544,11 @@ pages {
               y: 84
             }
             vertices {
-              x: 683
+              x: 685
               y: 84
             }
             vertices {
-              x: 683
+              x: 685
               y: 125
             }
             vertices {
@@ -557,7 +557,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9700000286102295
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -625,11 +625,11 @@ pages {
               y: 84
             }
             vertices {
-              x: 745
+              x: 747
               y: 84
             }
             vertices {
-              x: 745
+              x: 747
               y: 125
             }
             vertices {
@@ -655,11 +655,11 @@ pages {
               y: 84
             }
             vertices {
-              x: 763
+              x: 765
               y: 84
             }
             vertices {
-              x: 763
+              x: 765
               y: 125
             }
             vertices {
@@ -670,12 +670,12 @@ pages {
           text: "s"
           confidence: 1.0
         }
-        confidence: 0.9700000286102295
+        confidence: 0.9800000190734863
       }
-      confidence: 0.9700000286102295
+      confidence: 0.9800000190734863
     }
     block_type: TEXT
-    confidence: 0.9700000286102295
+    confidence: 0.9800000190734863
   }
   blocks {
     property {
@@ -687,7 +687,7 @@ pages {
     bounding_box {
       vertices {
         x: 1017
-        y: 84
+        y: 83
       }
       vertices {
         x: 1150
@@ -699,7 +699,7 @@ pages {
       }
       vertices {
         x: 1017
-        y: 117
+        y: 116
       }
     }
     paragraphs {
@@ -712,7 +712,7 @@ pages {
       bounding_box {
         vertices {
           x: 1017
-          y: 84
+          y: 83
         }
         vertices {
           x: 1150
@@ -724,7 +724,7 @@ pages {
         }
         vertices {
           x: 1017
-          y: 117
+          y: 116
         }
       }
       words {
@@ -736,7 +736,7 @@ pages {
         bounding_box {
           vertices {
             x: 1017
-            y: 84
+            y: 83
           }
           vertices {
             x: 1150
@@ -748,7 +748,7 @@ pages {
           }
           vertices {
             x: 1017
-            y: 117
+            y: 116
           }
         }
         symbols {
@@ -768,11 +768,11 @@ pages {
             }
             vertices {
               x: 1036
-              y: 117
+              y: 116
             }
             vertices {
               x: 1017
-              y: 117
+              y: 116
             }
           }
           text: "D"
@@ -795,11 +795,11 @@ pages {
             }
             vertices {
               x: 1058
-              y: 117
+              y: 116
             }
             vertices {
               x: 1043
-              y: 117
+              y: 116
             }
           }
           text: "\303\272"
@@ -822,11 +822,11 @@ pages {
             }
             vertices {
               x: 1080
-              y: 117
+              y: 116
             }
             vertices {
               x: 1063
-              y: 117
+              y: 116
             }
           }
           text: "v"
@@ -849,11 +849,11 @@ pages {
             }
             vertices {
               x: 1087
-              y: 117
+              y: 116
             }
             vertices {
               x: 1085
-              y: 117
+              y: 116
             }
           }
           text: "i"
@@ -876,11 +876,11 @@ pages {
             }
             vertices {
               x: 1109
-              y: 117
+              y: 116
             }
             vertices {
               x: 1093
-              y: 117
+              y: 116
             }
           }
           text: "d"
@@ -903,11 +903,11 @@ pages {
             }
             vertices {
               x: 1130
-              y: 117
+              y: 116
             }
             vertices {
               x: 1116
-              y: 117
+              y: 116
             }
           }
           text: "a"
@@ -933,15 +933,15 @@ pages {
             }
             vertices {
               x: 1150
-              y: 117
+              y: 116
             }
             vertices {
               x: 1137
-              y: 117
+              y: 116
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -988,7 +988,7 @@ pages {
       }
       bounding_box {
         vertices {
-          x: 79
+          x: 78
           y: 189
         }
         vertices {
@@ -997,11 +997,11 @@ pages {
         }
         vertices {
           x: 177
-          y: 205
+          y: 204
         }
         vertices {
-          x: 79
-          y: 205
+          x: 78
+          y: 204
         }
       }
       words {
@@ -1012,7 +1012,7 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 79
+            x: 78
             y: 189
           }
           vertices {
@@ -1021,11 +1021,11 @@ pages {
           }
           vertices {
             x: 86
-            y: 205
+            y: 204
           }
           vertices {
-            x: 79
-            y: 205
+            x: 78
+            y: 204
           }
         }
         symbols {
@@ -1039,7 +1039,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 79
+              x: 78
               y: 189
             }
             vertices {
@@ -1048,11 +1048,11 @@ pages {
             }
             vertices {
               x: 86
-              y: 205
+              y: 204
             }
             vertices {
-              x: 79
-              y: 205
+              x: 78
+              y: 204
             }
           }
           text: "A"
@@ -1068,7 +1068,7 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 92
+            x: 91
             y: 189
           }
           vertices {
@@ -1077,11 +1077,11 @@ pages {
           }
           vertices {
             x: 129
-            y: 205
+            y: 204
           }
           vertices {
-            x: 92
-            y: 205
+            x: 91
+            y: 204
           }
         }
         symbols {
@@ -1092,20 +1092,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 92
+              x: 91
               y: 189
             }
             vertices {
-              x: 98
+              x: 97
               y: 189
             }
             vertices {
-              x: 98
-              y: 205
+              x: 97
+              y: 204
             }
             vertices {
-              x: 92
-              y: 205
+              x: 91
+              y: 204
             }
           }
           text: "n"
@@ -1128,11 +1128,11 @@ pages {
             }
             vertices {
               x: 105
-              y: 205
+              y: 204
             }
             vertices {
               x: 101
-              y: 205
+              y: 204
             }
           }
           text: "e"
@@ -1155,11 +1155,11 @@ pages {
             }
             vertices {
               x: 111
-              y: 205
+              y: 204
             }
             vertices {
               x: 108
-              y: 205
+              y: 204
             }
           }
           text: "t"
@@ -1182,11 +1182,11 @@ pages {
             }
             vertices {
               x: 116
-              y: 205
+              y: 204
             }
             vertices {
               x: 113
-              y: 205
+              y: 204
             }
           }
           text: "f"
@@ -1200,20 +1200,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 117
+              x: 118
               y: 189
             }
             vertices {
-              x: 119
+              x: 120
               y: 189
             }
             vertices {
-              x: 119
-              y: 205
+              x: 120
+              y: 204
             }
             vertices {
-              x: 117
-              y: 205
+              x: 118
+              y: 204
             }
           }
           text: "l"
@@ -1227,7 +1227,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 120
+              x: 121
               y: 189
             }
             vertices {
@@ -1236,11 +1236,11 @@ pages {
             }
             vertices {
               x: 123
-              y: 205
+              y: 204
             }
             vertices {
-              x: 120
-              y: 205
+              x: 121
+              y: 204
             }
           }
           text: "i"
@@ -1266,11 +1266,11 @@ pages {
             }
             vertices {
               x: 129
-              y: 205
+              y: 204
             }
             vertices {
               x: 125
-              y: 205
+              y: 204
             }
           }
           text: "x"
@@ -1295,11 +1295,11 @@ pages {
           }
           vertices {
             x: 165
-            y: 205
+            y: 204
           }
           vertices {
             x: 134
-            y: 205
+            y: 204
           }
         }
         symbols {
@@ -1319,11 +1319,11 @@ pages {
             }
             vertices {
               x: 139
-              y: 205
+              y: 204
             }
             vertices {
               x: 134
-              y: 205
+              y: 204
             }
           }
           text: "a"
@@ -1346,11 +1346,11 @@ pages {
             }
             vertices {
               x: 148
-              y: 205
+              y: 204
             }
             vertices {
               x: 142
-              y: 205
+              y: 204
             }
           }
           text: "b"
@@ -1373,11 +1373,11 @@ pages {
             }
             vertices {
               x: 154
-              y: 205
+              y: 204
             }
             vertices {
               x: 150
-              y: 205
+              y: 204
             }
           }
           text: "r"
@@ -1400,11 +1400,11 @@ pages {
             }
             vertices {
               x: 157
-              y: 205
+              y: 204
             }
             vertices {
               x: 156
-              y: 205
+              y: 204
             }
           }
           text: "i"
@@ -1430,11 +1430,11 @@ pages {
             }
             vertices {
               x: 165
-              y: 205
+              y: 204
             }
             vertices {
               x: 159
-              y: 205
+              y: 204
             }
           }
           text: "u"
@@ -1459,11 +1459,11 @@ pages {
           }
           vertices {
             x: 177
-            y: 205
+            y: 204
           }
           vertices {
             x: 171
-            y: 205
+            y: 204
           }
         }
         symbols {
@@ -1486,11 +1486,11 @@ pages {
             }
             vertices {
               x: 177
-              y: 205
+              y: 204
             }
             vertices {
               x: 171
-              y: 205
+              y: 204
             }
           }
           text: "o"
@@ -1646,11 +1646,11 @@ pages {
               y: 208
             }
             vertices {
-              x: 120
+              x: 121
               y: 208
             }
             vertices {
-              x: 120
+              x: 121
               y: 223
             }
             vertices {
@@ -1686,7 +1686,7 @@ pages {
             }
           }
           text: "a"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -2312,11 +2312,11 @@ pages {
           }
           vertices {
             x: 120
-            y: 264
+            y: 266
           }
           vertices {
             x: 81
-            y: 264
+            y: 266
           }
         }
         symbols {
@@ -2336,11 +2336,11 @@ pages {
             }
             vertices {
               x: 87
-              y: 264
+              y: 266
             }
             vertices {
               x: 81
-              y: 264
+              y: 266
             }
           }
           text: "p"
@@ -2363,15 +2363,15 @@ pages {
             }
             vertices {
               x: 95
-              y: 264
+              y: 266
             }
             vertices {
               x: 90
-              y: 264
+              y: 266
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -2390,38 +2390,11 @@ pages {
             }
             vertices {
               x: 102
-              y: 264
+              y: 266
             }
             vertices {
               x: 98
-              y: 264
-            }
-          }
-          text: "s"
-          confidence: 0.9900000095367432
-        }
-        symbols {
-          property {
-            detected_languages {
-              language_code: "pt"
-            }
-          }
-          bounding_box {
-            vertices {
-              x: 104
-              y: 247
-            }
-            vertices {
-              x: 108
-              y: 247
-            }
-            vertices {
-              x: 108
-              y: 264
-            }
-            vertices {
-              x: 104
-              y: 264
+              y: 266
             }
           }
           text: "s"
@@ -2435,24 +2408,51 @@ pages {
           }
           bounding_box {
             vertices {
+              x: 104
+              y: 247
+            }
+            vertices {
+              x: 108
+              y: 247
+            }
+            vertices {
+              x: 108
+              y: 266
+            }
+            vertices {
+              x: 104
+              y: 266
+            }
+          }
+          text: "s"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "pt"
+            }
+          }
+          bounding_box {
+            vertices {
               x: 111
               y: 247
             }
             vertices {
-              x: 117
+              x: 116
               y: 247
             }
             vertices {
-              x: 117
-              y: 264
+              x: 116
+              y: 266
             }
             vertices {
               x: 111
-              y: 264
+              y: 266
             }
           }
           text: "u"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -2474,11 +2474,11 @@ pages {
             }
             vertices {
               x: 120
-              y: 264
+              y: 266
             }
             vertices {
               x: 119
-              y: 264
+              y: 266
             }
           }
           text: "i"
@@ -2503,11 +2503,11 @@ pages {
           }
           vertices {
             x: 175
-            y: 264
+            y: 266
           }
           vertices {
             x: 126
-            y: 264
+            y: 266
           }
         }
         symbols {
@@ -2527,11 +2527,11 @@ pages {
             }
             vertices {
               x: 132
-              y: 264
+              y: 266
             }
             vertices {
               x: 126
-              y: 264
+              y: 266
             }
           }
           text: "g"
@@ -2554,15 +2554,15 @@ pages {
             }
             vertices {
               x: 137
-              y: 264
+              y: 266
             }
             vertices {
               x: 134
-              y: 264
+              y: 266
             }
           }
           text: "r"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -2581,11 +2581,11 @@ pages {
             }
             vertices {
               x: 144
-              y: 264
+              y: 266
             }
             vertices {
               x: 139
-              y: 264
+              y: 266
             }
           }
           text: "a"
@@ -2603,16 +2603,16 @@ pages {
               y: 247
             }
             vertices {
-              x: 153
+              x: 152
               y: 247
             }
             vertices {
-              x: 153
-              y: 264
+              x: 152
+              y: 266
             }
             vertices {
               x: 147
-              y: 264
+              y: 266
             }
           }
           text: "n"
@@ -2635,15 +2635,15 @@ pages {
             }
             vertices {
               x: 160
-              y: 264
+              y: 266
             }
             vertices {
               x: 155
-              y: 264
+              y: 266
             }
           }
           text: "d"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -2662,11 +2662,11 @@ pages {
             }
             vertices {
               x: 169
-              y: 264
+              y: 266
             }
             vertices {
               x: 163
-              y: 264
+              y: 266
             }
           }
           text: "e"
@@ -2692,11 +2692,11 @@ pages {
             }
             vertices {
               x: 175
-              y: 264
+              y: 266
             }
             vertices {
               x: 171
-              y: 264
+              y: 266
             }
           }
           text: "s"
@@ -2861,7 +2861,7 @@ pages {
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -3093,11 +3093,11 @@ pages {
               y: 267
             }
             vertices {
-              x: 170
+              x: 171
               y: 267
             }
             vertices {
-              x: 170
+              x: 171
               y: 281
             }
             vertices {
@@ -3297,7 +3297,7 @@ pages {
             }
           }
           text: "c"
-          confidence: 0.9900000095367432
+          confidence: 0.20999999344348907
         }
         symbols {
           property {
@@ -3383,12 +3383,12 @@ pages {
           text: "o"
           confidence: 1.0
         }
-        confidence: 0.9900000095367432
+        confidence: 0.8799999952316284
       }
-      confidence: 0.9900000095367432
+      confidence: 0.8799999952316284
     }
     block_type: TEXT
-    confidence: 0.9900000095367432
+    confidence: 0.9800000190734863
   }
   blocks {
     property {
@@ -3412,11 +3412,11 @@ pages {
       }
       vertices {
         x: 401
-        y: 297
+        y: 296
       }
       vertices {
         x: 290
-        y: 298
+        y: 297
       }
     }
     paragraphs {
@@ -3534,11 +3534,11 @@ pages {
               y: 194
             }
             vertices {
-              x: 327
+              x: 326
               y: 194
             }
             vertices {
-              x: 327
+              x: 326
               y: 215
             }
             vertices {
@@ -3615,11 +3615,11 @@ pages {
               y: 194
             }
             vertices {
-              x: 361
+              x: 360
               y: 194
             }
             vertices {
-              x: 361
+              x: 360
               y: 215
             }
             vertices {
@@ -4090,16 +4090,16 @@ pages {
           y: 248
         }
         vertices {
-          x: 385
+          x: 386
           y: 248
         }
         vertices {
-          x: 385
-          y: 297
+          x: 386
+          y: 296
         }
         vertices {
           x: 306
-          y: 297
+          y: 296
         }
       }
       words {
@@ -4119,11 +4119,11 @@ pages {
           }
           vertices {
             x: 381
-            y: 271
+            y: 270
           }
           vertices {
             x: 309
-            y: 271
+            y: 270
           }
         }
         symbols {
@@ -4143,11 +4143,11 @@ pages {
             }
             vertices {
               x: 318
-              y: 271
+              y: 270
             }
             vertices {
               x: 309
-              y: 271
+              y: 270
             }
           }
           text: "g"
@@ -4170,15 +4170,15 @@ pages {
             }
             vertices {
               x: 327
-              y: 271
+              y: 270
             }
             vertices {
               x: 321
-              y: 271
+              y: 270
             }
           }
           text: "r"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -4197,11 +4197,11 @@ pages {
             }
             vertices {
               x: 336
-              y: 271
+              y: 270
             }
             vertices {
               x: 329
-              y: 271
+              y: 270
             }
           }
           text: "a"
@@ -4219,20 +4219,20 @@ pages {
               y: 248
             }
             vertices {
-              x: 349
+              x: 348
               y: 248
             }
             vertices {
-              x: 349
-              y: 271
+              x: 348
+              y: 270
             }
             vertices {
               x: 340
-              y: 271
+              y: 270
             }
           }
           text: "n"
-          confidence: 0.5199999809265137
+          confidence: 1.0
         }
         symbols {
           property {
@@ -4251,11 +4251,11 @@ pages {
             }
             vertices {
               x: 360
-              y: 271
+              y: 270
             }
             vertices {
               x: 352
-              y: 271
+              y: 270
             }
           }
           text: "d"
@@ -4278,11 +4278,11 @@ pages {
             }
             vertices {
               x: 372
-              y: 271
+              y: 270
             }
             vertices {
               x: 364
-              y: 271
+              y: 270
             }
           }
           text: "e"
@@ -4308,17 +4308,17 @@ pages {
             }
             vertices {
               x: 381
-              y: 271
+              y: 270
             }
             vertices {
               x: 375
-              y: 271
+              y: 270
             }
           }
           text: "s"
           confidence: 0.9900000095367432
         }
-        confidence: 0.9200000166893005
+        confidence: 0.9900000095367432
       }
       words {
         property {
@@ -4329,19 +4329,19 @@ pages {
         bounding_box {
           vertices {
             x: 306
-            y: 278
+            y: 277
           }
           vertices {
-            x: 385
-            y: 278
+            x: 386
+            y: 277
           }
           vertices {
-            x: 385
-            y: 297
+            x: 386
+            y: 296
           }
           vertices {
             x: 306
-            y: 297
+            y: 296
           }
         }
         symbols {
@@ -4353,19 +4353,19 @@ pages {
           bounding_box {
             vertices {
               x: 306
-              y: 278
+              y: 277
             }
             vertices {
               x: 313
-              y: 278
+              y: 277
             }
             vertices {
               x: 313
-              y: 297
+              y: 296
             }
             vertices {
               x: 306
-              y: 297
+              y: 296
             }
           }
           text: "s"
@@ -4380,19 +4380,19 @@ pages {
           bounding_box {
             vertices {
               x: 316
-              y: 278
+              y: 277
             }
             vertices {
               x: 324
-              y: 278
+              y: 277
             }
             vertices {
               x: 324
-              y: 297
+              y: 296
             }
             vertices {
               x: 316
-              y: 297
+              y: 296
             }
           }
           text: "u"
@@ -4407,19 +4407,19 @@ pages {
           bounding_box {
             vertices {
               x: 328
-              y: 278
+              y: 277
             }
             vertices {
-              x: 334
-              y: 278
+              x: 335
+              y: 277
             }
             vertices {
-              x: 334
-              y: 297
+              x: 335
+              y: 296
             }
             vertices {
               x: 328
-              y: 297
+              y: 296
             }
           }
           text: "c"
@@ -4434,19 +4434,19 @@ pages {
           bounding_box {
             vertices {
               x: 337
-              y: 278
+              y: 277
             }
             vertices {
               x: 345
-              y: 278
+              y: 277
             }
             vertices {
               x: 345
-              y: 297
+              y: 296
             }
             vertices {
               x: 337
-              y: 297
+              y: 296
             }
           }
           text: "e"
@@ -4461,19 +4461,19 @@ pages {
           bounding_box {
             vertices {
               x: 348
-              y: 278
+              y: 277
             }
             vertices {
               x: 355
-              y: 278
+              y: 277
             }
             vertices {
               x: 355
-              y: 297
+              y: 296
             }
             vertices {
               x: 348
-              y: 297
+              y: 296
             }
           }
           text: "s"
@@ -4487,20 +4487,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 358
-              y: 278
+              x: 357
+              y: 277
             }
             vertices {
               x: 364
-              y: 278
+              y: 277
             }
             vertices {
               x: 364
-              y: 297
+              y: 296
             }
             vertices {
-              x: 358
-              y: 297
+              x: 357
+              y: 296
             }
           }
           text: "s"
@@ -4515,23 +4515,23 @@ pages {
           bounding_box {
             vertices {
               x: 367
-              y: 278
+              y: 277
             }
             vertices {
               x: 376
-              y: 278
+              y: 277
             }
             vertices {
               x: 376
-              y: 297
+              y: 296
             }
             vertices {
               x: 367
-              y: 297
+              y: 296
             }
           }
           text: "o"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -4545,30 +4545,30 @@ pages {
           bounding_box {
             vertices {
               x: 379
-              y: 278
+              y: 277
             }
             vertices {
-              x: 385
-              y: 278
+              x: 386
+              y: 277
             }
             vertices {
-              x: 385
-              y: 297
+              x: 386
+              y: 296
             }
             vertices {
               x: 379
-              y: 297
+              y: 296
             }
           }
           text: "s"
           confidence: 0.9900000095367432
         }
-        confidence: 0.9700000286102295
+        confidence: 0.9599999785423279
       }
-      confidence: 0.9399999976158142
+      confidence: 0.9800000190734863
     }
     block_type: TEXT
-    confidence: 0.9700000286102295
+    confidence: 0.9800000190734863
   }
   blocks {
     property {
@@ -4583,11 +4583,11 @@ pages {
         y: 188
       }
       vertices {
-        x: 627
+        x: 628
         y: 188
       }
       vertices {
-        x: 627
+        x: 628
         y: 298
       }
       vertices {
@@ -4608,16 +4608,16 @@ pages {
           y: 188
         }
         vertices {
-          x: 627
+          x: 628
           y: 188
         }
         vertices {
-          x: 627
-          y: 276
+          x: 628
+          y: 277
         }
         vertices {
           x: 525
-          y: 276
+          y: 277
         }
       }
       words {
@@ -5054,7 +5054,7 @@ pages {
             }
           }
           text: "e"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         confidence: 0.9900000095367432
       }
@@ -5134,7 +5134,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -5301,9 +5301,9 @@ pages {
             }
           }
           text: "e"
-          confidence: 0.949999988079071
+          confidence: 0.9800000190734863
         }
-        confidence: 0.949999988079071
+        confidence: 0.9800000190734863
       }
       words {
         property {
@@ -5615,19 +5615,19 @@ pages {
         bounding_box {
           vertices {
             x: 525
-            y: 256
-          }
-          vertices {
-            x: 605
             y: 257
           }
           vertices {
             x: 605
-            y: 276
+            y: 258
+          }
+          vertices {
+            x: 605
+            y: 277
           }
           vertices {
             x: 525
-            y: 275
+            y: 276
           }
         }
         symbols {
@@ -5639,23 +5639,23 @@ pages {
           bounding_box {
             vertices {
               x: 525
-              y: 257
+              y: 258
             }
             vertices {
               x: 530
-              y: 257
+              y: 258
             }
             vertices {
               x: 530
-              y: 275
+              y: 276
             }
             vertices {
               x: 525
-              y: 275
+              y: 276
             }
           }
           text: "s"
-          confidence: 0.9100000262260437
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -5666,23 +5666,23 @@ pages {
           bounding_box {
             vertices {
               x: 534
-              y: 257
+              y: 258
             }
             vertices {
               x: 538
-              y: 257
+              y: 258
             }
             vertices {
               x: 538
-              y: 275
+              y: 276
             }
             vertices {
               x: 534
-              y: 275
+              y: 276
             }
           }
           text: "a"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -5693,49 +5693,22 @@ pages {
           bounding_box {
             vertices {
               x: 542
-              y: 257
+              y: 258
             }
             vertices {
               x: 546
-              y: 257
+              y: 258
             }
             vertices {
               x: 546
-              y: 275
+              y: 276
             }
             vertices {
               x: 542
-              y: 275
+              y: 276
             }
           }
           text: "t"
-          confidence: 0.9800000190734863
-        }
-        symbols {
-          property {
-            detected_languages {
-              language_code: "pt"
-            }
-          }
-          bounding_box {
-            vertices {
-              x: 548
-              y: 257
-            }
-            vertices {
-              x: 551
-              y: 257
-            }
-            vertices {
-              x: 551
-              y: 275
-            }
-            vertices {
-              x: 548
-              y: 275
-            }
-          }
-          text: "i"
           confidence: 0.9900000095367432
         }
         symbols {
@@ -5746,20 +5719,47 @@ pages {
           }
           bounding_box {
             vertices {
+              x: 548
+              y: 258
+            }
+            vertices {
+              x: 551
+              y: 258
+            }
+            vertices {
+              x: 551
+              y: 276
+            }
+            vertices {
+              x: 548
+              y: 276
+            }
+          }
+          text: "i"
+          confidence: 1.0
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "pt"
+            }
+          }
+          bounding_box {
+            vertices {
               x: 553
-              y: 257
+              y: 258
             }
             vertices {
               x: 558
-              y: 257
+              y: 258
             }
             vertices {
               x: 558
-              y: 275
+              y: 276
             }
             vertices {
               x: 553
-              y: 275
+              y: 276
             }
           }
           text: "s"
@@ -5774,19 +5774,19 @@ pages {
           bounding_box {
             vertices {
               x: 561
-              y: 257
+              y: 258
             }
             vertices {
               x: 566
-              y: 257
+              y: 258
             }
             vertices {
               x: 566
-              y: 275
+              y: 276
             }
             vertices {
               x: 561
-              y: 275
+              y: 276
             }
           }
           text: "f"
@@ -5801,19 +5801,19 @@ pages {
           bounding_box {
             vertices {
               x: 568
-              y: 257
+              y: 258
             }
             vertices {
               x: 573
-              y: 257
+              y: 258
             }
             vertices {
               x: 573
-              y: 275
+              y: 276
             }
             vertices {
               x: 568
-              y: 275
+              y: 276
             }
           }
           text: "a"
@@ -5828,23 +5828,23 @@ pages {
           bounding_box {
             vertices {
               x: 576
-              y: 257
+              y: 258
             }
             vertices {
               x: 581
-              y: 257
+              y: 258
             }
             vertices {
               x: 581
-              y: 275
+              y: 276
             }
             vertices {
               x: 576
-              y: 275
+              y: 276
             }
           }
           text: "z"
-          confidence: 0.9700000286102295
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -5855,19 +5855,19 @@ pages {
           bounding_box {
             vertices {
               x: 583
-              y: 257
+              y: 258
             }
             vertices {
               x: 588
-              y: 257
+              y: 258
             }
             vertices {
               x: 588
-              y: 275
+              y: 276
             }
             vertices {
               x: 583
-              y: 275
+              y: 276
             }
           }
           text: "e"
@@ -5885,25 +5885,25 @@ pages {
           bounding_box {
             vertices {
               x: 593
-              y: 257
+              y: 258
             }
             vertices {
               x: 605
-              y: 257
+              y: 258
             }
             vertices {
               x: 605
-              y: 275
+              y: 276
             }
             vertices {
               x: 593
-              y: 275
+              y: 276
             }
           }
           text: "m"
           confidence: 0.9900000095367432
         }
-        confidence: 0.9800000190734863
+        confidence: 0.9900000095367432
       }
       words {
         property {
@@ -5917,16 +5917,16 @@ pages {
             y: 258
           }
           vertices {
-            x: 627
+            x: 628
             y: 258
           }
           vertices {
-            x: 627
-            y: 276
+            x: 628
+            y: 277
           }
           vertices {
             x: 612
-            y: 276
+            y: 277
           }
         }
         symbols {
@@ -5967,26 +5967,26 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 622
-              y: 258
+              x: 621
+              y: 259
             }
             vertices {
-              x: 627
-              y: 258
+              x: 628
+              y: 259
             }
             vertices {
-              x: 627
-              y: 276
+              x: 628
+              y: 277
             }
             vertices {
-              x: 622
-              y: 276
+              x: 621
+              y: 277
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
-        confidence: 0.9900000095367432
+        confidence: 1.0
       }
       confidence: 0.9900000095367432
     }
@@ -6091,7 +6091,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -6394,7 +6394,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -6773,7 +6773,7 @@ pages {
             }
           }
           text: "o"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -6938,7 +6938,7 @@ pages {
             }
           }
           text: "m"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -7018,7 +7018,7 @@ pages {
             }
           }
           text: "e"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -7238,7 +7238,7 @@ pages {
             }
           }
           text: "b"
-          confidence: 0.9900000095367432
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -7351,7 +7351,7 @@ pages {
           text: "u"
           confidence: 1.0
         }
-        confidence: 0.9800000190734863
+        confidence: 0.9700000286102295
       }
       words {
         property {
@@ -7555,11 +7555,11 @@ pages {
               y: 255
             }
             vertices {
-              x: 738
+              x: 739
               y: 255
             }
             vertices {
-              x: 738
+              x: 739
               y: 273
             }
             vertices {
@@ -7622,7 +7622,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 1.0
+          confidence: 0.9700000286102295
         }
         symbols {
           property {
@@ -7708,7 +7708,7 @@ pages {
           text: "m"
           confidence: 0.9900000095367432
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9800000190734863
       }
       words {
         property {
@@ -7722,11 +7722,11 @@ pages {
             y: 254
           }
           vertices {
-            x: 796
+            x: 795
             y: 254
           }
           vertices {
-            x: 796
+            x: 795
             y: 272
           }
           vertices {
@@ -7776,11 +7776,11 @@ pages {
               y: 254
             }
             vertices {
-              x: 796
+              x: 795
               y: 254
             }
             vertices {
-              x: 796
+              x: 795
               y: 272
             }
             vertices {
@@ -7802,11 +7802,11 @@ pages {
         bounding_box {
           vertices {
             x: 802
-            y: 254
+            y: 253
           }
           vertices {
             x: 829
-            y: 253
+            y: 252
           }
           vertices {
             x: 829
@@ -7910,19 +7910,19 @@ pages {
           bounding_box {
             vertices {
               x: 824
-              y: 254
+              y: 253
             }
             vertices {
               x: 829
-              y: 254
+              y: 253
             }
             vertices {
               x: 829
-              y: 272
+              y: 271
             }
             vertices {
               x: 824
-              y: 272
+              y: 271
             }
           }
           text: "a"
@@ -7938,19 +7938,19 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 741
-            y: 274
+            x: 740
+            y: 275
           }
           vertices {
-            x: 770
-            y: 274
+            x: 768
+            y: 275
           }
           vertices {
-            x: 770
+            x: 768
             y: 290
           }
           vertices {
-            x: 741
+            x: 740
             y: 290
           }
         }
@@ -7962,19 +7962,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 741
-              y: 274
+              x: 740
+              y: 275
             }
             vertices {
-              x: 745
-              y: 274
+              x: 744
+              y: 275
             }
             vertices {
-              x: 745
+              x: 744
               y: 290
             }
             vertices {
-              x: 741
+              x: 740
               y: 290
             }
           }
@@ -7989,19 +7989,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 747
-              y: 274
+              x: 746
+              y: 275
             }
             vertices {
-              x: 753
-              y: 274
+              x: 752
+              y: 275
             }
             vertices {
-              x: 753
+              x: 752
               y: 290
             }
             vertices {
-              x: 747
+              x: 746
               y: 290
             }
           }
@@ -8016,19 +8016,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 755
-              y: 274
+              x: 754
+              y: 275
             }
             vertices {
-              x: 759
-              y: 274
+              x: 758
+              y: 275
             }
             vertices {
-              x: 759
+              x: 758
               y: 290
             }
             vertices {
-              x: 755
+              x: 754
               y: 290
             }
           }
@@ -8043,19 +8043,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 761
-              y: 274
+              x: 760
+              y: 275
             }
             vertices {
-              x: 761
-              y: 274
+              x: 760
+              y: 275
             }
             vertices {
-              x: 761
+              x: 760
               y: 290
             }
             vertices {
-              x: 761
+              x: 760
               y: 290
             }
           }
@@ -8073,19 +8073,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 764
-              y: 274
+              x: 763
+              y: 275
             }
             vertices {
-              x: 770
-              y: 274
+              x: 768
+              y: 275
             }
             vertices {
-              x: 770
+              x: 768
               y: 290
             }
             vertices {
-              x: 764
+              x: 763
               y: 290
             }
           }
@@ -8102,19 +8102,19 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 775
-            y: 274
+            x: 774
+            y: 275
           }
           vertices {
-            x: 789
-            y: 274
+            x: 788
+            y: 275
           }
           vertices {
-            x: 789
+            x: 788
             y: 290
           }
           vertices {
-            x: 775
+            x: 774
             y: 290
           }
         }
@@ -8126,19 +8126,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 775
-              y: 274
+              x: 774
+              y: 275
             }
             vertices {
-              x: 781
-              y: 274
+              x: 780
+              y: 275
             }
             vertices {
-              x: 781
+              x: 780
               y: 290
             }
             vertices {
-              x: 775
+              x: 774
               y: 290
             }
           }
@@ -8156,19 +8156,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 784
-              y: 274
+              x: 783
+              y: 275
             }
             vertices {
-              x: 789
-              y: 274
+              x: 788
+              y: 275
             }
             vertices {
-              x: 789
+              x: 788
               y: 290
             }
             vertices {
-              x: 784
+              x: 783
               y: 290
             }
           }
@@ -8185,19 +8185,19 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 795
-            y: 274
+            x: 794
+            y: 275
           }
           vertices {
-            x: 825
-            y: 274
+            x: 824
+            y: 275
           }
           vertices {
-            x: 825
+            x: 824
             y: 290
           }
           vertices {
-            x: 795
+            x: 794
             y: 290
           }
         }
@@ -8209,19 +8209,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 795
-              y: 274
+              x: 794
+              y: 275
             }
             vertices {
-              x: 799
-              y: 274
+              x: 797
+              y: 275
             }
             vertices {
-              x: 799
+              x: 797
               y: 290
             }
             vertices {
-              x: 795
+              x: 794
               y: 290
             }
           }
@@ -8236,24 +8236,24 @@ pages {
           }
           bounding_box {
             vertices {
+              x: 799
+              y: 275
+            }
+            vertices {
               x: 800
-              y: 274
+              y: 275
             }
             vertices {
-              x: 802
-              y: 274
-            }
-            vertices {
-              x: 802
+              x: 800
               y: 290
             }
             vertices {
-              x: 800
+              x: 799
               y: 290
             }
           }
           text: "i"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -8263,19 +8263,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 804
-              y: 274
+              x: 803
+              y: 275
             }
             vertices {
-              x: 806
-              y: 274
+              x: 803
+              y: 275
             }
             vertices {
-              x: 806
+              x: 803
               y: 290
             }
             vertices {
-              x: 804
+              x: 803
               y: 290
             }
           }
@@ -8290,19 +8290,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 807
-              y: 274
+              x: 806
+              y: 275
             }
             vertices {
-              x: 814
-              y: 274
+              x: 816
+              y: 275
             }
             vertices {
-              x: 814
+              x: 816
               y: 290
             }
             vertices {
-              x: 807
+              x: 806
               y: 290
             }
           }
@@ -8320,19 +8320,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 820
-              y: 274
+              x: 818
+              y: 275
             }
             vertices {
-              x: 825
-              y: 274
+              x: 824
+              y: 275
             }
             vertices {
-              x: 825
+              x: 824
               y: 290
             }
             vertices {
-              x: 820
+              x: 818
               y: 290
             }
           }
@@ -8356,18 +8356,18 @@ pages {
     bounding_box {
       vertices {
         x: 945
-        y: 184
+        y: 183
       }
       vertices {
         x: 1055
         y: 183
       }
       vertices {
-        x: 1056
-        y: 267
+        x: 1055
+        y: 268
       }
       vertices {
-        x: 946
+        x: 945
         y: 268
       }
     }
@@ -8381,18 +8381,18 @@ pages {
       bounding_box {
         vertices {
           x: 954
-          y: 184
-        }
-        vertices {
-          x: 1045
           y: 183
         }
         vertices {
           x: 1046
-          y: 225
+          y: 183
         }
         vertices {
-          x: 955
+          x: 1046
+          y: 226
+        }
+        vertices {
+          x: 954
           y: 226
         }
       }
@@ -8405,11 +8405,11 @@ pages {
         bounding_box {
           vertices {
             x: 960
-            y: 184
+            y: 183
           }
           vertices {
             x: 977
-            y: 184
+            y: 183
           }
           vertices {
             x: 977
@@ -8429,11 +8429,11 @@ pages {
           bounding_box {
             vertices {
               x: 960
-              y: 184
+              y: 183
             }
             vertices {
               x: 969
-              y: 184
+              y: 183
             }
             vertices {
               x: 969
@@ -8459,11 +8459,11 @@ pages {
           bounding_box {
             vertices {
               x: 972
-              y: 184
+              y: 183
             }
             vertices {
               x: 977
-              y: 184
+              y: 183
             }
             vertices {
               x: 977
@@ -8475,9 +8475,9 @@ pages {
             }
           }
           text: "s"
-          confidence: 0.9300000071525574
+          confidence: 0.9900000095367432
         }
-        confidence: 0.9599999785423279
+        confidence: 0.9900000095367432
       }
       words {
         property {
@@ -8488,11 +8488,11 @@ pages {
         bounding_box {
           vertices {
             x: 983
-            y: 184
+            y: 183
           }
           vertices {
             x: 1041
-            y: 184
+            y: 183
           }
           vertices {
             x: 1041
@@ -8512,11 +8512,11 @@ pages {
           bounding_box {
             vertices {
               x: 983
-              y: 184
+              y: 183
             }
             vertices {
               x: 989
-              y: 184
+              y: 183
             }
             vertices {
               x: 989
@@ -8539,11 +8539,11 @@ pages {
           bounding_box {
             vertices {
               x: 992
-              y: 184
+              y: 183
             }
             vertices {
               x: 997
-              y: 184
+              y: 183
             }
             vertices {
               x: 997
@@ -8566,11 +8566,11 @@ pages {
           bounding_box {
             vertices {
               x: 1000
-              y: 184
+              y: 183
             }
             vertices {
               x: 1006
-              y: 184
+              y: 183
             }
             vertices {
               x: 1006
@@ -8593,11 +8593,11 @@ pages {
           bounding_box {
             vertices {
               x: 1009
-              y: 184
+              y: 183
             }
             vertices {
               x: 1014
-              y: 184
+              y: 183
             }
             vertices {
               x: 1014
@@ -8609,7 +8609,7 @@ pages {
             }
           }
           text: "\303\241"
-          confidence: 0.9700000286102295
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -8620,14 +8620,14 @@ pages {
           bounding_box {
             vertices {
               x: 1018
-              y: 184
+              y: 183
             }
             vertices {
-              x: 1020
-              y: 184
+              x: 1021
+              y: 183
             }
             vertices {
-              x: 1020
+              x: 1021
               y: 200
             }
             vertices {
@@ -8636,7 +8636,7 @@ pages {
             }
           }
           text: "r"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -8647,14 +8647,14 @@ pages {
           bounding_box {
             vertices {
               x: 1024
-              y: 184
+              y: 183
             }
             vertices {
-              x: 1025
-              y: 184
+              x: 1024
+              y: 183
             }
             vertices {
-              x: 1025
+              x: 1024
               y: 200
             }
             vertices {
@@ -8663,7 +8663,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -8674,11 +8674,11 @@ pages {
           bounding_box {
             vertices {
               x: 1027
-              y: 184
+              y: 183
             }
             vertices {
               x: 1034
-              y: 184
+              y: 183
             }
             vertices {
               x: 1034
@@ -8690,7 +8690,7 @@ pages {
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -8704,11 +8704,11 @@ pages {
           bounding_box {
             vertices {
               x: 1037
-              y: 184
+              y: 183
             }
             vertices {
               x: 1041
-              y: 184
+              y: 183
             }
             vertices {
               x: 1041
@@ -8838,19 +8838,19 @@ pages {
           bounding_box {
             vertices {
               x: 979
-              y: 205
+              y: 206
             }
             vertices {
               x: 983
-              y: 205
+              y: 206
             }
             vertices {
               x: 984
-              y: 224
+              y: 225
             }
             vertices {
               x: 980
-              y: 224
+              y: 225
             }
           }
           text: "t"
@@ -8976,19 +8976,19 @@ pages {
           bounding_box {
             vertices {
               x: 1013
-              y: 204
+              y: 205
             }
             vertices {
               x: 1023
-              y: 204
+              y: 205
             }
             vertices {
               x: 1024
-              y: 223
+              y: 224
             }
             vertices {
               x: 1014
-              y: 223
+              y: 224
             }
           }
           text: "m"
@@ -9009,11 +9009,11 @@ pages {
           }
           vertices {
             x: 1045
-            y: 203
+            y: 204
           }
           vertices {
             x: 1046
-            y: 222
+            y: 223
           }
           vertices {
             x: 1030
@@ -9079,7 +9079,7 @@ pages {
         }
         confidence: 0.9900000095367432
       }
-      confidence: 0.9800000190734863
+      confidence: 0.9900000095367432
     }
     paragraphs {
       property {
@@ -9142,11 +9142,11 @@ pages {
               y: 227
             }
             vertices {
-              x: 987
+              x: 988
               y: 227
             }
             vertices {
-              x: 987
+              x: 988
               y: 243
             }
             vertices {
@@ -9263,7 +9263,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9800000190734863
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -9310,11 +9310,11 @@ pages {
           }
           vertices {
             x: 1048
-            y: 245
+            y: 244
           }
           vertices {
             x: 1048
-            y: 267
+            y: 266
           }
           vertices {
             x: 945
@@ -9373,7 +9373,7 @@ pages {
             }
           }
           text: "n"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -9427,7 +9427,7 @@ pages {
             }
           }
           text: "e"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -9454,7 +9454,7 @@ pages {
             }
           }
           text: "p"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -9733,7 +9733,7 @@ pages {
       confidence: 0.9900000095367432
     }
     block_type: TEXT
-    confidence: 0.9800000190734863
+    confidence: 0.9900000095367432
   }
   blocks {
     property {
@@ -10101,7 +10101,7 @@ pages {
           }
           vertices {
             x: 1194
-            y: 196
+            y: 197
           }
           vertices {
             x: 1194
@@ -10109,7 +10109,7 @@ pages {
           }
           vertices {
             x: 1135
-            y: 211
+            y: 210
           }
         }
         symbols {
@@ -10137,7 +10137,7 @@ pages {
             }
           }
           text: "c"
-          confidence: 0.9700000286102295
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -10147,24 +10147,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1142
+              x: 1143
               y: 197
             }
             vertices {
-              x: 1147
+              x: 1146
               y: 197
             }
             vertices {
-              x: 1147
+              x: 1146
               y: 210
             }
             vertices {
-              x: 1142
+              x: 1143
               y: 210
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -10178,11 +10178,11 @@ pages {
               y: 197
             }
             vertices {
-              x: 1156
+              x: 1154
               y: 197
             }
             vertices {
-              x: 1156
+              x: 1154
               y: 210
             }
             vertices {
@@ -10191,7 +10191,7 @@ pages {
             }
           }
           text: "n"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -10205,11 +10205,11 @@ pages {
               y: 197
             }
             vertices {
-              x: 1161
+              x: 1163
               y: 197
             }
             vertices {
-              x: 1161
+              x: 1163
               y: 210
             }
             vertices {
@@ -10218,7 +10218,7 @@ pages {
             }
           }
           text: "t"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -10228,24 +10228,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1163
+              x: 1164
               y: 197
             }
             vertices {
-              x: 1169
+              x: 1168
               y: 197
             }
             vertices {
-              x: 1169
+              x: 1168
               y: 210
             }
             vertices {
-              x: 1163
+              x: 1164
               y: 210
             }
           }
           text: "e"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -10255,7 +10255,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1171
+              x: 1172
               y: 197
             }
             vertices {
@@ -10267,12 +10267,12 @@ pages {
               y: 210
             }
             vertices {
-              x: 1171
+              x: 1172
               y: 210
             }
           }
           text: "\303\272"
-          confidence: 0.9700000286102295
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -10286,11 +10286,11 @@ pages {
               y: 197
             }
             vertices {
-              x: 1185
+              x: 1184
               y: 197
             }
             vertices {
-              x: 1185
+              x: 1184
               y: 210
             }
             vertices {
@@ -10312,7 +10312,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1187
+              x: 1188
               y: 197
             }
             vertices {
@@ -10324,14 +10324,14 @@ pages {
               y: 210
             }
             vertices {
-              x: 1187
+              x: 1188
               y: 210
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
-        confidence: 0.9800000190734863
+        confidence: 0.9900000095367432
       }
       words {
         property {
@@ -10342,15 +10342,15 @@ pages {
         bounding_box {
           vertices {
             x: 1199
-            y: 196
+            y: 197
           }
           vertices {
             x: 1242
-            y: 195
+            y: 197
           }
           vertices {
             x: 1242
-            y: 209
+            y: 210
           }
           vertices {
             x: 1199
@@ -10420,19 +10420,19 @@ pages {
           bounding_box {
             vertices {
               x: 1212
-              y: 196
+              y: 197
             }
             vertices {
               x: 1216
-              y: 196
+              y: 197
             }
             vertices {
               x: 1216
-              y: 209
+              y: 210
             }
             vertices {
               x: 1212
-              y: 209
+              y: 210
             }
           }
           text: "f"
@@ -10447,19 +10447,19 @@ pages {
           bounding_box {
             vertices {
               x: 1218
-              y: 196
+              y: 197
             }
             vertices {
               x: 1221
-              y: 196
+              y: 197
             }
             vertices {
               x: 1221
-              y: 209
+              y: 210
             }
             vertices {
               x: 1218
-              y: 209
+              y: 210
             }
           }
           text: "a"
@@ -10474,19 +10474,19 @@ pages {
           bounding_box {
             vertices {
               x: 1223
-              y: 196
+              y: 197
             }
             vertices {
               x: 1227
-              y: 196
+              y: 197
             }
             vertices {
               x: 1227
-              y: 209
+              y: 210
             }
             vertices {
               x: 1223
-              y: 209
+              y: 210
             }
           }
           text: "n"
@@ -10501,23 +10501,23 @@ pages {
           bounding_box {
             vertices {
               x: 1231
-              y: 196
+              y: 197
             }
             vertices {
               x: 1235
-              y: 196
+              y: 197
             }
             vertices {
               x: 1235
-              y: 209
+              y: 210
             }
             vertices {
               x: 1231
-              y: 209
+              y: 210
             }
           }
           text: "t"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -10528,19 +10528,19 @@ pages {
           bounding_box {
             vertices {
               x: 1236
-              y: 196
+              y: 197
             }
             vertices {
               x: 1239
-              y: 196
+              y: 197
             }
             vertices {
               x: 1239
-              y: 209
+              y: 210
             }
             vertices {
               x: 1236
-              y: 209
+              y: 210
             }
           }
           text: "i"
@@ -10558,19 +10558,19 @@ pages {
           bounding_box {
             vertices {
               x: 1241
-              y: 196
+              y: 197
             }
             vertices {
               x: 1242
-              y: 196
+              y: 197
             }
             vertices {
               x: 1242
-              y: 209
+              y: 210
             }
             vertices {
               x: 1241
-              y: 209
+              y: 210
             }
           }
           text: "l"
@@ -10641,11 +10641,11 @@ pages {
               y: 216
             }
             vertices {
-              x: 1153
+              x: 1152
               y: 216
             }
             vertices {
-              x: 1153
+              x: 1152
               y: 231
             }
             vertices {
@@ -11012,7 +11012,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -11024,19 +11024,19 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 1143
+            x: 1142
             y: 237
           }
           vertices {
             x: 1216
-            y: 237
+            y: 236
           }
           vertices {
             x: 1216
-            y: 249
+            y: 248
           }
           vertices {
-            x: 1143
+            x: 1142
             y: 249
           }
         }
@@ -11048,19 +11048,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1143
+              x: 1142
               y: 237
             }
             vertices {
-              x: 1147
+              x: 1148
               y: 237
             }
             vertices {
-              x: 1147
+              x: 1148
               y: 249
             }
             vertices {
-              x: 1143
+              x: 1142
               y: 249
             }
           }
@@ -11079,11 +11079,11 @@ pages {
               y: 237
             }
             vertices {
-              x: 1154
+              x: 1153
               y: 237
             }
             vertices {
-              x: 1154
+              x: 1153
               y: 249
             }
             vertices {
@@ -11183,7 +11183,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1180
+              x: 1179
               y: 237
             }
             vertices {
@@ -11195,7 +11195,7 @@ pages {
               y: 249
             }
             vertices {
-              x: 1180
+              x: 1179
               y: 249
             }
           }
@@ -11394,7 +11394,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         confidence: 0.9900000095367432
       }
@@ -11406,7 +11406,7 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 1145
+            x: 1144
             y: 254
           }
           vertices {
@@ -11418,7 +11418,7 @@ pages {
             y: 267
           }
           vertices {
-            x: 1145
+            x: 1144
             y: 268
           }
         }
@@ -11430,7 +11430,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1145
+              x: 1144
               y: 254
             }
             vertices {
@@ -11442,7 +11442,7 @@ pages {
               y: 267
             }
             vertices {
-              x: 1145
+              x: 1144
               y: 267
             }
           }
@@ -11457,19 +11457,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1151
+              x: 1152
               y: 254
             }
             vertices {
-              x: 1157
+              x: 1156
               y: 254
             }
             vertices {
-              x: 1157
+              x: 1156
               y: 267
             }
             vertices {
-              x: 1151
+              x: 1152
               y: 267
             }
           }
@@ -11484,19 +11484,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1159
+              x: 1158
               y: 254
             }
             vertices {
-              x: 1165
+              x: 1163
               y: 254
             }
             vertices {
-              x: 1165
+              x: 1163
               y: 267
             }
             vertices {
-              x: 1159
+              x: 1158
               y: 267
             }
           }
@@ -11511,19 +11511,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1167
+              x: 1169
               y: 254
             }
             vertices {
-              x: 1171
+              x: 1173
               y: 254
             }
             vertices {
-              x: 1171
+              x: 1173
               y: 267
             }
             vertices {
-              x: 1167
+              x: 1169
               y: 267
             }
           }
@@ -11542,11 +11542,11 @@ pages {
               y: 254
             }
             vertices {
-              x: 1180
+              x: 1178
               y: 254
             }
             vertices {
-              x: 1180
+              x: 1178
               y: 267
             }
             vertices {
@@ -11565,46 +11565,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1182
+              x: 1181
               y: 254
             }
             vertices {
-              x: 1186
+              x: 1185
               y: 254
             }
             vertices {
-              x: 1186
+              x: 1185
               y: 267
             }
             vertices {
-              x: 1182
-              y: 267
-            }
-          }
-          text: "r"
-          confidence: 1.0
-        }
-        symbols {
-          property {
-            detected_languages {
-              language_code: "pt"
-            }
-          }
-          bounding_box {
-            vertices {
-              x: 1188
-              y: 254
-            }
-            vertices {
-              x: 1191
-              y: 254
-            }
-            vertices {
-              x: 1191
-              y: 267
-            }
-            vertices {
-              x: 1188
+              x: 1181
               y: 267
             }
           }
@@ -11619,19 +11592,46 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1193
+              x: 1187
               y: 254
             }
             vertices {
-              x: 1199
+              x: 1191
               y: 254
             }
             vertices {
-              x: 1199
+              x: 1191
               y: 267
             }
             vertices {
-              x: 1193
+              x: 1187
+              y: 267
+            }
+          }
+          text: "r"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "pt"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1194
+              y: 254
+            }
+            vertices {
+              x: 1198
+              y: 254
+            }
+            vertices {
+              x: 1198
+              y: 267
+            }
+            vertices {
+              x: 1194
               y: 267
             }
           }
@@ -11650,11 +11650,11 @@ pages {
               y: 254
             }
             vertices {
-              x: 1207
+              x: 1205
               y: 254
             }
             vertices {
-              x: 1207
+              x: 1205
               y: 267
             }
             vertices {
@@ -11677,11 +11677,11 @@ pages {
               y: 254
             }
             vertices {
-              x: 1212
+              x: 1214
               y: 254
             }
             vertices {
-              x: 1212
+              x: 1214
               y: 267
             }
             vertices {
@@ -11700,19 +11700,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1214
+              x: 1215
               y: 254
             }
             vertices {
-              x: 1220
+              x: 1218
               y: 254
             }
             vertices {
-              x: 1220
+              x: 1218
               y: 267
             }
             vertices {
-              x: 1214
+              x: 1215
               y: 267
             }
           }
@@ -11756,7 +11756,7 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 1228
+            x: 1230
             y: 254
           }
           vertices {
@@ -11768,7 +11768,7 @@ pages {
             y: 267
           }
           vertices {
-            x: 1228
+            x: 1230
             y: 267
           }
         }
@@ -11783,7 +11783,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1228
+              x: 1230
               y: 254
             }
             vertices {
@@ -11795,14 +11795,14 @@ pages {
               y: 267
             }
             vertices {
-              x: 1228
+              x: 1230
               y: 267
             }
           }
           text: "?"
-          confidence: 0.9900000095367432
+          confidence: 0.9399999976158142
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9399999976158142
       }
       confidence: 0.9900000095367432
     }
@@ -11826,11 +11826,11 @@ pages {
         y: 373
       }
       vertices {
-        x: 183
+        x: 184
         y: 373
       }
       vertices {
-        x: 183
+        x: 184
         y: 483
       }
       vertices {
@@ -11856,11 +11856,11 @@ pages {
         }
         vertices {
           x: 173
-          y: 418
+          y: 419
         }
         vertices {
           x: 83
-          y: 418
+          y: 419
         }
       }
       words {
@@ -12235,11 +12235,11 @@ pages {
           }
           vertices {
             x: 173
-            y: 418
+            y: 419
           }
           vertices {
             x: 83
-            y: 417
+            y: 418
           }
         }
         symbols {
@@ -12254,16 +12254,16 @@ pages {
               y: 397
             }
             vertices {
-              x: 91
+              x: 90
               y: 397
             }
             vertices {
-              x: 91
-              y: 417
+              x: 90
+              y: 418
             }
             vertices {
               x: 83
-              y: 417
+              y: 418
             }
           }
           text: "p"
@@ -12286,11 +12286,11 @@ pages {
             }
             vertices {
               x: 98
-              y: 417
+              y: 418
             }
             vertices {
               x: 93
-              y: 417
+              y: 418
             }
           }
           text: "r"
@@ -12313,11 +12313,11 @@ pages {
             }
             vertices {
               x: 107
-              y: 417
+              y: 418
             }
             vertices {
               x: 100
-              y: 417
+              y: 418
             }
           }
           text: "e"
@@ -12335,16 +12335,16 @@ pages {
               y: 397
             }
             vertices {
-              x: 117
+              x: 116
               y: 397
             }
             vertices {
-              x: 117
-              y: 417
+              x: 116
+              y: 418
             }
             vertices {
               x: 109
-              y: 417
+              y: 418
             }
           }
           text: "o"
@@ -12362,16 +12362,16 @@ pages {
               y: 397
             }
             vertices {
-              x: 125
+              x: 124
               y: 397
             }
             vertices {
-              x: 125
-              y: 417
+              x: 124
+              y: 418
             }
             vertices {
               x: 119
-              y: 417
+              y: 418
             }
           }
           text: "c"
@@ -12394,11 +12394,11 @@ pages {
             }
             vertices {
               x: 134
-              y: 417
+              y: 418
             }
             vertices {
               x: 127
-              y: 417
+              y: 418
             }
           }
           text: "u"
@@ -12421,11 +12421,11 @@ pages {
             }
             vertices {
               x: 145
-              y: 417
+              y: 418
             }
             vertices {
               x: 138
-              y: 417
+              y: 418
             }
           }
           text: "p"
@@ -12448,11 +12448,11 @@ pages {
             }
             vertices {
               x: 154
-              y: 417
+              y: 418
             }
             vertices {
               x: 147
-              y: 417
+              y: 418
             }
           }
           text: "a"
@@ -12475,11 +12475,11 @@ pages {
             }
             vertices {
               x: 164
-              y: 417
+              y: 418
             }
             vertices {
               x: 157
-              y: 417
+              y: 418
             }
           }
           text: "d"
@@ -12505,11 +12505,11 @@ pages {
             }
             vertices {
               x: 173
-              y: 417
+              y: 418
             }
             vertices {
               x: 167
-              y: 417
+              y: 418
             }
           }
           text: "a"
@@ -12529,18 +12529,18 @@ pages {
       bounding_box {
         vertices {
           x: 71
-          y: 422
+          y: 423
         }
         vertices {
           x: 183
           y: 421
         }
         vertices {
-          x: 183
-          y: 460
+          x: 184
+          y: 459
         }
         vertices {
-          x: 71
+          x: 72
           y: 461
         }
       }
@@ -12553,7 +12553,7 @@ pages {
         bounding_box {
           vertices {
             x: 104
-            y: 422
+            y: 423
           }
           vertices {
             x: 135
@@ -12561,7 +12561,7 @@ pages {
           }
           vertices {
             x: 135
-            y: 435
+            y: 434
           }
           vertices {
             x: 104
@@ -12577,11 +12577,11 @@ pages {
           bounding_box {
             vertices {
               x: 104
-              y: 422
+              y: 423
             }
             vertices {
               x: 110
-              y: 422
+              y: 423
             }
             vertices {
               x: 110
@@ -12604,11 +12604,11 @@ pages {
           bounding_box {
             vertices {
               x: 112
-              y: 422
+              y: 423
             }
             vertices {
               x: 120
-              y: 422
+              y: 423
             }
             vertices {
               x: 120
@@ -12634,11 +12634,11 @@ pages {
           bounding_box {
             vertices {
               x: 123
-              y: 422
+              y: 423
             }
             vertices {
               x: 135
-              y: 422
+              y: 423
             }
             vertices {
               x: 135
@@ -12671,11 +12671,11 @@ pages {
           }
           vertices {
             x: 150
-            y: 435
+            y: 434
           }
           vertices {
             x: 142
-            y: 435
+            y: 434
           }
         }
         symbols {
@@ -12698,17 +12698,17 @@ pages {
             }
             vertices {
               x: 150
-              y: 435
+              y: 434
             }
             vertices {
               x: 142
-              y: 435
+              y: 434
             }
           }
           text: "o"
-          confidence: 0.9800000190734863
+          confidence: 0.9900000095367432
         }
-        confidence: 0.9800000190734863
+        confidence: 0.9900000095367432
       }
       words {
         property {
@@ -12727,11 +12727,11 @@ pages {
           }
           vertices {
             x: 160
-            y: 460
+            y: 459
           }
           vertices {
             x: 71
-            y: 461
+            y: 460
           }
         }
         symbols {
@@ -12894,7 +12894,7 @@ pages {
             }
           }
           text: "m"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -12908,11 +12908,11 @@ pages {
               y: 441
             }
             vertices {
-              x: 133
+              x: 134
               y: 441
             }
             vertices {
-              x: 133
+              x: 134
               y: 460
             }
             vertices {
@@ -13389,7 +13389,7 @@ pages {
     }
     bounding_box {
       vertices {
-        x: 300
+        x: 299
         y: 386
       }
       vertices {
@@ -13401,7 +13401,7 @@ pages {
         y: 470
       }
       vertices {
-        x: 300
+        x: 299
         y: 470
       }
     }
@@ -13418,7 +13418,7 @@ pages {
       }
       bounding_box {
         vertices {
-          x: 300
+          x: 299
           y: 386
         }
         vertices {
@@ -13427,11 +13427,11 @@ pages {
         }
         vertices {
           x: 390
-          y: 429
+          y: 428
         }
         vertices {
-          x: 300
-          y: 429
+          x: 299
+          y: 428
         }
       }
       words {
@@ -13593,7 +13593,7 @@ pages {
             }
           }
           text: "d"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -13652,7 +13652,7 @@ pages {
           text: "s"
           confidence: 1.0
         }
-        confidence: 1.0
+        confidence: 0.9900000095367432
       }
       words {
         property {
@@ -13662,20 +13662,20 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 300
-            y: 408
-          }
-          vertices {
-            x: 390
+            x: 299
             y: 407
           }
           vertices {
             x: 390
-            y: 428
+            y: 406
           }
           vertices {
-            x: 300
-            y: 429
+            x: 390
+            y: 427
+          }
+          vertices {
+            x: 299
+            y: 428
           }
         }
         symbols {
@@ -13686,20 +13686,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 300
-              y: 408
+              x: 299
+              y: 407
             }
             vertices {
-              x: 305
-              y: 408
+              x: 306
+              y: 407
             }
             vertices {
-              x: 305
-              y: 428
+              x: 306
+              y: 427
             }
             vertices {
-              x: 300
-              y: 428
+              x: 299
+              y: 427
             }
           }
           text: "p"
@@ -13713,20 +13713,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 309
-              y: 408
+              x: 310
+              y: 407
             }
             vertices {
-              x: 313
-              y: 408
+              x: 315
+              y: 407
             }
             vertices {
-              x: 313
-              y: 428
+              x: 315
+              y: 427
             }
             vertices {
-              x: 309
-              y: 428
+              x: 310
+              y: 427
             }
           }
           text: "l"
@@ -13740,20 +13740,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 315
-              y: 408
+              x: 317
+              y: 407
             }
             vertices {
               x: 320
-              y: 408
+              y: 407
             }
             vertices {
               x: 320
-              y: 428
+              y: 427
             }
             vertices {
-              x: 315
-              y: 428
+              x: 317
+              y: 427
             }
           }
           text: "a"
@@ -13767,20 +13767,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 324
-              y: 408
+              x: 322
+              y: 407
             }
             vertices {
-              x: 329
-              y: 408
+              x: 327
+              y: 407
             }
             vertices {
-              x: 329
-              y: 428
+              x: 327
+              y: 427
             }
             vertices {
-              x: 324
-              y: 428
+              x: 322
+              y: 427
             }
           }
           text: "t"
@@ -13794,24 +13794,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 330
-              y: 408
+              x: 331
+              y: 407
             }
             vertices {
-              x: 334
-              y: 408
+              x: 336
+              y: 407
             }
             vertices {
-              x: 334
-              y: 428
+              x: 336
+              y: 427
             }
             vertices {
-              x: 330
-              y: 428
+              x: 331
+              y: 427
             }
           }
           text: "a"
-          confidence: 1.0
+          confidence: 0.9700000286102295
         }
         symbols {
           property {
@@ -13821,20 +13821,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 338
-              y: 408
+              x: 339
+              y: 407
             }
             vertices {
-              x: 343
-              y: 408
+              x: 344
+              y: 407
             }
             vertices {
-              x: 343
-              y: 428
+              x: 344
+              y: 427
             }
             vertices {
-              x: 338
-              y: 428
+              x: 339
+              y: 427
             }
           }
           text: "f"
@@ -13848,20 +13848,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 345
-              y: 408
+              x: 346
+              y: 407
             }
             vertices {
-              x: 350
-              y: 408
+              x: 351
+              y: 407
             }
             vertices {
-              x: 350
-              y: 428
+              x: 351
+              y: 427
             }
             vertices {
-              x: 345
-              y: 428
+              x: 346
+              y: 427
             }
           }
           text: "o"
@@ -13875,20 +13875,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 353
-              y: 408
+              x: 354
+              y: 407
             }
             vertices {
               x: 358
-              y: 408
+              y: 407
             }
             vertices {
               x: 358
-              y: 428
+              y: 427
             }
             vertices {
-              x: 353
-              y: 428
+              x: 354
+              y: 427
             }
           }
           text: "r"
@@ -13902,20 +13902,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 359
-              y: 408
+              x: 360
+              y: 407
             }
             vertices {
               x: 368
-              y: 408
+              y: 407
             }
             vertices {
               x: 368
-              y: 428
+              y: 427
             }
             vertices {
-              x: 359
-              y: 428
+              x: 360
+              y: 427
             }
           }
           text: "m"
@@ -13929,20 +13929,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 376
-              y: 408
+              x: 375
+              y: 407
             }
             vertices {
               x: 384
-              y: 408
+              y: 407
             }
             vertices {
               x: 384
-              y: 428
+              y: 427
             }
             vertices {
-              x: 376
-              y: 428
+              x: 375
+              y: 427
             }
           }
           text: "a"
@@ -13959,24 +13959,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 387
-              y: 408
+              x: 388
+              y: 407
             }
             vertices {
               x: 390
-              y: 408
+              y: 407
             }
             vertices {
               x: 390
-              y: 428
+              y: 427
             }
             vertices {
-              x: 387
-              y: 428
+              x: 388
+              y: 427
             }
           }
           text: "s"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         confidence: 0.9900000095367432
       }
@@ -13996,11 +13996,11 @@ pages {
       bounding_box {
         vertices {
           x: 300
-          y: 432
+          y: 431
         }
         vertices {
           x: 401
-          y: 432
+          y: 431
         }
         vertices {
           x: 401
@@ -14020,19 +14020,19 @@ pages {
         bounding_box {
           vertices {
             x: 308
-            y: 432
+            y: 431
           }
           vertices {
             x: 325
-            y: 432
+            y: 431
           }
           vertices {
             x: 325
-            y: 448
+            y: 447
           }
           vertices {
             x: 308
-            y: 448
+            y: 447
           }
         }
         symbols {
@@ -14044,19 +14044,19 @@ pages {
           bounding_box {
             vertices {
               x: 308
-              y: 432
+              y: 431
             }
             vertices {
               x: 315
-              y: 432
+              y: 431
             }
             vertices {
               x: 315
-              y: 448
+              y: 447
             }
             vertices {
               x: 308
-              y: 448
+              y: 447
             }
           }
           text: "d"
@@ -14074,19 +14074,19 @@ pages {
           bounding_box {
             vertices {
               x: 318
-              y: 432
+              y: 431
             }
             vertices {
               x: 325
-              y: 432
+              y: 431
             }
             vertices {
               x: 325
-              y: 448
+              y: 447
             }
             vertices {
               x: 318
-              y: 448
+              y: 447
             }
           }
           text: "e"
@@ -14103,19 +14103,19 @@ pages {
         bounding_box {
           vertices {
             x: 332
-            y: 432
+            y: 431
           }
           vertices {
             x: 384
-            y: 432
+            y: 431
           }
           vertices {
             x: 384
-            y: 448
+            y: 447
           }
           vertices {
             x: 332
-            y: 448
+            y: 447
           }
         }
         symbols {
@@ -14127,19 +14127,19 @@ pages {
           bounding_box {
             vertices {
               x: 332
-              y: 432
+              y: 431
             }
             vertices {
               x: 337
-              y: 432
+              y: 431
             }
             vertices {
               x: 337
-              y: 448
+              y: 447
             }
             vertices {
               x: 332
-              y: 448
+              y: 447
             }
           }
           text: "s"
@@ -14154,19 +14154,19 @@ pages {
           bounding_box {
             vertices {
               x: 339
-              y: 432
+              y: 431
             }
             vertices {
               x: 344
-              y: 432
+              y: 431
             }
             vertices {
               x: 344
-              y: 448
+              y: 447
             }
             vertices {
               x: 339
-              y: 448
+              y: 447
             }
           }
           text: "t"
@@ -14181,19 +14181,19 @@ pages {
           bounding_box {
             vertices {
               x: 346
-              y: 432
+              y: 431
             }
             vertices {
               x: 350
-              y: 432
+              y: 431
             }
             vertices {
               x: 350
-              y: 448
+              y: 447
             }
             vertices {
               x: 346
-              y: 448
+              y: 447
             }
           }
           text: "r"
@@ -14208,19 +14208,19 @@ pages {
           bounding_box {
             vertices {
               x: 352
-              y: 432
+              y: 431
             }
             vertices {
               x: 359
-              y: 432
+              y: 431
             }
             vertices {
               x: 359
-              y: 448
+              y: 447
             }
             vertices {
               x: 352
-              y: 448
+              y: 447
             }
           }
           text: "e"
@@ -14235,19 +14235,19 @@ pages {
           bounding_box {
             vertices {
               x: 362
-              y: 432
+              y: 431
             }
             vertices {
               x: 368
-              y: 432
+              y: 431
             }
             vertices {
               x: 368
-              y: 448
+              y: 447
             }
             vertices {
               x: 362
-              y: 448
+              y: 447
             }
           }
           text: "a"
@@ -14265,23 +14265,23 @@ pages {
           bounding_box {
             vertices {
               x: 371
-              y: 432
+              y: 431
             }
             vertices {
               x: 384
-              y: 432
+              y: 431
             }
             vertices {
               x: 384
-              y: 448
+              y: 447
             }
             vertices {
               x: 371
-              y: 448
+              y: 447
             }
           }
           text: "m"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -14334,7 +14334,7 @@ pages {
             }
           }
           text: "n"
-          confidence: 0.5699999928474426
+          confidence: 0.5299999713897705
         }
         symbols {
           property {
@@ -14348,11 +14348,11 @@ pages {
               y: 452
             }
             vertices {
-              x: 311
+              x: 310
               y: 452
             }
             vertices {
-              x: 311
+              x: 310
               y: 469
             }
             vertices {
@@ -14388,7 +14388,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9599999785423279
+          confidence: 0.949999988079071
         }
         symbols {
           property {
@@ -14420,7 +14420,7 @@ pages {
           text: "s"
           confidence: 0.9599999785423279
         }
-        confidence: 0.8600000143051147
+        confidence: 0.8500000238418579
       }
       words {
         property {
@@ -14471,7 +14471,7 @@ pages {
             }
           }
           text: "u"
-          confidence: 0.9599999785423279
+          confidence: 0.949999988079071
         }
         symbols {
           property {
@@ -14498,7 +14498,7 @@ pages {
             }
           }
           text: "t"
-          confidence: 0.9599999785423279
+          confidence: 0.949999988079071
         }
         symbols {
           property {
@@ -14719,12 +14719,12 @@ pages {
           text: "s"
           confidence: 1.0
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9800000190734863
       }
       confidence: 0.9599999785423279
     }
     block_type: TEXT
-    confidence: 0.9800000190734863
+    confidence: 0.9700000286102295
   }
   blocks {
     property {
@@ -15116,11 +15116,11 @@ pages {
             y: 407
           }
           vertices {
-            x: 598
+            x: 597
             y: 406
           }
           vertices {
-            x: 598
+            x: 597
             y: 425
           }
           vertices {
@@ -15167,11 +15167,11 @@ pages {
               y: 407
             }
             vertices {
-              x: 545
+              x: 544
               y: 407
             }
             vertices {
-              x: 545
+              x: 544
               y: 425
             }
             vertices {
@@ -15299,19 +15299,19 @@ pages {
           bounding_box {
             vertices {
               x: 574
-              y: 406
+              y: 407
             }
             vertices {
               x: 575
-              y: 406
+              y: 407
             }
             vertices {
               x: 575
-              y: 424
+              y: 425
             }
             vertices {
               x: 574
-              y: 424
+              y: 425
             }
           }
           text: "i"
@@ -15359,11 +15359,11 @@ pages {
               y: 406
             }
             vertices {
-              x: 598
+              x: 597
               y: 406
             }
             vertices {
-              x: 598
+              x: 597
               y: 424
             }
             vertices {
@@ -15663,11 +15663,11 @@ pages {
           }
           vertices {
             x: 616
-            y: 429
+            y: 428
           }
           vertices {
             x: 615
-            y: 446
+            y: 445
           }
           vertices {
             x: 579
@@ -15780,7 +15780,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9900000095367432
+          confidence: 0.8899999856948853
         }
         symbols {
           property {
@@ -15810,9 +15810,9 @@ pages {
             }
           }
           text: "s"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9700000286102295
       }
       words {
         property {
@@ -15823,19 +15823,19 @@ pages {
         bounding_box {
           vertices {
             x: 520
+            y: 445
+          }
+          vertices {
+            x: 561
             y: 446
           }
           vertices {
-            x: 561
-            y: 447
+            x: 560
+            y: 464
           }
           vertices {
-            x: 561
-            y: 466
-          }
-          vertices {
-            x: 520
-            y: 465
+            x: 519
+            y: 463
           }
         }
         symbols {
@@ -15847,19 +15847,19 @@ pages {
           bounding_box {
             vertices {
               x: 520
-              y: 447
+              y: 446
             }
             vertices {
               x: 525
-              y: 447
+              y: 446
             }
             vertices {
               x: 525
-              y: 465
+              y: 463
             }
             vertices {
               x: 520
-              y: 465
+              y: 463
             }
           }
           text: "f"
@@ -15874,19 +15874,19 @@ pages {
           bounding_box {
             vertices {
               x: 526
-              y: 447
+              y: 446
             }
             vertices {
-              x: 528
-              y: 447
+              x: 529
+              y: 446
             }
             vertices {
-              x: 528
-              y: 465
+              x: 529
+              y: 463
             }
             vertices {
               x: 526
-              y: 465
+              y: 463
             }
           }
           text: "i"
@@ -15900,20 +15900,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 530
-              y: 447
+              x: 531
+              y: 446
             }
             vertices {
-              x: 532
-              y: 447
+              x: 534
+              y: 446
             }
             vertices {
-              x: 532
-              y: 465
+              x: 534
+              y: 463
             }
             vertices {
-              x: 530
-              y: 465
+              x: 531
+              y: 463
             }
           }
           text: "l"
@@ -15927,20 +15927,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 534
-              y: 447
+              x: 533
+              y: 446
             }
             vertices {
-              x: 541
-              y: 447
+              x: 539
+              y: 446
             }
             vertices {
-              x: 541
-              y: 465
+              x: 539
+              y: 463
             }
             vertices {
-              x: 534
-              y: 465
+              x: 533
+              y: 463
             }
           }
           text: "m"
@@ -15954,24 +15954,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 549
-              y: 447
+              x: 546
+              y: 446
             }
             vertices {
-              x: 556
-              y: 447
+              x: 554
+              y: 446
             }
             vertices {
-              x: 556
-              y: 465
+              x: 554
+              y: 463
             }
             vertices {
-              x: 549
-              y: 465
+              x: 546
+              y: 463
             }
           }
           text: "e"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -15984,20 +15984,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 559
-              y: 448
+              x: 557
+              y: 447
             }
             vertices {
               x: 561
-              y: 448
+              y: 447
             }
             vertices {
               x: 561
-              y: 466
+              y: 464
             }
             vertices {
-              x: 559
-              y: 466
+              x: 557
+              y: 464
             }
           }
           text: "s"
@@ -16021,12 +16021,12 @@ pages {
             y: 448
           }
           vertices {
-            x: 598
-            y: 467
+            x: 597
+            y: 465
           }
           vertices {
             x: 567
-            y: 466
+            y: 464
           }
         }
         symbols {
@@ -16038,19 +16038,19 @@ pages {
           bounding_box {
             vertices {
               x: 567
-              y: 448
+              y: 447
             }
             vertices {
               x: 572
-              y: 448
+              y: 447
             }
             vertices {
               x: 572
-              y: 466
+              y: 464
             }
             vertices {
               x: 567
-              y: 466
+              y: 464
             }
           }
           text: "c"
@@ -16065,23 +16065,23 @@ pages {
           bounding_box {
             vertices {
               x: 574
-              y: 448
+              y: 447
             }
             vertices {
               x: 580
-              y: 448
+              y: 447
             }
             vertices {
               x: 580
-              y: 466
+              y: 464
             }
             vertices {
               x: 574
-              y: 466
+              y: 464
             }
           }
           text: "a"
-          confidence: 0.9900000095367432
+          confidence: 0.9700000286102295
         }
         symbols {
           property {
@@ -16092,19 +16092,19 @@ pages {
           bounding_box {
             vertices {
               x: 583
-              y: 448
+              y: 447
             }
             vertices {
               x: 589
-              y: 448
+              y: 447
             }
             vertices {
               x: 589
-              y: 466
+              y: 464
             }
             vertices {
               x: 583
-              y: 466
+              y: 464
             }
           }
           text: "d"
@@ -16130,17 +16130,17 @@ pages {
             }
             vertices {
               x: 598
-              y: 466
+              y: 465
             }
             vertices {
               x: 592
-              y: 466
+              y: 465
             }
           }
           text: "a"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9800000190734863
       }
       words {
         property {
@@ -16158,12 +16158,12 @@ pages {
             y: 449
           }
           vertices {
-            x: 631
-            y: 468
+            x: 630
+            y: 466
           }
           vertices {
             x: 604
-            y: 467
+            y: 465
           }
         }
         symbols {
@@ -16175,23 +16175,23 @@ pages {
           bounding_box {
             vertices {
               x: 604
-              y: 449
+              y: 448
             }
             vertices {
               x: 610
-              y: 449
+              y: 448
             }
             vertices {
               x: 610
-              y: 467
+              y: 465
             }
             vertices {
               x: 604
-              y: 467
+              y: 465
             }
           }
           text: "a"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -16202,19 +16202,19 @@ pages {
           bounding_box {
             vertices {
               x: 612
-              y: 449
+              y: 448
             }
             vertices {
               x: 616
-              y: 449
+              y: 448
             }
             vertices {
               x: 616
-              y: 467
+              y: 465
             }
             vertices {
               x: 612
-              y: 467
+              y: 465
             }
           }
           text: "t"
@@ -16229,19 +16229,19 @@ pages {
           bounding_box {
             vertices {
               x: 618
-              y: 449
+              y: 448
             }
             vertices {
               x: 625
-              y: 449
+              y: 448
             }
             vertices {
               x: 625
-              y: 467
+              y: 465
             }
             vertices {
               x: 618
-              y: 467
+              y: 465
             }
           }
           text: "o"
@@ -16258,7 +16258,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 627
+              x: 628
               y: 449
             }
             vertices {
@@ -16267,11 +16267,11 @@ pages {
             }
             vertices {
               x: 631
-              y: 467
+              y: 466
             }
             vertices {
-              x: 627
-              y: 467
+              x: 628
+              y: 466
             }
           }
           text: "r"
@@ -16315,11 +16315,11 @@ pages {
               y: 470
             }
             vertices {
-              x: 526
+              x: 527
               y: 470
             }
             vertices {
-              x: 526
+              x: 527
               y: 485
             }
             vertices {
@@ -16505,7 +16505,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 567
+              x: 566
               y: 470
             }
             vertices {
@@ -16517,7 +16517,7 @@ pages {
               y: 485
             }
             vertices {
-              x: 567
+              x: 566
               y: 485
             }
           }
@@ -16562,11 +16562,11 @@ pages {
               y: 470
             }
             vertices {
-              x: 580
+              x: 581
               y: 470
             }
             vertices {
-              x: 580
+              x: 581
               y: 485
             }
             vertices {
@@ -16694,19 +16694,19 @@ pages {
           bounding_box {
             vertices {
               x: 609
-              y: 470
+              y: 469
             }
             vertices {
               x: 614
-              y: 470
+              y: 469
             }
             vertices {
               x: 614
-              y: 485
+              y: 484
             }
             vertices {
               x: 609
-              y: 485
+              y: 484
             }
           }
           text: "a"
@@ -16843,11 +16843,11 @@ pages {
               y: 382
             }
             vertices {
-              x: 737
+              x: 736
               y: 382
             }
             vertices {
-              x: 737
+              x: 736
               y: 402
             }
             vertices {
@@ -16897,11 +16897,11 @@ pages {
               y: 382
             }
             vertices {
-              x: 756
+              x: 755
               y: 382
             }
             vertices {
-              x: 756
+              x: 755
               y: 402
             }
             vertices {
@@ -16974,7 +16974,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 773
+              x: 774
               y: 382
             }
             vertices {
@@ -16986,7 +16986,7 @@ pages {
               y: 402
             }
             vertices {
-              x: 773
+              x: 774
               y: 402
             }
           }
@@ -17029,19 +17029,19 @@ pages {
           bounding_box {
             vertices {
               x: 788
-              y: 381
+              y: 382
             }
             vertices {
               x: 793
-              y: 381
+              y: 382
             }
             vertices {
               x: 793
-              y: 401
+              y: 402
             }
             vertices {
               x: 788
-              y: 401
+              y: 402
             }
           }
           text: "\303\247"
@@ -17056,19 +17056,19 @@ pages {
           bounding_box {
             vertices {
               x: 795
-              y: 381
+              y: 382
             }
             vertices {
               x: 802
-              y: 381
+              y: 382
             }
             vertices {
               x: 802
-              y: 401
+              y: 402
             }
             vertices {
               x: 795
-              y: 401
+              y: 402
             }
           }
           text: "\303\243"
@@ -17168,7 +17168,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 829
+              x: 830
               y: 381
             }
             vertices {
@@ -17180,7 +17180,7 @@ pages {
               y: 401
             }
             vertices {
-              x: 829
+              x: 830
               y: 401
             }
           }
@@ -17292,7 +17292,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -17319,7 +17319,7 @@ pages {
             }
           }
           text: "e"
-          confidence: 0.9800000190734863
+          confidence: 0.5299999713897705
         }
         symbols {
           property {
@@ -17400,7 +17400,7 @@ pages {
             }
           }
           text: "e"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -17432,7 +17432,7 @@ pages {
           text: "s"
           confidence: 1.0
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9300000071525574
       }
       words {
         property {
@@ -17625,7 +17625,7 @@ pages {
         }
         confidence: 0.9900000095367432
       }
-      confidence: 0.9900000095367432
+      confidence: 0.9700000286102295
     }
     paragraphs {
       property {
@@ -17668,20 +17668,20 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 751
+            x: 752
             y: 429
           }
           vertices {
-            x: 757
+            x: 758
             y: 429
           }
           vertices {
-            x: 757
-            y: 443
+            x: 758
+            y: 444
           }
           vertices {
-            x: 751
-            y: 443
+            x: 752
+            y: 444
           }
         }
         symbols {
@@ -17695,20 +17695,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 751
+              x: 752
               y: 429
             }
             vertices {
-              x: 757
+              x: 758
               y: 429
             }
             vertices {
-              x: 757
-              y: 443
+              x: 758
+              y: 444
             }
             vertices {
-              x: 751
-              y: 443
+              x: 752
+              y: 444
             }
           }
           text: "a"
@@ -17724,20 +17724,20 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 765
+            x: 766
             y: 429
           }
           vertices {
-            x: 812
+            x: 813
             y: 429
           }
           vertices {
-            x: 812
-            y: 443
+            x: 813
+            y: 444
           }
           vertices {
-            x: 765
-            y: 443
+            x: 766
+            y: 444
           }
         }
         symbols {
@@ -17748,20 +17748,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 765
+              x: 766
               y: 429
             }
             vertices {
-              x: 772
+              x: 773
               y: 429
             }
             vertices {
-              x: 772
-              y: 443
+              x: 773
+              y: 444
             }
             vertices {
-              x: 765
-              y: 443
+              x: 766
+              y: 444
             }
           }
           text: "o"
@@ -17775,20 +17775,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 775
+              x: 776
               y: 429
             }
             vertices {
-              x: 781
+              x: 783
               y: 429
             }
             vertices {
-              x: 781
-              y: 443
+              x: 783
+              y: 444
             }
             vertices {
-              x: 775
-              y: 443
+              x: 776
+              y: 444
             }
           }
           text: "u"
@@ -17802,20 +17802,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 785
+              x: 786
               y: 429
             }
             vertices {
-              x: 789
+              x: 790
               y: 429
             }
             vertices {
-              x: 789
-              y: 443
+              x: 790
+              y: 444
             }
             vertices {
-              x: 785
-              y: 443
+              x: 786
+              y: 444
             }
           }
           text: "t"
@@ -17829,20 +17829,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 791
+              x: 792
               y: 429
             }
             vertices {
-              x: 796
+              x: 797
               y: 429
             }
             vertices {
-              x: 796
-              y: 443
+              x: 797
+              y: 444
             }
             vertices {
-              x: 791
-              y: 443
+              x: 792
+              y: 444
             }
           }
           text: "r"
@@ -17856,20 +17856,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 798
+              x: 799
               y: 429
             }
             vertices {
-              x: 804
+              x: 805
               y: 429
             }
             vertices {
-              x: 804
-              y: 443
+              x: 805
+              y: 444
             }
             vertices {
-              x: 798
-              y: 443
+              x: 799
+              y: 444
             }
           }
           text: "a"
@@ -17886,24 +17886,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 807
+              x: 808
               y: 429
             }
             vertices {
-              x: 812
+              x: 813
               y: 429
             }
             vertices {
-              x: 812
-              y: 443
+              x: 813
+              y: 444
             }
             vertices {
-              x: 807
-              y: 443
+              x: 808
+              y: 444
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -18091,7 +18091,7 @@ pages {
             }
           }
           text: "f"
-          confidence: 1.0
+          confidence: 0.9700000286102295
         }
         symbols {
           property {
@@ -18229,7 +18229,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         confidence: 0.9900000095367432
       }
@@ -18510,7 +18510,7 @@ pages {
       confidence: 0.9900000095367432
     }
     block_type: TEXT
-    confidence: 0.9900000095367432
+    confidence: 0.9800000190734863
   }
   blocks {
     property {
@@ -18522,19 +18522,19 @@ pages {
     bounding_box {
       vertices {
         x: 946
-        y: 373
+        y: 372
       }
       vertices {
         x: 1054
-        y: 373
+        y: 372
       }
       vertices {
         x: 1054
-        y: 459
+        y: 460
       }
       vertices {
         x: 946
-        y: 459
+        y: 460
       }
     }
     paragraphs {
@@ -18547,19 +18547,19 @@ pages {
       bounding_box {
         vertices {
           x: 949
-          y: 373
+          y: 372
         }
         vertices {
           x: 1051
-          y: 373
+          y: 372
         }
         vertices {
           x: 1051
-          y: 413
+          y: 414
         }
         vertices {
           x: 949
-          y: 413
+          y: 414
         }
       }
       words {
@@ -18571,19 +18571,19 @@ pages {
         bounding_box {
           vertices {
             x: 949
-            y: 373
+            y: 372
           }
           vertices {
             x: 959
-            y: 373
+            y: 372
           }
           vertices {
             x: 959
-            y: 395
+            y: 394
           }
           vertices {
             x: 949
-            y: 395
+            y: 394
           }
         }
         symbols {
@@ -18598,19 +18598,19 @@ pages {
           bounding_box {
             vertices {
               x: 949
-              y: 373
+              y: 372
             }
             vertices {
               x: 959
-              y: 373
+              y: 372
             }
             vertices {
               x: 959
-              y: 395
+              y: 394
             }
             vertices {
               x: 949
-              y: 395
+              y: 394
             }
           }
           text: "A"
@@ -18627,19 +18627,19 @@ pages {
         bounding_box {
           vertices {
             x: 965
-            y: 373
+            y: 372
           }
           vertices {
             x: 1051
-            y: 373
+            y: 372
           }
           vertices {
             x: 1051
-            y: 395
+            y: 394
           }
           vertices {
             x: 965
-            y: 395
+            y: 394
           }
         }
         symbols {
@@ -18651,19 +18651,19 @@ pages {
           bounding_box {
             vertices {
               x: 965
-              y: 373
+              y: 372
             }
             vertices {
               x: 972
-              y: 373
+              y: 372
             }
             vertices {
               x: 972
-              y: 395
+              y: 394
             }
             vertices {
               x: 965
-              y: 395
+              y: 394
             }
           }
           text: "e"
@@ -18678,19 +18678,19 @@ pages {
           bounding_box {
             vertices {
               x: 974
-              y: 373
+              y: 372
             }
             vertices {
               x: 981
-              y: 373
+              y: 372
             }
             vertices {
               x: 981
-              y: 395
+              y: 394
             }
             vertices {
               x: 974
-              y: 395
+              y: 394
             }
           }
           text: "x"
@@ -18705,19 +18705,19 @@ pages {
           bounding_box {
             vertices {
               x: 983
-              y: 373
+              y: 372
             }
             vertices {
               x: 990
-              y: 373
+              y: 372
             }
             vertices {
               x: 990
-              y: 395
+              y: 394
             }
             vertices {
               x: 983
-              y: 395
+              y: 394
             }
           }
           text: "p"
@@ -18732,19 +18732,19 @@ pages {
           bounding_box {
             vertices {
               x: 993
-              y: 373
+              y: 372
             }
             vertices {
               x: 1000
-              y: 373
+              y: 372
             }
             vertices {
               x: 1000
-              y: 395
+              y: 394
             }
             vertices {
               x: 993
-              y: 395
+              y: 394
             }
           }
           text: "e"
@@ -18759,23 +18759,23 @@ pages {
           bounding_box {
             vertices {
               x: 1003
-              y: 373
+              y: 372
             }
             vertices {
               x: 1007
-              y: 373
+              y: 372
             }
             vertices {
               x: 1007
-              y: 395
+              y: 394
             }
             vertices {
               x: 1003
-              y: 395
+              y: 394
             }
           }
           text: "r"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -18786,19 +18786,19 @@ pages {
           bounding_box {
             vertices {
               x: 1010
-              y: 373
+              y: 372
             }
             vertices {
               x: 1010
-              y: 373
+              y: 372
             }
             vertices {
               x: 1010
-              y: 395
+              y: 394
             }
             vertices {
               x: 1010
-              y: 395
+              y: 394
             }
           }
           text: "i"
@@ -18813,19 +18813,19 @@ pages {
           bounding_box {
             vertices {
               x: 1013
-              y: 373
+              y: 372
             }
             vertices {
               x: 1020
-              y: 373
+              y: 372
             }
             vertices {
               x: 1020
-              y: 395
+              y: 394
             }
             vertices {
               x: 1013
-              y: 395
+              y: 394
             }
           }
           text: "\303\252"
@@ -18840,19 +18840,19 @@ pages {
           bounding_box {
             vertices {
               x: 1023
-              y: 373
+              y: 372
             }
             vertices {
               x: 1030
-              y: 373
+              y: 372
             }
             vertices {
               x: 1030
-              y: 395
+              y: 394
             }
             vertices {
               x: 1023
-              y: 395
+              y: 394
             }
           }
           text: "n"
@@ -18867,19 +18867,19 @@ pages {
           bounding_box {
             vertices {
               x: 1033
-              y: 373
+              y: 372
             }
             vertices {
               x: 1038
-              y: 373
+              y: 372
             }
             vertices {
               x: 1038
-              y: 395
+              y: 394
             }
             vertices {
               x: 1033
-              y: 395
+              y: 394
             }
           }
           text: "c"
@@ -18894,19 +18894,19 @@ pages {
           bounding_box {
             vertices {
               x: 1041
-              y: 373
+              y: 372
             }
             vertices {
               x: 1042
-              y: 373
+              y: 372
             }
             vertices {
               x: 1042
-              y: 395
+              y: 394
             }
             vertices {
               x: 1041
-              y: 395
+              y: 394
             }
           }
           text: "i"
@@ -18924,19 +18924,19 @@ pages {
           bounding_box {
             vertices {
               x: 1045
-              y: 373
+              y: 372
             }
             vertices {
               x: 1051
-              y: 373
+              y: 372
             }
             vertices {
               x: 1051
-              y: 395
+              y: 394
             }
             vertices {
               x: 1045
-              y: 395
+              y: 394
             }
           }
           text: "a"
@@ -18961,11 +18961,11 @@ pages {
           }
           vertices {
             x: 966
-            y: 413
+            y: 414
           }
           vertices {
             x: 949
-            y: 413
+            y: 414
           }
         }
         symbols {
@@ -18985,11 +18985,11 @@ pages {
             }
             vertices {
               x: 957
-              y: 413
+              y: 414
             }
             vertices {
               x: 949
-              y: 413
+              y: 414
             }
           }
           text: "d"
@@ -19015,11 +19015,11 @@ pages {
             }
             vertices {
               x: 966
-              y: 413
+              y: 414
             }
             vertices {
               x: 959
-              y: 413
+              y: 414
             }
           }
           text: "e"
@@ -19044,11 +19044,11 @@ pages {
           }
           vertices {
             x: 999
-            y: 413
+            y: 414
           }
           vertices {
             x: 973
-            y: 413
+            y: 414
           }
         }
         symbols {
@@ -19063,16 +19063,16 @@ pages {
               y: 397
             }
             vertices {
-              x: 981
+              x: 980
               y: 397
             }
             vertices {
-              x: 981
-              y: 413
+              x: 980
+              y: 414
             }
             vertices {
               x: 973
-              y: 413
+              y: 414
             }
           }
           text: "u"
@@ -19095,11 +19095,11 @@ pages {
             }
             vertices {
               x: 989
-              y: 413
+              y: 414
             }
             vertices {
               x: 983
-              y: 413
+              y: 414
             }
           }
           text: "s"
@@ -19125,11 +19125,11 @@ pages {
             }
             vertices {
               x: 999
-              y: 413
+              y: 414
             }
             vertices {
               x: 991
-              y: 413
+              y: 414
             }
           }
           text: "o"
@@ -19150,7 +19150,7 @@ pages {
           }
           vertices {
             x: 1050
-            y: 396
+            y: 395
           }
           vertices {
             x: 1050
@@ -19158,7 +19158,7 @@ pages {
           }
           vertices {
             x: 1005
-            y: 413
+            y: 414
           }
         }
         symbols {
@@ -19178,11 +19178,11 @@ pages {
             }
             vertices {
               x: 1012
-              y: 413
+              y: 414
             }
             vertices {
               x: 1005
-              y: 413
+              y: 414
             }
           }
           text: "a"
@@ -19196,19 +19196,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1016
-              y: 397
+              x: 1015
+              y: 396
             }
             vertices {
-              x: 1021
-              y: 397
+              x: 1020
+              y: 396
             }
             vertices {
-              x: 1021
+              x: 1020
               y: 413
             }
             vertices {
-              x: 1016
+              x: 1015
               y: 413
             }
           }
@@ -19223,24 +19223,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1023
-              y: 397
+              x: 1022
+              y: 396
             }
             vertices {
               x: 1027
-              y: 397
+              y: 396
             }
             vertices {
               x: 1027
               y: 413
             }
             vertices {
-              x: 1023
+              x: 1022
               y: 413
             }
           }
           text: "a"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -19251,11 +19251,11 @@ pages {
           bounding_box {
             vertices {
               x: 1031
-              y: 397
+              y: 396
             }
             vertices {
               x: 1036
-              y: 397
+              y: 396
             }
             vertices {
               x: 1036
@@ -19286,11 +19286,11 @@ pages {
             }
             vertices {
               x: 1042
-              y: 412
+              y: 413
             }
             vertices {
               x: 1038
-              y: 412
+              y: 413
             }
           }
           text: "t"
@@ -19316,11 +19316,11 @@ pages {
             }
             vertices {
               x: 1050
-              y: 412
+              y: 413
             }
             vertices {
               x: 1045
-              y: 412
+              y: 413
             }
           }
           text: "a"
@@ -19340,57 +19340,57 @@ pages {
       bounding_box {
         vertices {
           x: 946
-          y: 424
-        }
-        vertices {
-          x: 1054
           y: 423
         }
         vertices {
           x: 1054
-          y: 458
+          y: 422
+        }
+        vertices {
+          x: 1054
+          y: 459
         }
         vertices {
           x: 946
-          y: 459
+          y: 460
         }
       }
       words {
         bounding_box {
           vertices {
             x: 992
-            y: 423
+            y: 422
           }
           vertices {
-            x: 1007
-            y: 423
+            x: 1008
+            y: 422
           }
           vertices {
-            x: 1007
-            y: 435
+            x: 1008
+            y: 434
           }
           vertices {
             x: 992
-            y: 435
+            y: 434
           }
         }
         symbols {
           bounding_box {
             vertices {
               x: 992
-              y: 423
+              y: 422
             }
             vertices {
               x: 1000
-              y: 423
+              y: 422
             }
             vertices {
               x: 1000
-              y: 435
+              y: 434
             }
             vertices {
               x: 992
-              y: 435
+              y: 434
             }
           }
           text: "O"
@@ -19405,19 +19405,19 @@ pages {
           bounding_box {
             vertices {
               x: 1002
-              y: 423
+              y: 422
             }
             vertices {
-              x: 1007
-              y: 423
+              x: 1008
+              y: 422
             }
             vertices {
-              x: 1007
-              y: 435
+              x: 1008
+              y: 434
             }
             vertices {
               x: 1002
-              y: 435
+              y: 434
             }
           }
           text: "S"
@@ -19442,11 +19442,11 @@ pages {
           }
           vertices {
             x: 1046
-            y: 458
+            y: 459
           }
           vertices {
             x: 946
-            y: 459
+            y: 460
           }
         }
         symbols {
@@ -19466,11 +19466,11 @@ pages {
             }
             vertices {
               x: 952
-              y: 458
+              y: 459
             }
             vertices {
               x: 946
-              y: 458
+              y: 459
             }
           }
           text: "c"
@@ -19488,20 +19488,20 @@ pages {
               y: 443
             }
             vertices {
-              x: 962
+              x: 961
               y: 443
             }
             vertices {
-              x: 962
-              y: 458
+              x: 961
+              y: 459
             }
             vertices {
               x: 954
-              y: 458
+              y: 459
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -19520,11 +19520,11 @@ pages {
             }
             vertices {
               x: 971
-              y: 458
+              y: 459
             }
             vertices {
               x: 965
-              y: 458
+              y: 459
             }
           }
           text: "n"
@@ -19547,11 +19547,11 @@ pages {
             }
             vertices {
               x: 980
-              y: 458
+              y: 459
             }
             vertices {
               x: 974
-              y: 458
+              y: 459
             }
           }
           text: "c"
@@ -19574,11 +19574,11 @@ pages {
             }
             vertices {
               x: 990
-              y: 458
+              y: 459
             }
             vertices {
               x: 982
-              y: 458
+              y: 459
             }
           }
           text: "o"
@@ -19601,11 +19601,11 @@ pages {
             }
             vertices {
               x: 997
-              y: 458
+              y: 459
             }
             vertices {
               x: 993
-              y: 458
+              y: 459
             }
           }
           text: "r"
@@ -19623,16 +19623,16 @@ pages {
               y: 443
             }
             vertices {
-              x: 1004
+              x: 1003
               y: 443
             }
             vertices {
-              x: 1004
-              y: 458
+              x: 1003
+              y: 459
             }
             vertices {
               x: 1000
-              y: 458
+              y: 459
             }
           }
           text: "r"
@@ -19655,11 +19655,11 @@ pages {
             }
             vertices {
               x: 1013
-              y: 458
+              y: 459
             }
             vertices {
               x: 1006
-              y: 458
+              y: 459
             }
           }
           text: "e"
@@ -19674,19 +19674,19 @@ pages {
           bounding_box {
             vertices {
               x: 1016
-              y: 442
+              y: 443
             }
             vertices {
               x: 1023
-              y: 442
+              y: 443
             }
             vertices {
               x: 1023
-              y: 457
+              y: 459
             }
             vertices {
               x: 1016
-              y: 457
+              y: 459
             }
           }
           text: "n"
@@ -19709,11 +19709,11 @@ pages {
             }
             vertices {
               x: 1029
-              y: 457
+              y: 458
             }
             vertices {
               x: 1025
-              y: 457
+              y: 458
             }
           }
           text: "t"
@@ -19736,11 +19736,11 @@ pages {
             }
             vertices {
               x: 1038
-              y: 457
+              y: 458
             }
             vertices {
               x: 1031
-              y: 457
+              y: 458
             }
           }
           text: "e"
@@ -19763,11 +19763,11 @@ pages {
             }
             vertices {
               x: 1046
-              y: 457
+              y: 458
             }
             vertices {
               x: 1041
-              y: 457
+              y: 458
             }
           }
           text: "s"
@@ -19792,11 +19792,11 @@ pages {
           }
           vertices {
             x: 1054
-            y: 457
+            y: 458
           }
           vertices {
             x: 1048
-            y: 457
+            y: 458
           }
         }
         symbols {
@@ -19819,17 +19819,17 @@ pages {
             }
             vertices {
               x: 1054
-              y: 457
+              y: 458
             }
             vertices {
               x: 1048
-              y: 457
+              y: 458
             }
           }
           text: "?"
-          confidence: 0.949999988079071
+          confidence: 0.9700000286102295
         }
-        confidence: 0.949999988079071
+        confidence: 0.9700000286102295
       }
       confidence: 0.9900000095367432
     }
@@ -19850,11 +19850,11 @@ pages {
       }
       vertices {
         x: 1244
-        y: 370
+        y: 371
       }
       vertices {
         x: 1245
-        y: 461
+        y: 462
       }
       vertices {
         x: 1132
@@ -20003,11 +20003,11 @@ pages {
               y: 372
             }
             vertices {
-              x: 1176
+              x: 1177
               y: 372
             }
             vertices {
-              x: 1176
+              x: 1177
               y: 385
             }
             vertices {
@@ -20070,7 +20070,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -20129,7 +20129,7 @@ pages {
           text: "s"
           confidence: 0.9800000190734863
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9800000190734863
       }
       words {
         property {
@@ -20167,11 +20167,11 @@ pages {
               y: 372
             }
             vertices {
-              x: 1209
+              x: 1208
               y: 372
             }
             vertices {
-              x: 1209
+              x: 1208
               y: 385
             }
             vertices {
@@ -20659,11 +20659,11 @@ pages {
               y: 410
             }
             vertices {
-              x: 1137
+              x: 1138
               y: 410
             }
             vertices {
-              x: 1137
+              x: 1138
               y: 425
             }
             vertices {
@@ -20848,11 +20848,11 @@ pages {
               y: 410
             }
             vertices {
-              x: 1196
+              x: 1197
               y: 410
             }
             vertices {
-              x: 1196
+              x: 1197
               y: 425
             }
             vertices {
@@ -21272,7 +21272,7 @@ pages {
             }
           }
           text: "q"
-          confidence: 0.9599999785423279
+          confidence: 0.9399999976158142
         }
         symbols {
           property {
@@ -21286,11 +21286,11 @@ pages {
               y: 429
             }
             vertices {
-              x: 1191
+              x: 1190
               y: 429
             }
             vertices {
-              x: 1191
+              x: 1190
               y: 444
             }
             vertices {
@@ -21331,7 +21331,7 @@ pages {
           text: "e"
           confidence: 0.9800000190734863
         }
-        confidence: 0.9800000190734863
+        confidence: 0.9700000286102295
       }
       words {
         property {
@@ -21476,7 +21476,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1230
+              x: 1231
               y: 429
             }
             vertices {
@@ -21488,7 +21488,7 @@ pages {
               y: 444
             }
             vertices {
-              x: 1230
+              x: 1231
               y: 444
             }
           }
@@ -21509,7 +21509,7 @@ pages {
       bounding_box {
         vertices {
           x: 1154
-          y: 448
+          y: 447
         }
         vertices {
           x: 1222
@@ -21517,7 +21517,7 @@ pages {
         }
         vertices {
           x: 1222
-          y: 461
+          y: 462
         }
         vertices {
           x: 1154
@@ -21533,14 +21533,14 @@ pages {
         bounding_box {
           vertices {
             x: 1154
-            y: 448
-          }
-          vertices {
-            x: 1215
             y: 447
           }
           vertices {
-            x: 1215
+            x: 1216
+            y: 446
+          }
+          vertices {
+            x: 1216
             y: 462
           }
           vertices {
@@ -21557,11 +21557,11 @@ pages {
           bounding_box {
             vertices {
               x: 1154
-              y: 448
+              y: 447
             }
             vertices {
               x: 1160
-              y: 448
+              y: 447
             }
             vertices {
               x: 1160
@@ -21583,19 +21583,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1163
-              y: 448
+              x: 1162
+              y: 447
             }
             vertices {
               x: 1167
-              y: 448
+              y: 447
             }
             vertices {
               x: 1167
               y: 462
             }
             vertices {
-              x: 1163
+              x: 1162
               y: 462
             }
           }
@@ -21611,11 +21611,11 @@ pages {
           bounding_box {
             vertices {
               x: 1169
-              y: 448
+              y: 447
             }
             vertices {
               x: 1173
-              y: 448
+              y: 447
             }
             vertices {
               x: 1173
@@ -21637,19 +21637,19 @@ pages {
           }
           bounding_box {
             vertices {
+              x: 1175
+              y: 447
+            }
+            vertices {
               x: 1176
-              y: 448
+              y: 447
             }
             vertices {
-              x: 1179
-              y: 448
-            }
-            vertices {
-              x: 1179
+              x: 1176
               y: 462
             }
             vertices {
-              x: 1176
+              x: 1175
               y: 462
             }
           }
@@ -21664,24 +21664,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1180
-              y: 448
+              x: 1178
+              y: 447
             }
             vertices {
               x: 1183
-              y: 448
+              y: 447
             }
             vertices {
               x: 1183
               y: 462
             }
             vertices {
-              x: 1180
+              x: 1178
               y: 462
             }
           }
           text: "s"
-          confidence: 0.9800000190734863
+          confidence: 1.0
         }
         symbols {
           property {
@@ -21691,19 +21691,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1187
-              y: 448
+              x: 1185
+              y: 447
             }
             vertices {
-              x: 1189
-              y: 448
+              x: 1188
+              y: 447
             }
             vertices {
-              x: 1189
+              x: 1188
               y: 462
             }
             vertices {
-              x: 1187
+              x: 1185
               y: 462
             }
           }
@@ -21719,14 +21719,14 @@ pages {
           bounding_box {
             vertices {
               x: 1190
-              y: 448
+              y: 447
             }
             vertices {
-              x: 1192
-              y: 448
+              x: 1190
+              y: 447
             }
             vertices {
-              x: 1192
+              x: 1190
               y: 462
             }
             vertices {
@@ -21735,33 +21735,6 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9900000095367432
-        }
-        symbols {
-          property {
-            detected_languages {
-              language_code: "pt"
-            }
-          }
-          bounding_box {
-            vertices {
-              x: 1193
-              y: 447
-            }
-            vertices {
-              x: 1198
-              y: 447
-            }
-            vertices {
-              x: 1198
-              y: 461
-            }
-            vertices {
-              x: 1193
-              y: 461
-            }
-          }
-          text: "n"
           confidence: 1.0
         }
         symbols {
@@ -21772,20 +21745,47 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1201
+              x: 1193
               y: 447
             }
             vertices {
-              x: 1207
+              x: 1199
               y: 447
             }
             vertices {
-              x: 1207
-              y: 461
+              x: 1199
+              y: 462
             }
             vertices {
-              x: 1201
-              y: 461
+              x: 1193
+              y: 462
+            }
+          }
+          text: "n"
+          confidence: 0.9900000095367432
+        }
+        symbols {
+          property {
+            detected_languages {
+              language_code: "pt"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 1202
+              y: 447
+            }
+            vertices {
+              x: 1208
+              y: 447
+            }
+            vertices {
+              x: 1208
+              y: 462
+            }
+            vertices {
+              x: 1202
+              y: 462
             }
           }
           text: "d"
@@ -21799,19 +21799,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1211
-              y: 447
+              x: 1210
+              y: 446
             }
             vertices {
-              x: 1215
-              y: 447
+              x: 1216
+              y: 446
             }
             vertices {
-              x: 1215
+              x: 1216
               y: 461
             }
             vertices {
-              x: 1211
+              x: 1210
               y: 461
             }
           }
@@ -21828,19 +21828,19 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 1220
-            y: 447
+            x: 1218
+            y: 446
           }
           vertices {
             x: 1222
-            y: 447
+            y: 446
           }
           vertices {
             x: 1222
             y: 461
           }
           vertices {
-            x: 1220
+            x: 1218
             y: 461
           }
         }
@@ -21855,26 +21855,26 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 1220
-              y: 447
+              x: 1218
+              y: 446
             }
             vertices {
               x: 1222
-              y: 447
+              y: 446
             }
             vertices {
               x: 1222
               y: 461
             }
             vertices {
-              x: 1220
+              x: 1218
               y: 461
             }
           }
           text: "?"
-          confidence: 0.9399999976158142
+          confidence: 0.9300000071525574
         }
-        confidence: 0.9399999976158142
+        confidence: 0.9300000071525574
       }
       confidence: 0.9800000190734863
     }
@@ -21895,7 +21895,7 @@ pages {
     bounding_box {
       vertices {
         x: 614
-        y: 550
+        y: 551
       }
       vertices {
         x: 724
@@ -21903,7 +21903,7 @@ pages {
       }
       vertices {
         x: 726
-        y: 664
+        y: 663
       }
       vertices {
         x: 616
@@ -21920,19 +21920,19 @@ pages {
       bounding_box {
         vertices {
           x: 614
+          y: 551
+        }
+        vertices {
+          x: 724
           y: 550
         }
         vertices {
-          x: 724
-          y: 549
+          x: 725
+          y: 647
         }
         vertices {
-          x: 724
-          y: 597
-        }
-        vertices {
-          x: 614
-          y: 598
+          x: 615
+          y: 648
         }
       }
       words {
@@ -21947,11 +21947,11 @@ pages {
             y: 551
           }
           vertices {
-            x: 651
+            x: 650
             y: 551
           }
           vertices {
-            x: 651
+            x: 650
             y: 564
           }
           vertices {
@@ -21971,11 +21971,11 @@ pages {
               y: 551
             }
             vertices {
-              x: 644
+              x: 645
               y: 551
             }
             vertices {
-              x: 644
+              x: 645
               y: 564
             }
             vertices {
@@ -22001,11 +22001,11 @@ pages {
               y: 551
             }
             vertices {
-              x: 651
+              x: 650
               y: 551
             }
             vertices {
-              x: 651
+              x: 650
               y: 564
             }
             vertices {
@@ -22027,7 +22027,7 @@ pages {
         bounding_box {
           vertices {
             x: 657
-            y: 550
+            y: 551
           }
           vertices {
             x: 703
@@ -22035,7 +22035,7 @@ pages {
           }
           vertices {
             x: 703
-            y: 565
+            y: 564
           }
           vertices {
             x: 657
@@ -22094,7 +22094,7 @@ pages {
             }
           }
           text: "s"
-          confidence: 0.9800000190734863
+          confidence: 1.0
         }
         symbols {
           property {
@@ -22299,11 +22299,11 @@ pages {
               y: 570
             }
             vertices {
-              x: 619
+              x: 620
               y: 570
             }
             vertices {
-              x: 619
+              x: 620
               y: 583
             }
             vertices {
@@ -22326,11 +22326,11 @@ pages {
               y: 570
             }
             vertices {
-              x: 625
+              x: 626
               y: 570
             }
             vertices {
-              x: 625
+              x: 626
               y: 583
             }
             vertices {
@@ -22353,11 +22353,11 @@ pages {
               y: 570
             }
             vertices {
-              x: 633
+              x: 632
               y: 570
             }
             vertices {
-              x: 633
+              x: 632
               y: 583
             }
             vertices {
@@ -22376,7 +22376,7 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 636
+              x: 634
               y: 570
             }
             vertices {
@@ -22388,7 +22388,7 @@ pages {
               y: 583
             }
             vertices {
-              x: 636
+              x: 634
               y: 583
             }
           }
@@ -22407,11 +22407,11 @@ pages {
               y: 570
             }
             vertices {
-              x: 642
+              x: 643
               y: 570
             }
             vertices {
-              x: 642
+              x: 643
               y: 583
             }
             vertices {
@@ -22430,24 +22430,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 644
+              x: 646
               y: 570
             }
             vertices {
-              x: 648
+              x: 649
               y: 570
             }
             vertices {
-              x: 648
+              x: 649
               y: 583
             }
             vertices {
-              x: 644
+              x: 646
               y: 583
             }
           }
           text: "r"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -22488,11 +22488,11 @@ pages {
               y: 570
             }
             vertices {
-              x: 658
+              x: 657
               y: 570
             }
             vertices {
-              x: 658
+              x: 657
               y: 583
             }
             vertices {
@@ -22514,20 +22514,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 661
-              y: 569
+              x: 660
+              y: 570
             }
             vertices {
               x: 669
-              y: 569
+              y: 570
             }
             vertices {
               x: 669
-              y: 582
+              y: 583
             }
             vertices {
-              x: 661
-              y: 582
+              x: 660
+              y: 583
             }
           }
           text: "m"
@@ -22544,19 +22544,19 @@ pages {
         bounding_box {
           vertices {
             x: 674
-            y: 569
+            y: 570
           }
           vertices {
             x: 687
-            y: 569
+            y: 570
           }
           vertices {
             x: 687
-            y: 582
+            y: 583
           }
           vertices {
             x: 674
-            y: 582
+            y: 583
           }
         }
         symbols {
@@ -22568,19 +22568,19 @@ pages {
           bounding_box {
             vertices {
               x: 674
-              y: 569
+              y: 570
             }
             vertices {
-              x: 679
-              y: 569
+              x: 680
+              y: 570
             }
             vertices {
-              x: 679
-              y: 582
+              x: 680
+              y: 583
             }
             vertices {
               x: 674
-              y: 582
+              y: 583
             }
           }
           text: "d"
@@ -22598,19 +22598,19 @@ pages {
           bounding_box {
             vertices {
               x: 682
-              y: 569
+              y: 570
             }
             vertices {
               x: 687
-              y: 569
+              y: 570
             }
             vertices {
               x: 687
-              y: 582
+              y: 583
             }
             vertices {
               x: 682
-              y: 582
+              y: 583
             }
           }
           text: "e"
@@ -22627,15 +22627,15 @@ pages {
         bounding_box {
           vertices {
             x: 692
-            y: 568
+            y: 569
           }
           vertices {
             x: 724
-            y: 567
+            y: 569
           }
           vertices {
             x: 724
-            y: 581
+            y: 582
           }
           vertices {
             x: 692
@@ -22654,11 +22654,11 @@ pages {
               y: 569
             }
             vertices {
-              x: 696
+              x: 697
               y: 569
             }
             vertices {
-              x: 696
+              x: 697
               y: 582
             }
             vertices {
@@ -22677,19 +22677,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 699
+              x: 700
               y: 569
             }
             vertices {
-              x: 703
+              x: 704
               y: 569
             }
             vertices {
-              x: 703
+              x: 704
               y: 582
             }
             vertices {
-              x: 699
+              x: 700
               y: 582
             }
           }
@@ -22705,19 +22705,19 @@ pages {
           bounding_box {
             vertices {
               x: 707
-              y: 568
+              y: 569
             }
             vertices {
-              x: 712
-              y: 568
+              x: 711
+              y: 569
             }
             vertices {
-              x: 712
-              y: 581
+              x: 711
+              y: 582
             }
             vertices {
               x: 707
-              y: 581
+              y: 582
             }
           }
           text: "d"
@@ -22731,20 +22731,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 714
-              y: 568
+              x: 715
+              y: 569
             }
             vertices {
-              x: 718
-              y: 568
+              x: 720
+              y: 569
             }
             vertices {
-              x: 718
-              y: 581
+              x: 720
+              y: 582
             }
             vertices {
-              x: 714
-              y: 581
+              x: 715
+              y: 582
             }
           }
           text: "e"
@@ -22761,20 +22761,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 721
-              y: 568
+              x: 722
+              y: 569
             }
             vertices {
               x: 724
-              y: 568
+              y: 569
             }
             vertices {
               x: 724
-              y: 581
+              y: 582
             }
             vertices {
-              x: 721
-              y: 581
+              x: 722
+              y: 582
             }
           }
           text: "r"
@@ -22831,7 +22831,7 @@ pages {
             }
           }
           text: "o"
-          confidence: 0.8199999928474426
+          confidence: 0.8500000238418579
         }
         symbols {
           property {
@@ -22845,11 +22845,11 @@ pages {
               y: 585
             }
             vertices {
-              x: 641
+              x: 640
               y: 585
             }
             vertices {
-              x: 641
+              x: 640
               y: 598
             }
             vertices {
@@ -22858,7 +22858,7 @@ pages {
             }
           }
           text: "u"
-          confidence: 0.8399999737739563
+          confidence: 0.8500000238418579
         }
         symbols {
           property {
@@ -22885,7 +22885,7 @@ pages {
             }
           }
           text: "v"
-          confidence: 0.9100000262260437
+          confidence: 0.9200000166893005
         }
         symbols {
           property {
@@ -22912,7 +22912,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9399999976158142
+          confidence: 0.949999988079071
         }
         symbols {
           property {
@@ -22942,9 +22942,9 @@ pages {
             }
           }
           text: "r"
-          confidence: 0.9599999785423279
+          confidence: 0.9700000286102295
         }
-        confidence: 0.8899999856948853
+        confidence: 0.8999999761581421
       }
       words {
         property {
@@ -23092,11 +23092,11 @@ pages {
               y: 585
             }
             vertices {
-              x: 684
+              x: 683
               y: 585
             }
             vertices {
-              x: 684
+              x: 683
               y: 598
             }
             vertices {
@@ -23221,7 +23221,7 @@ pages {
               language_code: "pt"
             }
             detected_break {
-              type_: LINE_BREAK
+              type_: EOL_SURE_SPACE
             }
           }
           bounding_box {
@@ -23247,33 +23247,6 @@ pages {
         }
         confidence: 0.9900000095367432
       }
-      confidence: 0.9700000286102295
-    }
-    paragraphs {
-      property {
-        detected_languages {
-          language_code: "pt"
-          confidence: 1.0
-        }
-      }
-      bounding_box {
-        vertices {
-          x: 627
-          y: 603
-        }
-        vertices {
-          x: 711
-          y: 603
-        }
-        vertices {
-          x: 711
-          y: 646
-        }
-        vertices {
-          x: 627
-          y: 646
-        }
-      }
       words {
         property {
           detected_languages {
@@ -23282,20 +23255,20 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 637
-            y: 603
+            x: 636
+            y: 604
           }
           vertices {
-            x: 680
-            y: 603
+            x: 679
+            y: 602
           }
           vertices {
-            x: 680
+            x: 679
             y: 615
           }
           vertices {
             x: 637
-            y: 615
+            y: 617
           }
         }
         symbols {
@@ -23306,24 +23279,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 637
-              y: 603
+              x: 636
+              y: 604
             }
             vertices {
-              x: 641
-              y: 603
+              x: 640
+              y: 604
             }
             vertices {
-              x: 641
-              y: 615
+              x: 640
+              y: 616
             }
             vertices {
-              x: 637
-              y: 615
+              x: 636
+              y: 616
             }
           }
           text: "s"
-          confidence: 0.9800000190734863
+          confidence: 0.7799999713897705
         }
         symbols {
           property {
@@ -23333,20 +23306,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 643
-              y: 603
+              x: 641
+              y: 604
             }
             vertices {
-              x: 647
-              y: 603
+              x: 645
+              y: 604
             }
             vertices {
-              x: 647
-              y: 615
+              x: 645
+              y: 616
             }
             vertices {
-              x: 643
-              y: 615
+              x: 641
+              y: 616
             }
           }
           text: "o"
@@ -23360,24 +23333,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 650
-              y: 603
+              x: 648
+              y: 604
             }
             vertices {
-              x: 654
-              y: 603
+              x: 653
+              y: 604
             }
             vertices {
-              x: 654
-              y: 615
+              x: 653
+              y: 616
             }
             vertices {
-              x: 650
-              y: 615
+              x: 648
+              y: 616
             }
           }
           text: "n"
-          confidence: 0.9900000095367432
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -23387,24 +23360,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 658
+              x: 657
               y: 603
             }
             vertices {
-              x: 662
+              x: 661
               y: 603
             }
             vertices {
-              x: 662
+              x: 661
               y: 615
             }
             vertices {
-              x: 658
+              x: 657
               y: 615
             }
           }
           text: "o"
-          confidence: 0.9900000095367432
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -23414,19 +23387,19 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 664
+              x: 663
               y: 603
             }
             vertices {
-              x: 668
+              x: 666
               y: 603
             }
             vertices {
-              x: 668
+              x: 666
               y: 615
             }
             vertices {
-              x: 664
+              x: 663
               y: 615
             }
           }
@@ -23441,24 +23414,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 671
+              x: 668
               y: 603
             }
             vertices {
-              x: 675
+              x: 673
               y: 603
             }
             vertices {
-              x: 675
+              x: 673
               y: 615
             }
             vertices {
-              x: 671
+              x: 668
               y: 615
             }
           }
           text: "a"
-          confidence: 0.9900000095367432
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -23471,26 +23444,26 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 678
+              x: 676
               y: 603
             }
             vertices {
-              x: 680
+              x: 679
               y: 603
             }
             vertices {
-              x: 680
+              x: 679
               y: 615
             }
             vertices {
-              x: 678
+              x: 676
               y: 615
             }
           }
           text: "s"
-          confidence: 0.9900000095367432
+          confidence: 0.9800000190734863
         }
-        confidence: 0.9800000190734863
+        confidence: 0.949999988079071
       }
       words {
         property {
@@ -23500,16 +23473,16 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 685
-            y: 603
+            x: 684
+            y: 602
+          }
+          vertices {
+            x: 703
+            y: 601
           }
           vertices {
             x: 704
-            y: 603
-          }
-          vertices {
-            x: 704
-            y: 615
+            y: 614
           }
           vertices {
             x: 685
@@ -23524,24 +23497,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 685
-              y: 603
+              x: 684
+              y: 602
             }
             vertices {
-              x: 690
-              y: 603
+              x: 689
+              y: 602
             }
             vertices {
-              x: 690
-              y: 615
+              x: 689
+              y: 614
             }
             vertices {
-              x: 685
-              y: 615
+              x: 684
+              y: 614
             }
           }
           text: "d"
-          confidence: 0.9900000095367432
+          confidence: 0.9800000190734863
         }
         symbols {
           property {
@@ -23551,20 +23524,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 693
-              y: 603
+              x: 692
+              y: 602
             }
             vertices {
-              x: 698
-              y: 603
+              x: 696
+              y: 602
             }
             vertices {
-              x: 698
-              y: 615
+              x: 696
+              y: 614
             }
             vertices {
-              x: 693
-              y: 615
+              x: 692
+              y: 614
             }
           }
           text: "o"
@@ -23582,25 +23555,25 @@ pages {
           bounding_box {
             vertices {
               x: 700
-              y: 603
+              y: 602
             }
             vertices {
-              x: 704
-              y: 603
+              x: 703
+              y: 602
             }
             vertices {
-              x: 704
-              y: 615
+              x: 703
+              y: 614
             }
             vertices {
               x: 700
-              y: 615
+              y: 614
             }
           }
           text: "s"
           confidence: 0.9900000095367432
         }
-        confidence: 0.9900000095367432
+        confidence: 0.9800000190734863
       }
       words {
         property {
@@ -24042,20 +24015,20 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 627
-            y: 634
+            x: 628
+            y: 635
           }
           vertices {
-            x: 694
-            y: 634
+            x: 695
+            y: 635
           }
           vertices {
-            x: 694
-            y: 646
+            x: 695
+            y: 647
           }
           vertices {
-            x: 627
-            y: 646
+            x: 628
+            y: 647
           }
         }
         symbols {
@@ -24066,20 +24039,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 627
-              y: 634
+              x: 628
+              y: 635
             }
             vertices {
-              x: 632
-              y: 634
+              x: 633
+              y: 635
             }
             vertices {
-              x: 632
-              y: 646
+              x: 633
+              y: 647
             }
             vertices {
-              x: 627
-              y: 646
+              x: 628
+              y: 647
             }
           }
           text: "d"
@@ -24093,24 +24066,24 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 634
-              y: 634
+              x: 636
+              y: 635
+            }
+            vertices {
+              x: 638
+              y: 635
+            }
+            vertices {
+              x: 638
+              y: 647
             }
             vertices {
               x: 636
-              y: 634
-            }
-            vertices {
-              x: 636
-              y: 646
-            }
-            vertices {
-              x: 634
-              y: 646
+              y: 647
             }
           }
           text: "i"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -24120,20 +24093,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 638
-              y: 634
+              x: 639
+              y: 635
             }
             vertices {
-              x: 640
-              y: 634
+              x: 641
+              y: 635
             }
             vertices {
-              x: 640
-              y: 646
+              x: 641
+              y: 647
             }
             vertices {
-              x: 638
-              y: 646
+              x: 639
+              y: 647
             }
           }
           text: "r"
@@ -24147,20 +24120,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 642
-              y: 634
+              x: 644
+              y: 635
             }
             vertices {
               x: 647
-              y: 634
+              y: 635
             }
             vertices {
               x: 647
-              y: 646
+              y: 647
             }
             vertices {
-              x: 642
-              y: 646
+              x: 644
+              y: 647
             }
           }
           text: "e"
@@ -24175,23 +24148,23 @@ pages {
           bounding_box {
             vertices {
               x: 649
-              y: 634
+              y: 635
             }
             vertices {
-              x: 652
-              y: 634
+              x: 653
+              y: 635
             }
             vertices {
-              x: 652
-              y: 646
+              x: 653
+              y: 647
             }
             vertices {
               x: 649
-              y: 646
+              y: 647
             }
           }
           text: "t"
-          confidence: 1.0
+          confidence: 0.9900000095367432
         }
         symbols {
           property {
@@ -24201,20 +24174,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 654
-              y: 634
+              x: 655
+              y: 635
             }
             vertices {
-              x: 656
-              y: 634
+              x: 657
+              y: 635
             }
             vertices {
-              x: 656
-              y: 646
+              x: 657
+              y: 647
             }
             vertices {
-              x: 654
-              y: 646
+              x: 655
+              y: 647
             }
           }
           text: "a"
@@ -24228,20 +24201,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 659
-              y: 634
+              x: 660
+              y: 635
             }
             vertices {
               x: 666
-              y: 634
+              y: 635
             }
             vertices {
               x: 666
-              y: 646
+              y: 647
             }
             vertices {
-              x: 659
-              y: 646
+              x: 660
+              y: 647
             }
           }
           text: "m"
@@ -24255,20 +24228,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 671
-              y: 634
+              x: 672
+              y: 635
             }
             vertices {
-              x: 676
-              y: 634
+              x: 677
+              y: 635
             }
             vertices {
-              x: 676
-              y: 646
+              x: 677
+              y: 647
             }
             vertices {
-              x: 671
-              y: 646
+              x: 672
+              y: 647
             }
           }
           text: "e"
@@ -24282,20 +24255,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 678
-              y: 634
+              x: 679
+              y: 635
             }
             vertices {
-              x: 682
-              y: 634
+              x: 683
+              y: 635
             }
             vertices {
-              x: 682
-              y: 646
+              x: 683
+              y: 647
             }
             vertices {
-              x: 678
-              y: 646
+              x: 679
+              y: 647
             }
           }
           text: "n"
@@ -24309,20 +24282,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 685
-              y: 634
+              x: 686
+              y: 635
             }
             vertices {
               x: 688
-              y: 634
+              y: 635
             }
             vertices {
               x: 688
-              y: 646
+              y: 647
             }
             vertices {
-              x: 685
-              y: 646
+              x: 686
+              y: 647
             }
           }
           text: "t"
@@ -24339,20 +24312,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 691
-              y: 634
+              x: 692
+              y: 635
             }
             vertices {
-              x: 694
-              y: 634
+              x: 695
+              y: 635
             }
             vertices {
-              x: 694
-              y: 646
+              x: 695
+              y: 647
             }
             vertices {
-              x: 691
-              y: 646
+              x: 692
+              y: 647
             }
           }
           text: "e"
@@ -24368,20 +24341,20 @@ pages {
         }
         bounding_box {
           vertices {
-            x: 700
-            y: 634
+            x: 701
+            y: 635
           }
           vertices {
-            x: 711
-            y: 634
+            x: 712
+            y: 635
           }
           vertices {
-            x: 711
-            y: 646
+            x: 712
+            y: 647
           }
           vertices {
-            x: 700
-            y: 646
+            x: 701
+            y: 647
           }
         }
         symbols {
@@ -24392,20 +24365,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 700
-              y: 634
+              x: 701
+              y: 635
             }
             vertices {
-              x: 704
-              y: 634
+              x: 706
+              y: 635
             }
             vertices {
-              x: 704
-              y: 646
+              x: 706
+              y: 647
             }
             vertices {
-              x: 700
-              y: 646
+              x: 701
+              y: 647
             }
           }
           text: "d"
@@ -24422,20 +24395,20 @@ pages {
           }
           bounding_box {
             vertices {
-              x: 707
-              y: 634
+              x: 708
+              y: 635
             }
             vertices {
-              x: 711
-              y: 634
+              x: 712
+              y: 635
             }
             vertices {
-              x: 711
-              y: 646
+              x: 712
+              y: 647
             }
             vertices {
-              x: 707
-              y: 646
+              x: 708
+              y: 647
             }
           }
           text: "a"
@@ -24443,7 +24416,7 @@ pages {
         }
         confidence: 1.0
       }
-      confidence: 0.9900000095367432
+      confidence: 0.9800000190734863
     }
     paragraphs {
       property {
@@ -24546,7 +24519,7 @@ pages {
             }
           }
           text: "e"
-          confidence: 0.9900000095367432
+          confidence: 1.0
         }
         symbols {
           property {
@@ -24614,11 +24587,11 @@ pages {
               y: 650
             }
             vertices {
-              x: 679
+              x: 678
               y: 650
             }
             vertices {
-              x: 679
+              x: 678
               y: 663
             }
             vertices {
@@ -24654,7 +24627,7 @@ pages {
             }
           }
           text: "i"
-          confidence: 0.9800000190734863
+          confidence: 0.9399999976158142
         }
         symbols {
           property {
@@ -24693,162 +24666,5 @@ pages {
     block_type: TEXT
     confidence: 0.9800000190734863
   }
-  blocks {
-    bounding_box {
-      vertices {
-        x: 1244
-        y: 711
-      }
-      vertices {
-        x: 1285
-        y: 711
-      }
-      vertices {
-        x: 1285
-        y: 727
-      }
-      vertices {
-        x: 1244
-        y: 727
-      }
-    }
-    paragraphs {
-      bounding_box {
-        vertices {
-          x: 1244
-          y: 711
-        }
-        vertices {
-          x: 1285
-          y: 711
-        }
-        vertices {
-          x: 1285
-          y: 727
-        }
-        vertices {
-          x: 1244
-          y: 727
-        }
-      }
-      words {
-        bounding_box {
-          vertices {
-            x: 1244
-            y: 711
-          }
-          vertices {
-            x: 1285
-            y: 711
-          }
-          vertices {
-            x: 1285
-            y: 727
-          }
-          vertices {
-            x: 1244
-            y: 727
-          }
-        }
-        symbols {
-          bounding_box {
-            vertices {
-              x: 1244
-              y: 711
-            }
-            vertices {
-              x: 1258
-              y: 711
-            }
-            vertices {
-              x: 1258
-              y: 727
-            }
-            vertices {
-              x: 1244
-              y: 727
-            }
-          }
-          text: "m"
-          confidence: 0.9900000095367432
-        }
-        symbols {
-          bounding_box {
-            vertices {
-              x: 1262
-              y: 711
-            }
-            vertices {
-              x: 1264
-              y: 711
-            }
-            vertices {
-              x: 1264
-              y: 727
-            }
-            vertices {
-              x: 1262
-              y: 727
-            }
-          }
-          text: "i"
-          confidence: 1.0
-        }
-        symbols {
-          bounding_box {
-            vertices {
-              x: 1268
-              y: 711
-            }
-            vertices {
-              x: 1273
-              y: 711
-            }
-            vertices {
-              x: 1273
-              y: 727
-            }
-            vertices {
-              x: 1268
-              y: 727
-            }
-          }
-          text: "r"
-          confidence: 0.9900000095367432
-        }
-        symbols {
-          property {
-            detected_break {
-              type_: LINE_BREAK
-            }
-          }
-          bounding_box {
-            vertices {
-              x: 1275
-              y: 711
-            }
-            vertices {
-              x: 1285
-              y: 711
-            }
-            vertices {
-              x: 1285
-              y: 727
-            }
-            vertices {
-              x: 1275
-              y: 727
-            }
-          }
-          text: "o"
-          confidence: 0.9800000190734863
-        }
-        confidence: 0.9900000095367432
-      }
-      confidence: 0.9900000095367432
-    }
-    block_type: TEXT
-    confidence: 0.9900000095367432
-  }
 }
-text: "Certezas\nSuposi\303\247\303\265es\nD\303\272vidas\nA netflix abriu o\nmercado de\nstreaming e hoje\npossui grandes\nconcorrentes de\nmercado\nProdu\303\247\303\265es\npr\303\263prias s\303\243o\ngrandes\nsucessos\nAs sugest\303\265es\nde filmes e\ns\303\251ries n\303\243o\nsatisfazem os\nusu\303\241rios\nAs categorias\npoderiam ter um\nsubmenu com a\norigem de cada\ns\303\251rie ou filme\nOs usu\303\241rios\ngostariam de\nperfis\nindependentes?\nA falta de\nconte\303\272do infantil\nfaz os usu\303\241rios\nprocurarem os\nconcorrentes?\nNetflix est\303\241\npreocupada\ncom o\nlan\303\247amento da\nDisney+\nUma das\nplataformas\nde stream\nnais utilizadas\nOs usu\303\241rios\ngostariam de\nsaber quais\nfilmes cada ator\nou atriz fizeram\nDiminui\303\247\303\243o de\nclientes devido\na outras\nplataformas\nde stream\nA experi\303\252ncia\nde uso afasta\nOS\nconcorrentes?\nUsu\303\241rios tem\nproblemas em\nacompanhar cada\ns\303\251rie que est\303\243o\nassistindo?\nOs usu\303\241rios\ngostariam de poder\nouvir as trilhas\nsonoras dos\nfilmes/s\303\251ries\ndiretamente da\nNetflix\nmiro\n"
+text: "Certezas\nSuposi\303\247\303\265es\nD\303\272vidas\nA netflix abriu o\nmercado de\nstreaming e hoje\npossui grandes\nconcorrentes de\nmercado\nProdu\303\247\303\265es\npr\303\263prias s\303\243o\ngrandes\nsucessos\nAs sugest\303\265es\nde filmes e\ns\303\251ries n\303\243o\nsatisfazem os\nusu\303\241rios\nAs categorias\npoderiam ter um\nsubmenu com a\norigem de cada\ns\303\251rie ou filme\nOs usu\303\241rios\ngostariam de\nperfis\nindependentes?\nA falta de\nconte\303\272do infantil\nfaz os usu\303\241rios\nprocurarem os\nconcorrentes?\nNetflix est\303\241\npreocupada\ncom o\nlan\303\247amento da\nDisney+\nUma das\nplataformas\nde stream\nnais utilizadas\nOs usu\303\241rios\ngostariam de\nsaber quais\nfilmes cada ator\nou atriz fizeram\nDiminui\303\247\303\243o de\nclientes devido\na outras\nplataformas\nde stream\nA experi\303\252ncia\nde uso afasta\nOS\nconcorrentes?\nUsu\303\241rios tem\nproblemas em\nacompanhar cada\ns\303\251rie que est\303\243o\nassistindo?\nOs usu\303\241rios\ngostariam de poder\nouvir as trilhas\nsonoras dos\nfilmes/s\303\251ries\ndiretamente da\nNetflix\n"

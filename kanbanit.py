@@ -60,9 +60,12 @@ def build_reports_batch():
 # "Batch call" to the images and files in the project
 if __name__ == '__main__':
     # batch_call_api()
-    build_reports_batch()
+    # build_reports_batch()
 
-    # For individual testing
-    # jsons_dir = os.path.abspath('Responses/Jsons/')
-    # kanban = Functions.read_jkanban(jsons_dir + '/' + 'Kanban-20-joutput.json')
-    # Functions.kanban_report(kanban, 'report-{}'.format('test'))
+     # For individual testing
+    file_dir = os.path.abspath('Images/')
+    call_api(file_dir, 'Kanban-2.jpeg')
+    
+    jsons_dir = os.path.abspath('Responses/Jsons/')
+    kanban = Functions.read_jkanban(jsons_dir + '/' + 'Kanban-2-joutput.json')
+    Functions.kanban_report(kanban, 'report-{}'.format('Kanban-2'))
