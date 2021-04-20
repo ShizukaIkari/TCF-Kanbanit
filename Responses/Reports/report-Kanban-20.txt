@@ -1,4 +1,4 @@
-Kanban image name: Kanban-20-joutput
+Kanban image name: Kanban-20
 # of Sections: 3
 # of Cards: 6
 Kanban Content:

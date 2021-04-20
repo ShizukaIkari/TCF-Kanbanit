@@ -149,7 +149,7 @@ def read_jkanban(file_name):
     # Creates a Board object, using the name of the json file as title
     my_kanban = Board.Board()
     json_name = file_name.split('/')[-1]
-    my_kanban.set_title(json_name.split('.')[0])
+    my_kanban.set_title(json_name.split('-joutput')[0])
 
     with open(file_name, encoding='cp1252', errors='ignore') as jkanban:
         my_jkanban = json.load(jkanban)
